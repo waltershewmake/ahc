@@ -1,0 +1,2642 @@
+name,parent_name,desc,rank
+gi-G-QSQM,gi-G-3H66,"Caprimulgus vexillarius (Gould, 1838)",species
+gi-G-3H66,gi-G-7PQ,"Caprimulgus Linnaeus, 1758",genus
+gi-G-7PQ,gi-G-VJ,Caprimulgidae,family
+gi-G-VJ,gi-G-V2,Caprimulgiformes,order
+gi-G-V2,gi-G-9CK8W,Aves,class
+gi-G-9CK8W,gi-G-8VVWB,Tetrapoda,megaclass
+gi-G-8VVWB,gi-G-8V4V5,Osteichthyes,parvphylum
+gi-G-8V4V5,gi-G-8V4V3,Gnathostomata,infraphylum
+gi-G-8V4V3,gi-G-CH2,Vertebrata,subphylum
+gi-G-CH2,gi-G-N,Chordata,phylum
+gi-G-N,gi-G-5T6MX,Animalia,kingdom
+gi-G-5T6MX,gi-G-,Biota,unranked
+gi-G-5Y9B7,gi-G-3NSK,"Chlorostilbon alice (Bourcier & Mulsant, 1848)",species
+gi-G-3NSK,gi-G-KGD,"Chlorostilbon Gould, 1853",genus
+gi-G-KGD,gi-G-HHZ,Trochilinae,subfamily
+gi-G-HHZ,gi-G-Q9,Trochilidae,family
+gi-G-Q9,gi-G-V2,Apodiformes,order
+gi-G-4Y76X,gi-G-7JH2,Solidago capulinensis Cockerell & D. M. Andrews,species
+gi-G-7JH2,gi-G-J6T,Solidago L.,genus
+gi-G-J6T,gi-G-622TP,Asteroideae (Cass.) Lindl.,subfamily
+gi-G-622TP,gi-G-ST,Asteraceae Dumort.,family
+gi-G-ST,gi-G-MG,Asterales,order
+gi-G-MG,gi-G-TP,Magnoliopsida,class
+gi-G-TP,gi-G-P,Tracheophyta,phylum
+gi-G-P,gi-G-5T6MX,Plantae,kingdom
+gi-G-4Z9B6,gi-G-7LGD,"Spizocorys starki (Shelley, 1902)",species
+gi-G-7LGD,gi-G-667,"Spizocorys Sundevall, 1872",genus
+gi-G-667,gi-G-3RL,"Alaudidae Vigors, 1825",family
+gi-G-3RL,gi-G-V2,Passeriformes,order
+gi-G-3F6ZR,gi-G-4LYK,"Gallotia stehlini (Schenkel, 1901)",species
+gi-G-4LYK,gi-G-6258X,Gallotia,genus
+gi-G-6258X,gi-G-8SF9P,Lacertidae,family
+gi-G-8SF9P,gi-G-BXVXG,Lacertoidea,superfamily
+gi-G-BXVXG,gi-G-9CK8W,Squamata,order
+gi-G-6LWMB,gi-G-4XGJ,"Hipposideros calcaratus (Dobson, 1877)",species
+gi-G-4XGJ,gi-G-B3M,"Hipposideros Gray, 1831",genus
+gi-G-B3M,gi-G-5M3,"Hipposideridae Lydekker, 1891",family
+gi-G-5M3,gi-G-4FY,"Rhinolophoidea Gray, 1825",superfamily
+gi-G-4FY,gi-G-B6L7G,"Yinpterochiroptera Springer, Teeling, Madsen, Stanhope & Jong, 2001",suborder
+gi-G-B6L7G,gi-G-LG,"Chiroptera Blumenbach, 1779",order
+gi-G-LG,gi-G-924GT,"Eutheria Gill, 1872",infraclass
+gi-G-924GT,gi-G-BMGVD,"Theria Parker & Haswell, 1897",subclass
+gi-G-BMGVD,gi-G-9CK8W,"Mammalia Linnaeus, 1758",class
+gi-G-4WHHG,gi-G-7FH7,"Semnopithecus entellus (Dufresne, 1797)",species
+gi-G-7FH7,gi-G-L6B,"Semnopithecus Desmarest, 1822",genus
+gi-G-L6B,gi-G-JCX,"Presbytini Gray, 1825",tribe
+gi-G-JCX,gi-G-7X9,"Colobinae Jerdon, 1867",subfamily
+gi-G-7X9,gi-G-4X9,"Cercopithecidae Gray, 1821",family
+gi-G-4X9,gi-G-4PM,"Cercopithecoidea Gray, 1821",superfamily
+gi-G-4PM,gi-G-4DT,"Simiiformes Haeckel, 1866",infraorder
+gi-G-4DT,gi-G-BMGW3,"Haplorrhini Pocock, 1918",suborder
+gi-G-BMGW3,gi-G-LG,"Primates Linnaeus, 1758",order
+gi-G-42GXZ,gi-G-5QXF,Metopium toxiferum (L.) Krug & Urb.,species
+gi-G-5QXF,gi-G-6CK,Metopium P. Browne,genus
+gi-G-6CK,gi-G-B7VXJ,Anacardiaceae R. Br.,family
+gi-G-B7VXJ,gi-G-MG,Sapindales Juss. ex Bercht. & J. Presl,order
+gi-G-3BFM3,gi-G-62RST,"Erythropygia leucosticta (Sharpe, 1883)",species
+gi-G-62RST,gi-G-CZN,"Erythropygia A. Smith, 1836",genus
+gi-G-CZN,gi-G-3RL,"Muscicapidae Fleming, 1822",family
+gi-G-5XZ76,gi-G-3NSK,"Chlorostilbon stenurus (Cabanis & Heine, 1860)",species
+gi-G-6J7L3,gi-G-4KDM,Flaveria linearis Lag.,species
+gi-G-4KDM,gi-G-J6T,Flaveria Juss.,genus
+gi-G-7VV8B,gi-G-8P3R7,"Microtus (Mynomes) townsendii (Bachman, 1839)",species
+gi-G-8P3R7,gi-G-5SL9,"Mynomes Rafinesque, 1817",subgenus
+gi-G-5SL9,gi-G-B6MFZ,"Microtus Schrank, 1798",genus
+gi-G-B6MFZ,gi-G-8P5,"Arvicolinae Gray, 1821",subfamily
+gi-G-8P5,gi-G-622LW,"Cricetidae Fischer, 1817",family
+gi-G-622LW,gi-G-622X6,"Muroidea Illiger, 1811",superfamily
+gi-G-622X6,gi-G-B6L6L,"Myomorpha Brandt, 1855",suborder
+gi-G-B6L6L,gi-G-LG,"Rodentia Bowdich, 1821",order
+gi-G-FCWV,gi-G-YDD,"Aphelocoma ultramarina (Bonaparte, 1825)",species
+gi-G-YDD,gi-G-8L6,"Aphelocoma Cabanis, 1851",genus
+gi-G-8L6,gi-G-3RL,"Corvidae Leach, 1820",family
+gi-G-5ZTVP,gi-G-3TD3,"Conolophus marthae Gentile & Snell, 2009",species
+gi-G-3TD3,gi-G-BDL,Conolophus,genus
+gi-G-BDL,gi-G-87BW7,Iguanidae,family
+gi-G-87BW7,gi-G-BXVXG,Iguania,superfamily
+gi-G-4Q7Y8,gi-G-74ZY,"Ptilocichla leucogrammica (Bonaparte, 1850)",species
+gi-G-74ZY,gi-G-6264V,"Ptilocichla Sharpe, 1877",genus
+gi-G-6264V,gi-G-3RL,"Pellorneidae Vigors & Delacour, 1946",family
+gi-G-NZ6L,gi-G-62HVJ,"Butorides sundevalli (Reichenow, 1877)",species
+gi-G-62HVJ,gi-G-J6C,"Butorides Blyth, 1852",genus
+gi-G-J6C,gi-G-6PB,"Ardeinae Leach, 1820",subfamily
+gi-G-6PB,gi-G-3RZ,"Ardeidae Leach, 1820",family
+gi-G-3RZ,gi-G-V2,Pelecaniformes,order
+gi-G-9KFLH,gi-G-62Z2Q,Lindera benzoin (L.) Blume,species
+gi-G-62Z2Q,gi-G-BTB,Lindera (Adans.) Thunb.,genus
+gi-G-BTB,gi-G-BMGVF,Lauraceae Juss.,family
+gi-G-BMGVF,gi-G-MG,Laurales Juss. ex Bercht. & J. Presl,order
+gi-G-45ZS2,gi-G-5Y6J,"Necromys lasiurus (Lund, 1841)",species
+gi-G-5Y6J,gi-G-93N26,"Necromys Ameghino, 1889",genus
+gi-G-93N26,gi-G-8P5,"Sigmodontinae Wagner, 1843",subfamily
+gi-G-93W3,gi-G-627QR,"Accipiter tachiro (Daudin, 1800)",species
+gi-G-627QR,gi-G-5W6,"Accipiter Brisson, 1760",genus
+gi-G-5W6,gi-G-MB,"Accipitridae Vigors, 1824",family
+gi-G-MB,gi-G-V2,Accipitriformes,order
+gi-G-6V7L5,gi-G-63N2W,Phacelia hastata Douglas ex Lehm.,species
+gi-G-63N2W,gi-G-B8V,Phacelia Juss.,genus
+gi-G-B8V,gi-G-BMH4M,Hydrophyllaceae R. Br.,family
+gi-G-BMH4M,gi-G-MG,Boraginales Juss. ex Bercht. & J. Presl,order
+gi-G-3KTMF,gi-G-637C9,"Hemitriccus minimus (Todd, 1925)",species
+gi-G-637C9,gi-G-HMW,"Hemitriccus Cabanis & Heine, 1859",genus
+gi-G-HMW,gi-G-3RL,Tyrannidae,family
+gi-G-4DJH7,gi-G-6HJY,"Pardirallus maculatus (Boddaert, 1783)",species
+gi-G-6HJY,gi-G-FJ9,"Pardirallus Bonaparte, 1856",genus
+gi-G-FJ9,gi-G-6223K,Rallidae,family
+gi-G-6223K,gi-G-V2,Gruiformes,order
+gi-G-7WRTQ,gi-G-8P3ZG,"Salpingotus (Prosalpingotus) thomasi Vinogradov, 1928",species
+gi-G-8P3ZG,gi-G-643NN,"Prosalpingotus Vorontsov & Shenbrot, 1984",subgenus
+gi-G-643NN,gi-G-6274C,"Salpingotus Vinogradov, 1922",genus
+gi-G-6274C,gi-G-9CB,"Cardiocraniinae Vinogradov, 1925",subfamily
+gi-G-9CB,gi-G-537,"Dipodidae Fischer de Waldheim, 1817",family
+gi-G-537,gi-G-622X6,"Dipodoidea Fischer de Waldheim, 1817",superfamily
+gi-G-6NTZM,gi-G-62W3P,"Lalage leucopygialis Walden, 1872",species
+gi-G-62W3P,gi-G-7MZ,"Lalage F. Boie, 1826",genus
+gi-G-7MZ,gi-G-3RL,"Campephagidae Vigors, 1825",family
+gi-G-6VZ83,gi-G-63PJP,"Protographium philolaus (Boisduval, 1836)",species
+gi-G-63PJP,gi-G-DX5,Protographium,genus
+gi-G-DX5,gi-G-5G9,Papilionidae,family
+gi-G-5G9,gi-G-BJ5MJ,Papilionoidea,superfamily
+gi-G-BJ5MJ,gi-G-H6,"Lepidoptera Linnaeus, 1758",order
+gi-G-H6,gi-G-RT,Insecta,class
+gi-G-RT,gi-G-N,Arthropoda,phylum
+gi-G-4PZZ4,gi-G-74SV,"Pteronotropis merlini (Suttkus & Mettee, 2001)",species
+gi-G-74SV,gi-G-6248Q,Pteronotropis,genus
+gi-G-6248Q,gi-G-334,Cyprinidae,family
+gi-G-334,gi-G-BXVWY,Cypriniformes,order
+gi-G-BXVWY,gi-G-8VVWB,Actinopterygii,class
+gi-G-CKF6,gi-G-TC4,"Amazona tucumana (Cabanis, 1885)",species
+gi-G-TC4,gi-G-628M9,"Amazona Lesson, 1830",genus
+gi-G-628M9,gi-G-FBD,Psittacinae,subfamily
+gi-G-FBD,gi-G-3X7,Psittacidae,family
+gi-G-3X7,gi-G-V2,Psittaciformes,order
+gi-G-3BCTV,gi-G-63447,Erythranthe rubella (A. Gray) N. S. Fraga,species
+gi-G-63447,gi-G-625ZW,Erythranthe Spach,genus
+gi-G-625ZW,gi-G-BMGTX,Phrymaceae Schauer,family
+gi-G-BMGTX,gi-G-MG,Lamiales Bromhead,order
+gi-G-5BH92,gi-G-86VM,Viola nuttallii Pursh,species
+gi-G-86VM,gi-G-KHG,Viola L.,genus
+gi-G-KHG,gi-G-6272Z,Violoideae Beilschm.,subfamily
+gi-G-6272Z,gi-G-MLP,Violaceae Batsch,family
+gi-G-MLP,gi-G-MG,Malpighiales,order
+gi-G-ZK39,gi-G-3W2V,"Crocidura ansellorum Hutterer & Dippenaar, 1987",species
+gi-G-3W2V,gi-G-626TY,"Crocidura Wagler, 1832",genus
+gi-G-626TY,gi-G-626YH,"Crocidurinae Milne-Edwards, 1872",subfamily
+gi-G-626YH,gi-G-B6L7N,"Soricidae G. Fischer, 1814",family
+gi-G-B6L7N,gi-G-LG,"Soricomorpha Gregory, 1910",order
+gi-G-7B2XS,gi-G-84TXX,"Stylophora wellsi Scheer, 1964",species
+gi-G-84TXX,gi-G-BRWQG,"Stylophora Schweigger, 1820",genus
+gi-G-BRWQG,gi-G-BX37Y,"Pocilloporidae Gray, 1840",family
+gi-G-BX37Y,gi-G-B8V7V,"Vacatina Okubo, 2016",suborder
+gi-G-B8V7V,gi-G-7NF5D,"Scleractinia Bourne, 1900",order
+gi-G-7NF5D,gi-G-7S,Hexacorallia,subclass
+gi-G-7S,gi-G-CN2,Anthozoa,class
+gi-G-CN2,gi-G-N,Cnidaria,phylum
+gi-G-59PMC,gi-G-647VS,"Turdus mupinensis Laubmann, 1920",species
+gi-G-647VS,gi-G-HLW,"Turdus Linnaeus, 1758",genus
+gi-G-HLW,gi-G-3RL,Turdidae,family
+gi-G-7DTTG,gi-G-8579,"Urochroa bougueri (Bourcier, 1851)",species
+gi-G-8579,gi-G-KGD,"Urochroa Gould, 1856",genus
+gi-G-7W4B5,gi-G-8P3D3,"Ochotona (Conothoa) erythrotis (Büchner, 1890)",species
+gi-G-8P3D3,gi-G-66FR,"Conothoa Lyon, 1904",subgenus
+gi-G-66FR,gi-G-626HM,"Ochotona Link, 1795",genus
+gi-G-626HM,gi-G-BMGW2,"Ochotonidae Thomas, 1897",family
+gi-G-BMGW2,gi-G-LG,"Lagomorpha Brandt, 1855",order
+gi-G-34PW4,gi-G-42YV,"Dendrocopos darjellensis (Blyth, 1845)",species
+gi-G-42YV,gi-G-K5T,"Dendrocopos Koch, 1816",genus
+gi-G-K5T,gi-G-625L8,Picinae,subfamily
+gi-G-625L8,gi-G-3TR,Picidae,family
+gi-G-3TR,gi-G-V2,Piciformes,order
+gi-G-6H5X5,gi-G-4F9C,Eucnide rupestris (Baill.) H. J. Thomps. & W. R. Ernst,species
+gi-G-4F9C,gi-G-JJZ,Eucnide Zucc.,genus
+gi-G-JJZ,gi-G-C5K,Eucnidoideae ined.,subfamily
+gi-G-C5K,gi-G-ZT,Loasaceae Juss.,family
+gi-G-ZT,gi-G-MG,Cornales,order
+gi-G-44RQ4,gi-G-5VZ8,"Myaka myaka Trewavas, 1972",species
+gi-G-5VZ8,gi-G-88R,Myaka,genus
+gi-G-88R,gi-G-PC,Cichlidae,family
+gi-G-PC,gi-G-BXVWY,Perciformes,order
+gi-G-3ZF8N,gi-G-5NPY,"Melidectes torquatus P. L. Sclater, 1874",species
+gi-G-5NPY,gi-G-CKJ,"Melidectes P. L. Sclater, 1874",genus
+gi-G-CKJ,gi-G-3RL,Meliphagidae,family
+gi-G-6686K,gi-G-RL2,Alchemilla amphisericea Buser,species
+gi-G-RL2,gi-G-628NC,Alchemilla L.,genus
+gi-G-628NC,gi-G-FTK,Rosoideae Arn.,subfamily
+gi-G-FTK,gi-G-BMGVT,Rosaceae Juss.,family
+gi-G-BMGVT,gi-G-MG,Rosales Bercht. & J. Presl,order
+gi-G-3S5XS,gi-G-7P6X2,"Lampsilis dolabraeformis (I. Lea, 1838)",species
+gi-G-7P6X2,gi-G-7NMHQ,"Lampsilis Rafinesque, 1820",genus
+gi-G-7NMHQ,gi-G-7NLMC,"Lampsilini Ihering, 1901",tribe
+gi-G-7NLMC,gi-G-7NLH4,"Ambleminae Rafinesque, 1820",subfamily
+gi-G-7NLH4,gi-G-7NFRS,"Unionidae Rafinesque, 1820",family
+gi-G-7NFRS,gi-G-B6L8S,"Unionoidea Rafinesque, 1820",superfamily
+gi-G-B6L8S,gi-G-7NF5J,"Unionida Gray, 1854",order
+gi-G-7NF5J,gi-G-7NVXR,"Palaeoheterodonta Newell, 1965",subterclass
+gi-G-7NVXR,gi-G-7NVXG,"Heteroconchia J. E. Gray, 1854",infraclass
+gi-G-7NVXG,gi-G-BMGWC,"Autobranchia Grobben, 1894",subclass
+gi-G-BMGWC,gi-G-M2L,"Bivalvia Linnaeus, 1758",class
+gi-G-M2L,gi-G-N,Mollusca,phylum
+gi-G-75HNX,gi-G-6BZH,"Pachyramphus marginatus (Lichtenstein, 1823)",species
+gi-G-6BZH,gi-G-KFM,"Pachyramphus G. R. Gray, 1840",genus
+gi-G-KFM,gi-G-8MB,Tityrinae,subfamily
+gi-G-8MB,gi-G-3RL,Cotingidae,family
+gi-G-GFHW,gi-G-84LKC,"Arenicola cristata Stimpson, 1856",species
+gi-G-84LKC,gi-G-84JW8,"Arenicola Lamarck, 1801",genus
+gi-G-84JW8,gi-G-84JPF,"Arenicolidae Johnston, 1835",family
+gi-G-84JPF,gi-G-84JPG,"Scolecida Rouse & Fauchald, 1997 non Linnaean",infraclass
+gi-G-84JPG,gi-G-BMGVB,"Sedentaria Lamarck, 1818",subclass
+gi-G-BMGVB,gi-G-NN,"Polychaeta Grube, 1850",class
+gi-G-NN,gi-G-N,Annelida,phylum
+gi-G-5FSYS,gi-G-H6FQ,Asclepias incarnata subsp. incarnata,subspecies
+gi-G-H6FQ,gi-G-33PC,Asclepias incarnata L.,species
+gi-G-33PC,gi-G-93LSR,Asclepias L.,genus
+gi-G-93LSR,gi-G-6L2,Asclepiadoideae Burnett,subfamily
+gi-G-6L2,gi-G-BMGVQ,Apocynaceae Juss.,family
+gi-G-BMGVQ,gi-G-MG,Gentianales Juss. ex Bercht. & J. Presl,order
+gi-G-7WLRX,gi-G-7PV9X,"Procambarus cometes Fitzpatrick, 1978",species
+gi-G-7PV9X,gi-G-7NG9Q,"Procambarus Ortmann, 1905",genus
+gi-G-7NG9Q,gi-G-7NFLX,"Cambaridae Hobbs, 1942",family
+gi-G-7NFLX,gi-G-7NFK5,"Astacoidea Latreille, 1802",superfamily
+gi-G-7NFK5,gi-G-7NFJ8,"Astacidea Latreille, 1802",infraorder
+gi-G-7NFJ8,gi-G-33N,Pleocyemata,suborder
+gi-G-33N,gi-G-MC,Decapoda,order
+gi-G-MC,gi-G-RT,Malacostraca,class
+gi-G-6W42C,gi-G-6SRF,Pleurocoronis pluriseta (A. Gray) R. M. King & H. Rob.,species
+gi-G-6SRF,gi-G-J6T,Pleurocoronis R. M. King & H. Rob.,genus
+gi-G-6VZVG,gi-G-63PLB,"Psalidoprocne obscura (Hartlaub, 1855)",species
+gi-G-63PLB,gi-G-B3Y,"Psalidoprocne Cabanis, 1850",genus
+gi-G-B3Y,gi-G-3RL,"Hirundinidae Rafinesque, 1815",family
+gi-G-BJHG,gi-G-7NNHB,"Alcicornis carangis MacCallum, 1917",species
+gi-G-7NNHB,gi-G-7ZFLG,"Alcicornis MacCallum, 1917",genus
+gi-G-7ZFLG,gi-G-7NG6T,"Bucephalinae Poche, 1907",subfamily
+gi-G-7NG6T,gi-G-B6LP6,"Bucephalidae Poche, 1907",family
+gi-G-B6LP6,gi-G-7ZFKR,"Bucephaloidea Poche, 1907",superfamily
+gi-G-7ZFKR,gi-G-B6LFM,"Bucephalata La Rue, 1926",suborder
+gi-G-B6LFM,gi-G-7NF56,"Plagiorchiida La Rue, 1957",order
+gi-G-7NF56,gi-G-BMH4D,"Digenea Carus, 1863",subclass
+gi-G-BMH4D,gi-G-7NF2W,Trematoda,class
+gi-G-7NF2W,gi-G-BMGTS,"Rhabditophora Ehlers, 1985",subphylum
+gi-G-BMGTS,gi-G-N,"Platyhelminthes Minot, 1876",phylum
+gi-G-6YWYV,gi-G-7KDD,Sphaeralcea rusbyi A. Gray,species
+gi-G-7KDD,gi-G-93LT9,Sphaeralcea A. St.-Hil.,genus
+gi-G-93LT9,gi-G-CDB,Malvoideae Burnett,subfamily
+gi-G-CDB,gi-G-B7VXR,Malvaceae Juss.,family
+gi-G-B7VXR,gi-G-MG,Malvales Juss. ex Bercht. & J. Presl,order
+gi-G-4WVY3,gi-G-7FV4,Serjania elongata J. F. Macbr.,species
+gi-G-7FV4,gi-G-628N6,Serjania Mill.,genus
+gi-G-628N6,gi-G-FY3,Sapindoideae Burnett,subfamily
+gi-G-FY3,gi-G-B7VXJ,Sapindaceae Juss.,family
+gi-G-6Z52Z,gi-G-7HWK,"Sitta europaea Linnaeus, 1758",species
+gi-G-7HWK,gi-G-626XK,"Sitta Linnaeus, 1758",genus
+gi-G-626XK,gi-G-3RL,"Sittidae Lesson, 1828",family
+gi-G-3TDVX,gi-G-5CLW,"Lepidotrigla brachyoptera Hutton, 1872",species
+gi-G-5CLW,gi-G-HG2,Lepidotrigla,genus
+gi-G-HG2,gi-G-42M,Triglidae,family
+gi-G-42M,gi-G-BXVWY,Scorpaeniformes,order
+gi-G-323MM,gi-G-3WVF,"Crypturellus duidae J. T. Zimmer, 1938",species
+gi-G-3WVF,gi-G-H9S,"Crypturellus Brabourne & C. Chubb, 1914",genus
+gi-G-H9S,gi-G-48D,Tinamidae,family
+gi-G-48D,gi-G-V2,Tinamiformes,order
+gi-G-K35D,gi-G-36PX,"Aviceda madagascariensis (A. Smith, 1834)",species
+gi-G-36PX,gi-G-5W6,"Aviceda Swainson, 1836",genus
+gi-G-42RRC,gi-G-5RGN,"Microbates collaris (Pelzeln, 1868)",species
+gi-G-5RGN,gi-G-627GW,"Microbates P. L. Sclater & Salvin, 1873",genus
+gi-G-627GW,gi-G-3RL,"Polioptilidae S. F. Baird, 1858",family
+gi-G-48RM2,gi-G-5TDPH,Odontostephana decipiens Alexander,species
+gi-G-5TDPH,gi-G-93LSR,Odontostephana Alexander,genus
+gi-G-4PHW2,gi-G-63R55,"Psilopsiagon aymara (Orbigny, 1839)",species
+gi-G-63R55,gi-G-628M9,"Psilopsiagon Ridgway, 1912",genus
+gi-G-4CZD2,gi-G-63K8W,"Paraliparis impariporus Stein, Chernova & Andriashev, 2001",species
+gi-G-63K8W,gi-G-624XH,Paraliparis,genus
+gi-G-624XH,gi-G-42M,Liparidae,family
+gi-G-5D8MQ,gi-G-8B88,"Zosterops inornatus E. L. Layard, 1878",species
+gi-G-8B88,gi-G-J34,"Zosterops Vigors & Horsfield, 1827",genus
+gi-G-J34,gi-G-3RL,"Zosteropidae Bonaparte, 1853",family
+gi-G-726QF,gi-G-63932,"Lewinia mirifica (Parkes & Amadon, 1959)",species
+gi-G-63932,gi-G-FJ9,"Lewinia G. R. Gray, 1855",genus
+gi-G-9YNML,gi-G-33LL,Asarum rhombiformis (Gaddy) Sinn,species
+gi-G-33LL,gi-G-J6N,Asarum L.,genus
+gi-G-J6N,gi-G-6QB,Asaroideae Burnett,subfamily
+gi-G-6QB,gi-G-BMH5J,Aristolochiaceae Juss.,family
+gi-G-BMH5J,gi-G-MG,Piperales Bercht. & J. Presl,order
+gi-G-4TPHK,gi-G-7B4R,Rumex altissimus Wood,species
+gi-G-7B4R,gi-G-93LTK,Rumex L.,genus
+gi-G-93LTK,gi-G-627KD,Polygonoideae Eaton,subfamily
+gi-G-627KD,gi-G-BMH4R,Polygonaceae Juss.,family
+gi-G-BMH4R,gi-G-MG,Caryophyllales Juss. ex Bercht. & J. Presl,order
+gi-G-5XDQZ,gi-G-62KK5,"Carpodacus synoicus (Temminck, 1825)",species
+gi-G-62KK5,gi-G-6244D,"Carpodacus Kaup, 1829",genus
+gi-G-6244D,gi-G-3RL,"Fringillidae Leach, 1820",family
+gi-G-VJJT,gi-G-3Q7P,Cirsium vulgare (Savi) Ten.,species
+gi-G-3Q7P,gi-G-B3HBG,Cirsium Mill.,genus
+gi-G-B3HBG,gi-G-622TP,Carduoideae Cass. ex Sweet,subfamily
+gi-G-6ZXQ5,gi-G-7P7J,"Streptopelia semitorquata (Rüppell, 1837)",species
+gi-G-7P7J,gi-G-JCZ,"Streptopelia Bonaparte, 1855",genus
+gi-G-JCZ,gi-G-8GD,Columbinae,subfamily
+gi-G-8GD,gi-G-Z8,Columbidae,family
+gi-G-Z8,gi-G-V2,Columbiformes,order
+gi-G-3V4MG,gi-G-62YHH,Linum arenicola (Small) H. J. P. Winkl.,species
+gi-G-62YHH,gi-G-C3F,Linum L.,genus
+gi-G-C3F,gi-G-MLP,Linaceae DC. ex Perleb,family
+gi-G-5X64K,gi-G-62HRS,Bursera lunanii (Spreng.) C. D. Adams & Dandy ex Proctor,species
+gi-G-62HRS,gi-G-7GV,Bursera Jacq. ex L.,genus
+gi-G-7GV,gi-G-B7VXJ,Burseraceae Kunth,family
+gi-G-3G3GT,gi-G-4NLF,Ginoria ginorioides (Griseb.) Britton,species
+gi-G-4NLF,gi-G-628KQ,Ginoria Jacq.,genus
+gi-G-628KQ,gi-G-624JG,Lythroideae Juss. ex Arn.,subfamily
+gi-G-624JG,gi-G-BMGVG,Lythraceae J. St.-Hil.,family
+gi-G-BMGVG,gi-G-MG,Myrtales Juss. ex Bercht. & J. Presl,order
+gi-G-54YXX,gi-G-7SZY,"Taterillus tranieri Dobigny, Granjon, Aniskin, Ba & Volobouev, 2003",species
+gi-G-7SZY,gi-G-JLF,"Taterillus Thomas, 1910",genus
+gi-G-JLF,gi-G-624PH,"Gerbillinae Gray, 1825",subfamily
+gi-G-624PH,gi-G-622LW,"Muridae Illiger, 1811",family
+gi-G-42MHX,gi-G-63B9H,"Mico humilis (M. van Roosmalen, T. van Roosmalen, Mittermeier & de Fonseca, 1998)",species
+gi-G-63B9H,gi-G-7KR,"Mico Lesson, 1840",genus
+gi-G-7KR,gi-G-4PM,"Callitrichidae Gray, 1821",family
+gi-G-KF8Q,gi-G-37H3,"Balaenoptera edeni Anderson, 1879",species
+gi-G-37H3,gi-G-722,"Balaenoptera Lacépède, 1804",genus
+gi-G-722,gi-G-62396,"Balaenopteridae Gray, 1864",family
+gi-G-62396,gi-G-WP,"Mysticeti Flower, 1864",suborder
+gi-G-WP,gi-G-LG,"Cetacea Brisson, 1762",order
+gi-G-47WWT,gi-G-65FF,"Notomys amplus Brazenor, 1936",species
+gi-G-65FF,gi-G-JXJ,"Notomys Lesson, 1842",genus
+gi-G-JXJ,gi-G-624PH,"Murinae Illiger, 1811",subfamily
+gi-G-6GNJ3,gi-G-633LL,Erigeron arenarioides (D. C. Eaton ex A. Gray) Rydb.,species
+gi-G-633LL,gi-G-J6T,Erigeron L.,genus
+gi-G-78GMC,gi-G-64343,"Pseudoscops clamator (Vieillot, 1808)",species
+gi-G-64343,gi-G-J6Q,"Pseudoscops Kaup, 1848",genus
+gi-G-J6Q,gi-G-GQX,Asioninae,subfamily
+gi-G-GQX,gi-G-466,Strigidae,family
+gi-G-466,gi-G-V2,Strigiformes,order
+gi-G-6Q8SR,gi-G-7PB47,"Libinia emarginata Leach, 1815",species
+gi-G-7PB47,gi-G-847HL,"Libinia Leach, 1815",genus
+gi-G-847HL,gi-G-7NHHH,"Pisinae Dana, 1851",subfamily
+gi-G-7NHHH,gi-G-BRKMP,"Epialtidae MacLeay, 1838",family
+gi-G-BRKMP,gi-G-BVFJT,"Majoidea Samouelle, 1819",superfamily
+gi-G-BVFJT,gi-G-B94FL,"Heterotremata Guinot, 1977",subsection zoology
+gi-G-B94FL,gi-G-B8WMW,"Eubrachyura de Saint Laurent, 1980",section zoology
+gi-G-B8WMW,gi-G-7NFJ8,"Brachyura Latreille, 1802",infraorder
+gi-G-B9LTW,gi-G-B8VQ5,Equisetum sylvaticum L.,species
+gi-G-B8VQ5,gi-G-B8VB5,Equisetum L.,genus
+gi-G-B8VB5,gi-G-B8V4C,Equisetaceae Michx. ex DC.,family
+gi-G-B8V4C,gi-G-GV,Equisetales DC. ex Bercht. & J. Presl,order
+gi-G-GV,gi-G-TP,Polypodiopsida,class
+gi-G-47PNM,gi-G-63GCT,"Nonnula rubecula (von Spix, 1824)",species
+gi-G-63GCT,gi-G-622HW,"Nonnula P. L. Sclater, 1854",genus
+gi-G-622HW,gi-G-3TR,Bucconidae,family
+gi-G-BNXJM,gi-G-4NDMT,"Psarocolius bifasciatus yuracares (Orbigny & Lafresnaye, 1838)",subspecies
+gi-G-4NDMT,gi-G-6YDP,"Psarocolius bifasciatus (Spix, 1824)",species
+gi-G-6YDP,gi-G-BCZ,"Psarocolius Wagler, 1827",genus
+gi-G-BCZ,gi-G-3RL,Icteridae,family
+gi-G-35Z4H,gi-G-8WF3D,Didymopanax morototoni (Aubl.) Decne. & Planch.,species
+gi-G-8WF3D,gi-G-B7XD4,Didymopanax Decne. & Planch.,genus
+gi-G-B7XD4,gi-G-B7VYB,Aralioideae Eaton,subfamily
+gi-G-B7VYB,gi-G-BMH4H,Araliaceae Juss.,family
+gi-G-BMH4H,gi-G-MG,Apiales Nakai,order
+gi-G-7D8P8,gi-G-6485C,"Tropidonophis parkeri Malnate & Underwood, 1988",species
+gi-G-6485C,gi-G-87CKJ,Tropidonophis,genus
+gi-G-87CKJ,gi-G-8G9,Natricinae,subfamily
+gi-G-8G9,gi-G-8GK5V,Colubridae,family
+gi-G-8GK5V,gi-G-BXVXG,Colubroidea,superfamily
+gi-G-6K4PX,gi-G-4LGS,"Furnarius leucopus Swainson, 1838",species
+gi-G-4LGS,gi-G-6245S,"Furnarius Vieillot, 1816",genus
+gi-G-6245S,gi-G-3RL,Furnariidae,family
+gi-G-436BX,gi-G-63B88,Microseris campestris Greene,species
+gi-G-63B88,gi-G-JCD,Microseris D. Don,genus
+gi-G-JCD,gi-G-622TP,Cichorioideae (Juss.) Chev.,subfamily
+gi-G-53TB3,gi-G-7QZ7,"Synallaxis unirufa Lafresnaye, 1843",species
+gi-G-7QZ7,gi-G-6245S,"Synallaxis Vieillot, 1818",genus
+gi-G-3P47B,gi-G-532G,"Hypsipetes philippinus (J. R. Forster, 1795)",species
+gi-G-532G,gi-G-FFJ,"Hypsipetes Vigors, 1831",genus
+gi-G-FFJ,gi-G-3RL,"Pycnonotidae G. R. Gray, 1840",family
+gi-G-73GNK,gi-G-63B9N,Miconia crenata (Vahl) Michelang.,species
+gi-G-63B9N,gi-G-JVV,Miconia Ruiz & Pav.,genus
+gi-G-JVV,gi-G-CK9,Melastomatoideae Ser. ex DC.,subfamily
+gi-G-CK9,gi-G-BMGVG,Melastomataceae Juss.,family
+gi-G-3QYJX,gi-G-577G,Kalanchoe gastonis-bonnieri Raym.-Hamet & H. Perrier,species
+gi-G-577G,gi-G-JRT,Kalanchoe Adans.,genus
+gi-G-JRT,gi-G-8N6,Kalanchoideae A. Berger,subfamily
+gi-G-8N6,gi-G-B7VS8,Crassulaceae J. St.-Hil.,family
+gi-G-B7VS8,gi-G-MG,Saxifragales Bercht. & J. Presl,order
+gi-G-3B4NB,gi-G-62RM7,Eriogonum eremicola Howell & Reveal,species
+gi-G-62RM7,gi-G-93LT4,Eriogonum Michx.,genus
+gi-G-93LT4,gi-G-627KD,Eriogonoideae Arn.,subfamily
+gi-G-6YTS8,gi-G-63SD9,Solanum campechiense L.,species
+gi-G-63SD9,gi-G-628NX,Solanum L.,genus
+gi-G-628NX,gi-G-626XM,Solanoideae Burnett,subfamily
+gi-G-626XM,gi-G-B7VXK,Solanaceae Juss.,family
+gi-G-B7VXK,gi-G-MG,Solanales Juss. ex Bercht. & J. Presl,order
+gi-G-3F38D,gi-G-62T4M,"Galea spixii (Wagler, 1831)",species
+gi-G-62T4M,gi-G-6275J,"Galea Meyen, 1832",genus
+gi-G-6275J,gi-G-7TR,"Caviinae Fischer de Waldheim, 1817",subfamily
+gi-G-7TR,gi-G-4L7,"Caviidae Fischer de Waldheim, 1817",family
+gi-G-4L7,gi-G-4DX,"Hystricognathi Brandt, 1855",infraorder
+gi-G-4DX,gi-G-B6L6L,"Hystricomorpha Brandt, 1855",suborder
+gi-G-7DM2Z,gi-G-84Z3,Unonopsis pacifica R. E. Fr.,species
+gi-G-84Z3,gi-G-6FB,Unonopsis,genus
+gi-G-6FB,gi-G-3HL,Annonaceae,family
+gi-G-3HL,gi-G-MG,Magnoliales,order
+gi-G-Z4ZN,gi-G-3V6D,"Cranioleuca demissa (Salvin & Godman, 1884)",species
+gi-G-3V6D,gi-G-6245S,"Cranioleuca Reichenbach, 1853",genus
+gi-G-6XB75,gi-G-63RMC,Salicornia pacifica Standl.,species
+gi-G-63RMC,gi-G-93LTL,Salicornia L.,genus
+gi-G-93LTL,gi-G-68Z,Salicornioideae Luerss.,subfamily
+gi-G-68Z,gi-G-BMH4R,Amaranthaceae Juss.,family
+gi-G-4TJXK,gi-G-643JJ,Rubus densissimus H. A. & T. Davis,species
+gi-G-643JJ,gi-G-628NC,Rubus L.,genus
+gi-G-B9JZK,gi-G-B8VJF,Dryopteris goldieana (Hook. ex Goldie) A. Gray,species
+gi-G-B8VJF,gi-G-B8X3F,Dryopteris Adans.,genus
+gi-G-B8X3F,gi-G-B8TXK,Dryopteridoideae B. K. Nayar,subfamily
+gi-G-B8TXK,gi-G-B8TXB,Dryopteridaceae Herter,family
+gi-G-B8TXB,gi-G-GV,Polypodiales Link,order
+gi-G-5YWGK,gi-G-3Q97,"Cisticola melanurus (Cabanis, 1882)",species
+gi-G-3Q97,gi-G-89S,"Cisticola Kaup, 1829",genus
+gi-G-89S,gi-G-3RL,"Cisticolidae Sundevall, 1872",family
+gi-G-BNPFL,gi-G-44G2Y,Mosiera elliptica subsp. camarioca (C. Wright) Borhidi,subspecies
+gi-G-44G2Y,gi-G-5VDS,Mosiera elliptica (C. Wright) Bisse,species
+gi-G-5VDS,gi-G-JY4,Mosiera Small,genus
+gi-G-JY4,gi-G-D48,Myrtoideae Sweet,subfamily
+gi-G-D48,gi-G-BMGVG,Myrtaceae Juss.,family
+gi-G-3VDKH,gi-G-7PMWX,"Liropus minusculus Guerra-García & Hendrycks, 2013",species
+gi-G-7PMWX,gi-G-7ZJM5,"Liropus Mayer, 1890",genus
+gi-G-7ZJM5,gi-G-7NGC3,"Caprellinae Leach, 1814",subfamily
+gi-G-7NGC3,gi-G-7NFM9,"Caprellidae Leach, 1814",family
+gi-G-7NFM9,gi-G-7ZJKC,"Caprelloidea Leach, 1814",superfamily
+gi-G-7ZJKC,gi-G-7ZJK2,"Caprellidira Leach, 1814 () sensu Lowry & Myers, 2013",parvorder
+gi-G-7ZJK2,gi-G-7ZJJV,"Corophiida Leach, 1814 () sensu Lowry & Myers, 2013",infraorder
+gi-G-7ZJJV,gi-G-BMGVN,"Senticaudata Lowry & Myers, 2013",suborder
+gi-G-BMGVN,gi-G-MC,"Amphipoda Latreille, 1816",order
+gi-G-5BJKQ,gi-G-86WB,"Vireo gracilirostris Sharpe, 1890",species
+gi-G-86WB,gi-G-626RC,"Vireo Vieillot, 1808",genus
+gi-G-626RC,gi-G-3RL,Vireonidae,family
+gi-G-6ZXPQ,gi-G-7P7J,"Streptopelia bitorquata (Temminck, 1809)",species
+gi-G-GCMM,gi-G-62D5S,"Ardeola rufiventris (Sundevall, 1850)",species
+gi-G-62D5S,gi-G-J6C,"Ardeola F. Boie, 1822",genus
+gi-G-4CK2K,gi-G-6DFM,"Papilio alexanor Esper, 1800",species
+gi-G-6DFM,gi-G-DX5,Papilio,genus
+gi-G-4S4FP,gi-G-78F6,"Rhaphidura sabini (J. E. Gray, 1829)",species
+gi-G-78F6,gi-G-J5Z,"Rhaphidura Oates, 1883",genus
+gi-G-J5Z,gi-G-6L5,Apodinae,subfamily
+gi-G-6L5,gi-G-Q9,Apodidae,family
+gi-G-5CZX2,gi-G-648XD,Zeltnera exaltata (Griseb.) G. Mans.,species
+gi-G-648XD,gi-G-6247C,Zeltnera G. Mans.,genus
+gi-G-6247C,gi-G-BMGVQ,Gentianaceae Juss.,family
+gi-G-3ZSN5,gi-G-5P63,"Menura alberti Bonaparte, 1850",species
+gi-G-5P63,gi-G-CLM,"Menura Latham, 1802",genus
+gi-G-CLM,gi-G-3RL,Menuridae,family
+gi-G-ZK5C,gi-G-3W2V,"Crocidura lamottei Heim de Balsac, 1968",species
+gi-G-3V7HP,gi-G-5F5X,"Liopropoma emanueli Wirtz & Schliewen, 2012",species
+gi-G-5F5X,gi-G-G8R,Liopropoma,genus
+gi-G-G8R,gi-G-PC,Serranidae,family
+gi-G-4RFL8,gi-G-774N,Ranunculus alismifolius Geyer ex Benth.,species
+gi-G-774N,gi-G-K95,Ranunculus L.,genus
+gi-G-K95,gi-G-FJR,Ranunculoideae Arn.,subfamily
+gi-G-FJR,gi-G-B7VXX,Ranunculaceae Juss.,family
+gi-G-B7VXX,gi-G-MG,Ranunculales Juss. ex Bercht. & J. Presl,order
+gi-G-7NVDV,gi-G-5B773,Veronica peregrina var. xalapensis (Kunth) H. St. John,variety
+gi-G-5B773,gi-G-63VMN,Veronica peregrina L.,species
+gi-G-63VMN,gi-G-7NLQD,Veronica L.,genus
+gi-G-7NLQD,gi-G-6262K,Digitalidoideae (Dumort.) Luerss.,subfamily
+gi-G-6262K,gi-G-BMGTX,Plantaginaceae Juss.,family
+gi-G-7X8KP,gi-G-7Q6TY,"Yungipicus maculatus (Scopoli, 1786)",species
+gi-G-7Q6TY,gi-G-K5T,"Yungipicus Bonaparte, 1854",genus
+gi-G-RYRV,gi-G-62KF2,Ceanothus leucodermis Greene,species
+gi-G-62KF2,gi-G-FN6,Ceanothus L.,genus
+gi-G-FN6,gi-G-BMGVT,Rhamnaceae Juss.,family
+gi-G-6K5X,gi-G-JMN,"Pekania Gray, 1865",genus
+gi-G-JMN,gi-G-CZT,"Guloninae Gray, 1825",subfamily
+gi-G-CZT,gi-G-4CT,"Mustelidae Fischer, 1817",family
+gi-G-4CT,gi-G-B6L7F,"Caniformia Kretzoi, 1938",suborder
+gi-G-B6L7F,gi-G-LG,"Carnivora Bowdich, 1821",order
+gi-G-6JZJD,gi-G-4MGL,Gaultheria hispidula (L.) Muhl. ex Bigelow,species
+gi-G-4MGL,gi-G-93LTS,Gaultheria Kalm ex L.,genus
+gi-G-93LTS,gi-G-623P8,Vaccinioideae Arn.,subfamily
+gi-G-623P8,gi-G-625QY,Ericaceae Juss.,family
+gi-G-625QY,gi-G-MG,Ericales,order
+gi-G-3B4SY,gi-G-62RM7,Eriogonum nortonii Greene,species
+gi-G-9CZ3S,gi-G-9CLKY,"Pandalus eous Makarov, 1935",species
+gi-G-9CLKY,gi-G-9CJDB,"Pandalus Leach, 1814",genus
+gi-G-9CJDB,gi-G-BRKNX,"Pandalidae Haworth, 1825",family
+gi-G-BRKNX,gi-G-BMJWT,"Pandaloidea Haworth, 1825",superfamily
+gi-G-BMJWT,gi-G-7NFJ8,"Caridea Dana, 1852",infraorder
+gi-G-ZK73,gi-G-3W2V,"Crocidura picea Sanderson, 1940",species
+gi-G-7DXCS,gi-G-63W9N,"Uroplatus henkeli Böhme & Ibisch, 1990",species
+gi-G-63W9N,gi-G-6247T,Uroplatus,genus
+gi-G-6247T,gi-G-87BW6,Gekkonidae,family
+gi-G-87BW6,gi-G-BXVXG,Gekkota,superfamily
+gi-G-8LZS4,gi-G-8PQT8,"Myotis (Pizonyx) ciliolabrum (Merriam, 1886)",species
+gi-G-8PQT8,gi-G-5WGF,"Pizonyx Miller, 1906",subgenus
+gi-G-5WGF,gi-G-JXX,"Myotis Kaup, 1829",genus
+gi-G-JXX,gi-G-HTH,"Myotinae Tate, 1942",subfamily
+gi-G-HTH,gi-G-5T9,"Vespertilionidae Gray, 1821",family
+gi-G-5T9,gi-G-4FX,"Vespertilionoidea Gray, 1821",superfamily
+gi-G-4FX,gi-G-B6L7G,"Yangochiroptera Koopman, 1984",suborder
+gi-G-3264H,gi-G-62PXK,"Ctenomys argentinus Contreras & Berry, 1982",species
+gi-G-62PXK,gi-G-8RV,"Ctenomys Blainville, 1826",genus
+gi-G-8RV,gi-G-4L7,"Ctenomyidae Lesson, 1842",family
+gi-G-64M8G,gi-G-NC3,"Acrocephalus atyphus (Wetmore, 1919)",species
+gi-G-NC3,gi-G-5YC,"Acrocephalus J. A. Naumann & J. F. Naumann, 1811",genus
+gi-G-5YC,gi-G-3RL,"Acrocephalidae Salvin, 1882",family
+gi-G-6J7JL,gi-G-4KDM,Flaveria brownii A. M. Powell,species
+gi-G-4L8WD,gi-G-63NF5,Polygonella americana (Fisch. & C. A. Mey.) Small,species
+gi-G-63NF5,gi-G-93LTK,Polygonella Michx.,genus
+gi-G-99P6T,gi-G-99F8S,Jacaranda arborea Urb.,species
+gi-G-99F8S,gi-G-99CSX,Jacaranda Juss.,genus
+gi-G-99CSX,gi-G-BMGTX,Bignoniaceae Juss.,family
+gi-G-6B9TQ,gi-G-3V2C,"Coua serriana Pucheran, 1845",species
+gi-G-3V2C,gi-G-K4S,"Coua Schinz, 1821",genus
+gi-G-K4S,gi-G-8S7,Phaenicophaeinae,subfamily
+gi-G-8S7,gi-G-32K,Cuculidae,family
+gi-G-32K,gi-G-V2,Cuculiformes,order
+gi-G-4H7X3,gi-G-6PPG,"Phyllomyias burmeisteri Cabanis & Heine, 1859",species
+gi-G-6PPG,gi-G-HMW,"Phyllomyias Cabanis & Heine, 1859",genus
+gi-G-42QCW,gi-G-5RD3,Micranthes aprica (Greene) Small,species
+gi-G-5RD3,gi-G-6278B,Micranthes Haw.,genus
+gi-G-6278B,gi-G-B7VS8,Saxifragaceae Juss.,family
+gi-G-6HGL5,gi-G-4GT4,"Eurylaimus javanicus Horsfield, 1821",species
+gi-G-4GT4,gi-G-JKC,"Eurylaimus Horsfield, 1821",genus
+gi-G-JKC,gi-G-9Z7,Eurylaiminae,subfamily
+gi-G-9Z7,gi-G-3RL,Eurylaimidae,family
+gi-G-4GVQH,gi-G-6PBG,Phryma leptostachya L.,species
+gi-G-6PBG,gi-G-625ZW,Phryma L.,genus
+gi-G-79ZGM,gi-G-7F44,Sedum oblanceolatum R. T. Clausen,species
+gi-G-7F44,gi-G-KBM,Sedum L.,genus
+gi-G-KBM,gi-G-8N6,Sempervivoideae Arn.,subfamily
+gi-G-3LKLQ,gi-G-4X5Q,"Hieraaetus morphnoides (Gould, 1841)",species
+gi-G-4X5Q,gi-G-5W6,"Hieraaetus Kaup, 1844",genus
+gi-G-3CZ9G,gi-G-4GJK,"Eurema hecabe (Linnaeus, 1758)",species
+gi-G-4GJK,gi-G-625MK,Eurema,genus
+gi-G-625MK,gi-G-5G9,Pieridae,family
+gi-G-4KPNX,gi-G-6TBH,"Podiceps grisegena (Boddaert, 1783)",species
+gi-G-6TBH,gi-G-627FZ,"Podiceps Latham, 1787",genus
+gi-G-627FZ,gi-G-3V6,"Podicipedidae Bonaparte, 1831",family
+gi-G-3V6,gi-G-V2,Podicipediformes,order
+gi-G-7K2D,gi-G-K7P,Spatalla Salisb.,genus
+gi-G-K7P,gi-G-F4J,Proteoideae Eaton,subfamily
+gi-G-F4J,gi-G-B7VXW,Proteaceae Juss.,family
+gi-G-B7VXW,gi-G-MG,Proteales Juss. ex Bercht. & J. Presl,order
+gi-G-6FLMQ,gi-G-4CMG,"Eothenomys cachinus (Thomas, 1921)",species
+gi-G-4CMG,gi-G-B6MFZ,"Eothenomys Miller, 1896",genus
+gi-G-77KMQ,gi-G-6QRZ,"Piprites chloris (Temminck, 1822)",species
+gi-G-6QRZ,gi-G-8MB,"Piprites Cabanis, 1847",genus
+gi-G-3KRM5,gi-G-62VK6,"Hemiphaga novaeseelandiae (J. F. Gmelin, 1789)",species
+gi-G-62VK6,gi-G-KFV,"Hemiphaga Bonaparte, 1854",genus
+gi-G-KFV,gi-G-8GD,Treroninae,subfamily
+gi-G-5623R,gi-G-7V6B,Thalictrum alpinum L.,species
+gi-G-7V6B,gi-G-628B2,Thalictrum L.,genus
+gi-G-628B2,gi-G-FJR,Thalictroideae Raf.,subfamily
+gi-G-F8SY,gi-G-Y55,"Apathya yassujica (Nilson, Rastegar-Pouyani, Rastegar-Pouyani & Andrén, 2003)",species
+gi-G-Y55,gi-G-6258X,Apathya,genus
+gi-G-3BKH6,gi-G-633F5,"Estrilda rufibarba (Cabanis, 1851)",species
+gi-G-633F5,gi-G-623Q5,"Estrilda Swainson, 1827",genus
+gi-G-623Q5,gi-G-3RL,"Estrildidae Bonaparte, 1850",family
+gi-G-44Q5M,gi-G-5VVQ,"Muscicapa comitata (Cassin, 1857)",species
+gi-G-5VVQ,gi-G-CZN,"Muscicapa Brisson, 1760",genus
+gi-G-3LZLJ,gi-G-636V8,"Hippocampus fisheri Jordan & Evermann, 1903",species
+gi-G-636V8,gi-G-GV4,Hippocampus,genus
+gi-G-GV4,gi-G-46T,Syngnathidae,family
+gi-G-46T,gi-G-BXVWY,Syngnathiformes,order
+gi-G-5VWZ9,gi-G-34Z7,"Atheris matildae Menegon, Davenport & Howell, 2011",species
+gi-G-34Z7,gi-G-87CPV,Atheris,genus
+gi-G-87CPV,gi-G-6273B,Viperinae,subfamily
+gi-G-6273B,gi-G-BXVXG,Viperidae,family
+gi-G-6CHB5,gi-G-42R2,Delphinium gracilentum Greene,species
+gi-G-42R2,gi-G-K95,Delphinium L.,genus
+gi-G-45B5J,gi-G-8PMTT,"Myrmecophilus (Myrmecophilus) pergandei Bruner, 1884",species
+gi-G-8PMTT,gi-G-8NSS5,"Myrmecophilus (Myrmecophilus) Berthold, 1827",subgenus
+gi-G-8NSS5,gi-G-8PMTP,"Myrmecophilus Berthold, 1827",genus
+gi-G-8PMTP,gi-G-8NKY9,"Myrmecophilini Saussure, 1874",tribe
+gi-G-8NKY9,gi-G-8NKN5,"Myrmecophilinae Saussure, 1874",subfamily
+gi-G-8NKN5,gi-G-8NKGB,"Myrmecophilidae Saussure, 1874",family
+gi-G-8NKGB,gi-G-8NKFV,"Gryllotalpoidea Leach, 1815",superfamily
+gi-G-8NKFV,gi-G-8NKFN,"Gryllidea Vickery, 1977",infraorder
+gi-G-8NKFN,gi-G-B7VSM,"Ensifera Chopard, 1921",suborder
+gi-G-B7VSM,gi-G-H6,"Orthoptera Latreille, 1810",order
+gi-G-PW67,gi-G-3FQ7,"Callosciurus quinquestriatus (Anderson, 1871)",species
+gi-G-3FQ7,gi-G-J9G,"Callosciurus Gray, 1867",genus
+gi-G-J9G,gi-G-G48,"Callosciurinae Pocock, 1923",subfamily
+gi-G-G48,gi-G-4FD,"Sciuridae Fischer de Waldheim, 1817",family
+gi-G-4FD,gi-G-B6L6L,"Sciuromorpha Brandt, 1855",suborder
+gi-G-6LBBG,gi-G-4TDW,"Haplochelidon andecola (Orbigny & Lafresnaye, 1837)",species
+gi-G-4TDW,gi-G-B3Y,"Haplochelidon Todd, 1929",genus
+gi-G-8HBPX,gi-G-B6LRK,"Cicadellidae Latreille, 1825",family
+gi-G-B6LRK,gi-G-BXWD8,"Membracoidea Rafinesque, 1815",superfamily
+gi-G-BXWD8,gi-G-BXWCS,"Cicadomorpha Evans, 1946",infraorder
+gi-G-BXWCS,gi-G-BXVWV,"Auchenorrhyncha Duméril, 1806",suborder
+gi-G-BXVWV,gi-G-H6,"Hemiptera Linnaeus, 1758",order
+gi-G-5CDGD,gi-G-896W,"Xerospermophilus mohavensis (Merriam, 1889)",species
+gi-G-896W,gi-G-93N4J,"Xerospermophilus Merriam, 1892",genus
+gi-G-93N4J,gi-G-KHX,"Marmotini Pocock, 1923",tribe
+gi-G-KHX,gi-G-G48,"Xerinae Osborn, 1910",subfamily
+gi-G-4SCSC,gi-G-78YF,"Rhizomys sumatrensis (Raffles, 1821)",species
+gi-G-78YF,gi-G-K9K,"Rhizomys Gray, 1831",genus
+gi-G-K9K,gi-G-GF5,"Rhizomyinae Winge, 1887",subfamily
+gi-G-GF5,gi-G-622LW,"Spalacidae Gray, 1821",family
+gi-G-3VWZL,gi-G-5G9V,Lomatium canbyi (J. M. Coult. & Rose) J. M. Coult. & Rose,species
+gi-G-5G9V,gi-G-J5W,Lomatium Raf.,genus
+gi-G-J5W,gi-G-6KC,Apioideae (Drude) Thorne ex Royen,subfamily
+gi-G-6KC,gi-G-BMH4H,Apiaceae Lindl.,family
+gi-G-4KRZM,gi-G-63NLG,"Podoxymys roraimae Anthony, 1929",species
+gi-G-63NLG,gi-G-93N26,"Podoxymys Anthony, 1929",genus
+gi-G-776PX,gi-G-6M4W,"Petrogale godmani Thomas, 1923",species
+gi-G-6M4W,gi-G-628L6,"Petrogale Gray, 1837",genus
+gi-G-628L6,gi-G-CBD,"Macropodinae Gray, 1821",subfamily
+gi-G-CBD,gi-G-6238Q,"Macropodidae Gray, 1821",family
+gi-G-6238Q,gi-G-35B,"Macropodiformes Ameghino, 1889",suborder
+gi-G-35B,gi-G-LJ,"Diprotodontia Owen, 1866",order
+gi-G-LJ,gi-G-924GT,"Metatheria Huxley, 1880",infraclass
+gi-G-6K48P,gi-G-4LCK,"Fulvetta striaticollis (J. Verreaux, 1870)",species
+gi-G-4LCK,gi-G-626LT,"Fulvetta David & Oustalet, 1877",genus
+gi-G-626LT,gi-G-3RL,"Sylviidae Leach, 1820",family
+gi-G-6Z5RB,gi-G-63SD9,Solanum adscendens Sendtn.,species
+gi-G-6FL75,gi-G-62S8X,"Eophona migratoria Hartert, 1903",species
+gi-G-62S8X,gi-G-6244D,"Eophona Gould, 1851",genus
+gi-G-3B2BY,gi-G-62RKX,"Erinaceus amurensis Schrenk, 1859",species
+gi-G-62RKX,gi-G-93MTZ,"Erinaceus Linnaeus, 1758",genus
+gi-G-93MTZ,gi-G-623NY,"Erinaceinae G. Fischer, 1814",subfamily
+gi-G-623NY,gi-G-376,"Erinaceidae G. Fischer, 1814",family
+gi-G-376,gi-G-LG,"Erinaceomorpha Gregory, 1910",order
+gi-G-3FBSC,gi-G-4M9W,"Garrulus lidthi Bonaparte, 1850",species
+gi-G-4M9W,gi-G-8L6,"Garrulus Brisson, 1760",genus
+gi-G-6GY3Y,gi-G-4G4X,"Euodice cantans (Gmelin, 1789)",species
+gi-G-4G4X,gi-G-623Q5,"Euodice Reichenbach, 1862",genus
+gi-G-5BLQZ,gi-G-872G,Vitis giradiana Munson,species
+gi-G-872G,gi-G-KHJ,Vitis L.,genus
+gi-G-KHJ,gi-G-6273G,Vitoideae Eaton,subfamily
+gi-G-6273G,gi-G-B7VY4,Vitaceae Juss.,family
+gi-G-B7VY4,gi-G-MG,Vitales Juss. ex Bercht. & J. Presl,order
+gi-G-6V6GV,gi-G-6M5V,"Petropseudes dahli (Collett, 1895)",species
+gi-G-6M5V,gi-G-K84,"Petropseudes Thomas, 1923",genus
+gi-G-K84,gi-G-F85,"Pseudocheirinae Winge, 1893",subfamily
+gi-G-F85,gi-G-5H7,"Pseudocheiridae Winge, 1893",family
+gi-G-5H7,gi-G-622WY,"Petauroidea Bonaparte, 1838",superfamily
+gi-G-622WY,gi-G-35B,"Phalangeriformes Szalay in Archer (ed.), 1982",suborder
+gi-G-6XLPZ,gi-G-63S27,Sarcodes sanguinea Torr.,species
+gi-G-63S27,gi-G-93LTB,Sarcodes Torr.,genus
+gi-G-93LTB,gi-G-623P8,Monotropoideae Arn.,subfamily
+gi-G-6S4P8,gi-G-5WRM,Myrtillocactus schenckii (J. A. Purpus) Britton & Rose,species
+gi-G-5WRM,gi-G-93LST,Myrtillocactus Console,genus
+gi-G-93LST,gi-G-7HS,Cactoideae Eaton,subfamily
+gi-G-7HS,gi-G-BMH4R,Cactaceae Juss.,family
+gi-G-4BMQH,gi-G-6BJV,"Oxyurichthys lonchotus (Jenkins, 1903)",species
+gi-G-6BJV,gi-G-623LH,Oxyurichthys,genus
+gi-G-623LH,gi-G-PC,Gobiidae,family
+gi-G-FYYR,gi-G-62CRB,"Apteryx mantelli Bartlett, 1852",species
+gi-G-62CRB,gi-G-6LS,"Apteryx Shaw, 1813",genus
+gi-G-6LS,gi-G-QC,Apterygidae,family
+gi-G-QC,gi-G-V2,Apterygiformes,order
+gi-G-663H7,gi-G-7NNBQ,"Aglaophenia tubulifera (Hincks, 1861)",species
+gi-G-7NNBQ,gi-G-7NFVF,"Aglaophenia Lamouroux, 1812",genus
+gi-G-7NFVF,gi-G-7NGWL,"Aglaopheniidae Marktanner-Turneretscher, 1890",family
+gi-G-7NGWL,gi-G-8ZXH6,"Plumularioidea McCrady, 1859",superfamily
+gi-G-8ZXH6,gi-G-7NF5F,"Leptothecata Cornelius, 1992",order
+gi-G-7NF5F,gi-G-B8V3X,"Hydroidolina Collins, 2000",subclass
+gi-G-B8V3X,gi-G-CN2,"Hydrozoa Owen, 1843",class
+gi-G-44B7Y,gi-G-63CZN,"Monticola gularis (Swinhoe, 1863)",species
+gi-G-63CZN,gi-G-CZN,"Monticola F. Boie, 1822",genus
+gi-G-37CQJ,gi-G-632VV,"Dorcopsis hageni Heller, 1897",species
+gi-G-632VV,gi-G-628L6,"Dorcopsis Schlegel & Müller, 1845",genus
+gi-G-BQQNT,gi-G-3DMTP,Exochorda racemosa subsp. racemosa,subspecies
+gi-G-3DMTP,gi-G-4HW9,Exochorda racemosa (Lindl.) Rehder,species
+gi-G-4HW9,gi-G-BVBB9,Exochorda Lindl.,genus
+gi-G-BVBB9,gi-G-FTK,Amygdaloideae Arn.,subfamily
+gi-G-4WQCM,gi-G-7FMF,"Sephanoides fernandensis (P. P. King, 1831)",species
+gi-G-7FMF,gi-G-KGD,"Sephanoides G. R. Gray, 1840",genus
+gi-G-3WL97,gi-G-5HKL,"Lycognathophis seychellensis (Schlegel, 1837)",species
+gi-G-5HKL,gi-G-8G9,Lycognathophis,genus
+gi-G-4Q33R,gi-G-64365,"Pteropus samoensis Peale, 1848",species
+gi-G-64365,gi-G-7NM9D,"Pteropus Brisson, 1762",genus
+gi-G-7NM9D,gi-G-K8P,"Pteropodini Gray, 1821",tribe
+gi-G-K8P,gi-G-FDD,"Pteropodinae Gray, 1821",subfamily
+gi-G-FDD,gi-G-4FY,"Pteropodidae Gray, 1821",family
+gi-G-3K4NZ,gi-G-635JB,Helenium virginicum S. F. Blake,species
+gi-G-635JB,gi-G-J6T,Helenium L.,genus
+gi-G-58863,gi-G-7Z4Y,"Trichechus manatus Linnaeus, 1758",species
+gi-G-7Z4Y,gi-G-626R7,"Trichechus Linnaeus, 1758",genus
+gi-G-626R7,gi-G-B6L7M,"Trichechidae Gill, 1872",family
+gi-G-B6L7M,gi-G-LG,"Sirenia Illiger, 1811",order
+gi-G-4TPZM,gi-G-7B4R,Rumex verticillatus L.,species
+gi-G-5Z6WQ,gi-G-3Q54,"Circus aeruginosus (Linnaeus, 1758)",species
+gi-G-3Q54,gi-G-5W6,"Circus Lacepede, 1799",genus
+gi-G-5D8NQ,gi-G-8B88,"Zosterops palpebrosus (Temminck, 1824)",species
+gi-G-9XW87,gi-G-9XDNB,"Penaeus vannamei Boone, 1931",species
+gi-G-9XDNB,gi-G-BV3P6,"Penaeus Fabricius, 1798",genus
+gi-G-BV3P6,gi-G-BRKNM,"Penaeidae Rafinesque, 1815",family
+gi-G-BRKNM,gi-G-BMJWQ,"Penaeoidea Rafinesque, 1815",superfamily
+gi-G-BMJWQ,gi-G-33N,"Dendrobranchiata Spence Bate, 1888",suborder
+gi-G-5H6Q2,gi-G-9K2K4,Erodium cicutarium subsp. cicutarium,subspecies
+gi-G-9K2K4,gi-G-62RQR,Erodium cicutarium (L.) L'Hér.,species
+gi-G-62RQR,gi-G-623GK,Erodium L'Hér.,genus
+gi-G-623GK,gi-G-B7VXP,Geraniaceae Juss.,family
+gi-G-B7VXP,gi-G-MG,Geraniales Juss. ex Bercht. & J. Presl,order
+gi-G-BNFWM,gi-G-9XQYN,Fragaria chiloensis subsp. lucida (Vilm.) Staudt,subspecies
+gi-G-9XQYN,gi-G-4KYG,Fragaria chiloensis (L.) Mill.,species
+gi-G-4KYG,gi-G-628NC,Fragaria L.,genus
+gi-G-5FR9P,gi-G-GBPQ,Arctostaphylos purissima subsp. purissima,subspecies
+gi-G-GBPQ,gi-G-62CT9,Arctostaphylos purissima P. V. Wells,species
+gi-G-62CT9,gi-G-93LSQ,Arctostaphylos Adans.,genus
+gi-G-93LSQ,gi-G-623P8,Arbutoideae (Meisn.) Nied.,subfamily
+gi-G-3KTMJ,gi-G-637C9,"Hemitriccus nidipendulus (Wied-Neuwied, 1831)",species
+gi-G-6QMNG,gi-G-5GBZ,"Lonchura flaviprymna (Gould, 1845)",species
+gi-G-5GBZ,gi-G-623Q5,"Lonchura Sykes, 1832",genus
+gi-G-BPB9N,gi-G-3BYM3,Eucrypta chrysanthemifolia var. bipinnatifida (Torr.) Constance,variety
+gi-G-3BYM3,gi-G-4FCS,Eucrypta chrysanthemifolia (Benth.) Greene,species
+gi-G-4FCS,gi-G-B8V,Eucrypta Nutt.,genus
+gi-G-GVSH,gi-G-62CGX,"Artediellichthys nigripinnis (Schmidt, 1937)",species
+gi-G-62CGX,gi-G-8MC,Artediellichthys,genus
+gi-G-8MC,gi-G-42M,Cottidae,family
+gi-G-56LQD,gi-G-7WB9,"Threskiornis melanocephalus (Latham, 1790)",species
+gi-G-7WB9,gi-G-KFC,"Threskiornis G. R. Gray, 1842",genus
+gi-G-KFC,gi-G-H89,"Threskiornithinae Poche, 1904",subfamily
+gi-G-H89,gi-G-3RZ,"Threskiornithidae Poche, 1904",family
+gi-G-39HWB,gi-G-4BC4,"Empidonax difficilis S. F. Baird, 1858",species
+gi-G-4BC4,gi-G-HMW,"Empidonax Cabanis, 1855",genus
+gi-G-VB4F,gi-G-62LBH,Cicuta bulbifera L.,species
+gi-G-62LBH,gi-G-J5W,Cicuta L.,genus
+gi-G-64G6Y,gi-G-627QR,"Accipiter princeps Mayr, 1934",species
+gi-G-BNMTV,gi-G-3XTLF,"Mandrillus leucophaeus leucophaeus (F. Cuvier, 1807)",subspecies
+gi-G-3XTLF,gi-G-62ZM2,"Mandrillus leucophaeus (F. Cuvier, 1807)",species
+gi-G-62ZM2,gi-G-L4C,"Mandrillus Ritgen, 1824",genus
+gi-G-L4C,gi-G-JB3,Papionini,tribe
+gi-G-JB3,gi-G-7X9,"Cercopithecinae Gray, 1821",subfamily
+gi-G-BP8XR,gi-G-RYSN,Ceanothus papillosus subsp. papillosus,subspecies
+gi-G-RYSN,gi-G-62KF2,Ceanothus papillosus Torr. & A. Gray,species
+gi-G-4XXJS,gi-G-63SDB,"Smithornis capensis (A. Smith, 1839)",species
+gi-G-63SDB,gi-G-KC7,"Smithornis Bonaparte, 1850",genus
+gi-G-KC7,gi-G-9Z7,Smithornithinae,subfamily
+gi-G-3YTF5,gi-G-5MN9,"Megadendromus nikolausi Dieterlen & Rupp, 1978",species
+gi-G-5MN9,gi-G-JF8,"Megadendromus Dieterlen & Rupp, 1978",genus
+gi-G-JF8,gi-G-DBH,"Dendromurinae G. M. Allen, 1939",subfamily
+gi-G-DBH,gi-G-622LW,"Nesomyidae Forsyth Major, 1897",family
+gi-G-Z522,gi-G-3V6D,"Cranioleuca subcristata (P. L. Sclater, 1874)",species
+gi-G-7GCXH,gi-G-648VJ,"Zavattariornis stresemanni Moltoni, 1938",species
+gi-G-648VJ,gi-G-8L6,"Zavattariornis Moltoni, 1938",genus
+gi-G-4QW4B,gi-G-767N,"Pyrrhura viridicata Todd, 1913",species
+gi-G-767N,gi-G-628M9,"Pyrrhura Bonaparte, 1856",genus
+gi-G-3NGGZ,gi-G-524R,"Hylopetes alboniger (Hodgson, 1836)",species
+gi-G-524R,gi-G-L73,"Hylopetes Thomas, 1908",genus
+gi-G-L73,gi-G-KB9,"Pteromyini Brandt, 1855",tribe
+gi-G-KB9,gi-G-G48,"Sciurinae Fischer de Waldheim, 1817",subfamily
+gi-G-563D,gi-G-624WS,"Jacana Brisson, 1760",genus
+gi-G-624WS,gi-G-X3,"Jacanidae Chenu & Des Murs, 1854",family
+gi-G-X3,gi-G-V2,Charadriiformes,order
+gi-G-3FKP5,gi-G-4MS8,"Genetta johnstoni Pocock, 1908",species
+gi-G-4MS8,gi-G-KHL,"Genetta G. [Baron] Cuvier, 1816",genus
+gi-G-KHL,gi-G-626SP,"Viverrinae Gray, 1821",subfamily
+gi-G-626SP,gi-G-4DL,"Viverridae Gray, 1821",family
+gi-G-4DL,gi-G-B6L7F,"Feliformia Kretzoi, 1945",suborder
+gi-G-Q7XV,gi-G-3G96,"Calyptura cristata (Vieillot, 1818)",species
+gi-G-3G96,gi-G-8MB,"Calyptura Swainson, 1832",genus
+gi-G-N5BB,gi-G-62H23,"Bradypodion setaroi Raw, 1976",species
+gi-G-62H23,gi-G-7ZD,Bradypodion,genus
+gi-G-7ZD,gi-G-87BW7,Chamaeleonidae,family
+gi-G-3LZKN,gi-G-636V8,"Hippocampus borboniensis Duméril, 1870",species
+gi-G-59PMP,gi-G-647VS,"Turdus pallidus Gmelin, 1789",species
+gi-G-88K8Z,gi-G-62YHL,"Liolaemus tacora Demangel, 2016",species
+gi-G-62YHL,gi-G-C46,Liolaemus,genus
+gi-G-C46,gi-G-87BW7,Liolaemidae,family
+gi-G-FRJM,gi-G-YVR,"Apodemus witherbyi (Thomas, 1902)",species
+gi-G-YVR,gi-G-JXJ,"Apodemus Kaup, 1829",genus
+gi-G-4M8YF,gi-G-6VF5,"Praomys hartwigi Eisentraut, 1968",species
+gi-G-6VF5,gi-G-JXJ,"Praomys Thomas, 1915",genus
+gi-G-79859,gi-G-79NY,"Rhynchostruthus percivali Ogilvie-Grant, 1900",species
+gi-G-79NY,gi-G-6244D,"Rhynchostruthus P. L. Sclater & Hartlaub, 1881",genus
+gi-G-6S8Z8,gi-G-636L,"Nephelomys meridensis (Thomas, 1894)",species
+gi-G-636L,gi-G-93N26,"Nephelomys Weksler, Percequillo & Voss, 2006",genus
+gi-G-3VHPW,gi-G-62XYT,"Lithobates clamitans (Latreille in Sonnini de Manoncourt & Latreille, 1801)",species
+gi-G-62XYT,gi-G-FJM,"Lithobates Fitzinger, 1843",genus
+gi-G-FJM,gi-G-PW,"Ranidae Batsch, 1796",family
+gi-G-PW,gi-G-PH,Anura,order
+gi-G-PH,gi-G-9CK8W,Amphibia,class
+gi-G-6K432,gi-G-4LDB,Fumaria occidentalis Pugsley,species
+gi-G-4LDB,gi-G-93LT5,Fumaria L.,genus
+gi-G-93LT5,gi-G-DX3,Fumarioideae (Marquis) Eaton,subfamily
+gi-G-DX3,gi-G-B7VXX,Papaveraceae Juss.,family
+gi-G-65R4M,gi-G-BW9WK,Agathis lanceolata Warb.,species
+gi-G-BW9WK,gi-G-6MH,Agathis,genus
+gi-G-6MH,gi-G-623FD,Araucariaceae,family
+gi-G-623FD,gi-G-GG,Pinales,order
+gi-G-GG,gi-G-TP,Pinopsida,class
+gi-G-3G2TB,gi-G-4NJB,Gilia scopulorum M. E. Jones,species
+gi-G-4NJB,gi-G-K6Q,Gilia Ruiz & Pav.,genus
+gi-G-K6Q,gi-G-627H7,Polemonioideae Arn.,subfamily
+gi-G-627H7,gi-G-625QY,Polemoniaceae Juss.,family
+gi-G-32LKN,gi-G-3XKB,"Cuscomys oblativa (Eaton, 1916)",species
+gi-G-3XKB,gi-G-622QK,"Cuscomys Emmons, 1999",genus
+gi-G-622QK,gi-G-4L7,"Abrocomidae Miller & Gidley, 1918",family
+gi-G-6RLTS,gi-G-63BQT,"Mimus triurus (Vieillot, 1818)",species
+gi-G-63BQT,gi-G-CTD,"Mimus F. Boie, 1826",genus
+gi-G-CTD,gi-G-3RL,"Mimidae Bonaparte, 1853",family
+gi-G-35WKM,gi-G-455Q,Didelta spinosa (L. fil.) Aiton,species
+gi-G-455Q,gi-G-7NM4T,Didelta L'Hér.,genus
+gi-G-7NM4T,gi-G-622TP,Vernonioideae Lindl.,subfamily
+gi-G-3W486,gi-G-5GNQ,"Lophornis brachylophus R. T. Moore, 1949",species
+gi-G-5GNQ,gi-G-KGD,"Lophornis R. Lesson, 1829",genus
+gi-G-XVS3,gi-G-3TJF,"Contopus hispaniolensis (H. Bryant, 1867)",species
+gi-G-3TJF,gi-G-HMW,"Contopus Cabanis, 1855",genus
+gi-G-4JY4V,gi-G-6S3V,"Platysaurus maculatus Broadley, 1965",species
+gi-G-6S3V,gi-G-8K5,Platysaurus,genus
+gi-G-8K5,gi-G-8GK5Q,Cordylidae,family
+gi-G-8GK5Q,gi-G-BXVXG,Scincomorpha,superfamily
+gi-G-67RD2,gi-G-4GD,Arenaria pseudofrigida (Ostenf. & O. C. Dahl) Schischk. & Knorring,species
+gi-G-4GD,gi-G-7RZ,Arenaria L.,genus
+gi-G-7RZ,gi-G-BMH4R,Caryophyllaceae Juss.,family
+gi-G-4CT78,gi-G-63KRR,"Paradiancistrus christmasensis Schwarzhans & Møller, 2011",species
+gi-G-63KRR,gi-G-7HG,Paradiancistrus,genus
+gi-G-7HG,gi-G-3PT,Bythitidae,family
+gi-G-3PT,gi-G-BXVWY,Ophidiiformes,order
+gi-G-6X9Q7,gi-G-63RJB,Ruellia noctiflora (Nees) A. Gray,species
+gi-G-63RJB,gi-G-93LSN,Ruellia Plum. ex L.,genus
+gi-G-93LSN,gi-G-62332,Acanthoideae Eaton,subfamily
+gi-G-62332,gi-G-BMGTX,Acanthaceae Juss.,family
+gi-G-K72W,gi-G-372Q,Baccharis bigelovii A. Gray,species
+gi-G-372Q,gi-G-J6T,Baccharis L.,genus
+gi-G-6GZNB,gi-G-4G7R,Eupatorium mohrii Greene,species
+gi-G-4G7R,gi-G-J6T,Eupatorium L.,genus
+gi-G-5XR6S,gi-G-3MM9,"Chelemys macronyx (Thomas, 1894)",species
+gi-G-3MM9,gi-G-93N26,"Chelemys Thomas, 1903",genus
+gi-G-582Z9,gi-G-7YPK,Trema orientale (L.) Blume,species
+gi-G-7YPK,gi-G-7NV,Trema Lour.,genus
+gi-G-7NV,gi-G-BMGVT,Cannabaceae Martinov,family
+gi-G-3S76M,gi-G-639MH,"Laniarius fuelleborni (Reichenow, 1900)",species
+gi-G-639MH,gi-G-CCQ,"Laniarius Vieillot, 1816",genus
+gi-G-CCQ,gi-G-3RL,"Malaconotidae Swainson, 1824",family
+gi-G-KZR2,gi-G-62F9W,"Batrachoseps wrighti (Bishop, 1937)",species
+gi-G-62F9W,gi-G-JND,"Batrachoseps Bonaparte, 1839",genus
+gi-G-JND,gi-G-625RT,"Hemidactyliinae Hallowell, 1856",subfamily
+gi-G-625RT,gi-G-W3,"Plethodontidae Gray, 1850",family
+gi-G-W3,gi-G-PH,Caudata,order
+gi-G-FPJL,gi-G-YRJ,"Aplonis opaca (Kittlitz, 1833)",species
+gi-G-YRJ,gi-G-GRP,"Aplonis Gould, 1836",genus
+gi-G-GRP,gi-G-3RL,"Sturnidae Rafinesque, 1815",family
+gi-G-4BQSD,gi-G-6BRD,"Pachycoccyx audeberti (Schlegel, 1879)",species
+gi-G-6BRD,gi-G-626TC,"Pachycoccyx Cabanis, 1882",genus
+gi-G-626TC,gi-G-8S7,Cuculinae,subfamily
+gi-G-65BHR,gi-G-629NB,"Aethalops aequalis G. M. Allen, 1938",species
+gi-G-629NB,gi-G-7NM5N,"Aethalops Thomas, 1923",genus
+gi-G-7NM5N,gi-G-7NLQ2,"Balionycterini Almeida, Giannini, DeSalle & Simmons, 2009",tribe
+gi-G-7NLQ2,gi-G-FDD,"Cynopterinae Andersen, 1912",subfamily
+gi-G-4W9SQ,gi-G-7F44,Sedum pulchellum Michx.,species
+gi-G-6LQ7M,gi-G-4VJQ,"Henicophaps foersteri Rothschild & Hartert, 1906",species
+gi-G-4VJQ,gi-G-JCZ,"Henicophaps G. R. Gray, 1862",genus
+gi-G-MWML,gi-G-3CDH,"Brachyhypopomus provenzanoi Crampton, de Santana, Waddell & Lovejoy, 2017",species
+gi-G-3CDH,gi-G-BBM,Brachyhypopomus,genus
+gi-G-BBM,gi-G-623BF,Hypopomidae,family
+gi-G-623BF,gi-G-BXVWY,Gymnotiformes,order
+gi-G-YNJP,gi-G-62LZ4,"Corvus typicus (Bonaparte, 1853)",species
+gi-G-62LZ4,gi-G-8L6,"Corvus Linnaeus, 1758",genus
+gi-G-77FNB,gi-G-6PRN,"Phylloscopus umbrovirens (Rüppell, 1840)",species
+gi-G-6PRN,gi-G-625K5,"Phylloscopus F. Boie, 1826",genus
+gi-G-625K5,gi-G-3RL,Phylloscopidae,family
+gi-G-7WLVX,gi-G-7PV9X,"Procambarus morrisi Hobbs & Franz, 1991",species
+gi-G-X4BK,gi-G-3SCS,Collinsia childii Parry ex A. Gray,species
+gi-G-3SCS,gi-G-7NLP6,Collinsia Nutt.,genus
+gi-G-7NLP6,gi-G-6262K,Chelonoideae Luerss.,subfamily
+gi-G-4DXZ3,gi-G-6JG5,"Passerina caerulea (Linnaeus, 1758)",species
+gi-G-6JG5,gi-G-7QR,"Passerina Vieillot, 1816",genus
+gi-G-7QR,gi-G-3RL,Cardinalidae,family
+gi-G-6K3N6,gi-G-4LDB,Fumaria capreolata L.,species
+gi-G-7BHM4,gi-G-7RXR,"Taeniotriccus andrei Berlepsch & Hartert, 1902",species
+gi-G-7RXR,gi-G-HMW,"Taeniotriccus Berlepsch & Hartert, 1902",genus
+gi-G-5CFKP,gi-G-649L5,"Xiphocolaptes falcirostris (Spix, 1824)",species
+gi-G-649L5,gi-G-6245S,"Xiphocolaptes Lesson, 1840",genus
+gi-G-BNFRS,gi-G-6HYC9,Ficus palmata subsp. virgata (Roxb.) Browicz,subspecies
+gi-G-6HYC9,gi-G-4JYX,Ficus palmata Forssk.,species
+gi-G-4JYX,gi-G-CXM,Ficus L.,genus
+gi-G-CXM,gi-G-BMGVT,Moraceae Gaudin,family
+gi-G-B3YH9,gi-G-B3HCS,"Paguristes ulreyi Schmitt, 1921",species
+gi-G-B3HCS,gi-G-B3FT9,"Paguristes Dana, 1851",genus
+gi-G-B3FT9,gi-G-BRKPM,"Diogenidae Ortmann, 1892",family
+gi-G-BRKPM,gi-G-BMJWR,"Paguroidea Latreille, 1802",superfamily
+gi-G-BMJWR,gi-G-7NFJ8,"Anomura MacLeay, 1838",infraorder
+gi-G-4XC36,gi-G-644QW,Silene douglasii Hook.,species
+gi-G-644QW,gi-G-7RZ,Silene L.,genus
+gi-G-5X6P9,gi-G-62J7B,"Calandrella brachydactyla (Leisler, 1814)",species
+gi-G-62J7B,gi-G-667,"Calandrella Kaup, 1829",genus
+gi-G-6PHXP,gi-G-5DD9,Leptosiphon breviculus (A. Gray) J. M. Porter & L. A. Johnson,species
+gi-G-5DD9,gi-G-K6Q,Leptosiphon Benth.,genus
+gi-G-3K5VC,gi-G-62TKF,Helianthus cusickii A. Gray,species
+gi-G-62TKF,gi-G-J6T,Helianthus L.,genus
+gi-G-4HJFK,gi-G-6Q2K,"Physopyxis lyra Cope, 1872",species
+gi-G-6Q2K,gi-G-9F7,Physopyxis,genus
+gi-G-9F7,gi-G-6236K,Doradidae,family
+gi-G-6236K,gi-G-BXVWY,Siluriformes,order
+gi-G-53Q85,gi-G-7QW7,Symphyotrichum jessicae (R. Piper) G. L. Nesom,species
+gi-G-7QW7,gi-G-J6T,Symphyotrichum Nees,genus
+gi-G-4HYJQ,gi-G-6QMW,Pinguicula ionantha R. K. Godfrey,species
+gi-G-6QMW,gi-G-K5W,Pinguicula L.,genus
+gi-G-K5W,gi-G-BVK,Pinguiculoideae Komiya,subfamily
+gi-G-BVK,gi-G-BMGTX,Lentibulariaceae Rich.,family
+gi-G-TBT9,gi-G-3LLS,"Chaetodipus pernix (J. A. Allen, 1898)",species
+gi-G-3LLS,gi-G-93MYY,"Chaetodipus Merriam, 1889",genus
+gi-G-93MYY,gi-G-6255W,"Perognathinae Coues, 1875",subfamily
+gi-G-6255W,gi-G-4CW,"Heteromyidae Gray, 1868",family
+gi-G-4CW,gi-G-B6L6L,"Castorimorpha A. E. Wood, 1955",suborder
+gi-G-5B7HN,gi-G-63VMN,Veronica verna L.,species
+gi-G-3JKGM,gi-G-4TBT,"Hapaloptila castanea (J. Verreaux, 1866)",species
+gi-G-4TBT,gi-G-622HW,"Hapaloptila P. L. Sclater, 1881",genus
+gi-G-5KDHN,gi-G-B3JG3,Phlox nivalis subsp. nivalis,subspecies
+gi-G-B3JG3,gi-G-6NSB,Phlox nivalis G. Lodd. ex Sweet,species
+gi-G-6NSB,gi-G-K6Q,Phlox L.,genus
+gi-G-57SDJ,gi-G-7YDX,"Trachypithecus margarita (Elliot, 1909)",species
+gi-G-7YDX,gi-G-L6B,"Trachypithecus Reichenbach, 1862",genus
+gi-G-8KQNF,gi-G-8K3ZQ,"Saucerottia castaneiventris (Gould, 1856)",species
+gi-G-8K3ZQ,gi-G-KGD,"Saucerottia Bonaparte, 1850",genus
+gi-G-6G7YV,gi-G-7P3K8,"Episcomitra zonata (Marryat, 1819)",species
+gi-G-7P3K8,gi-G-7NXTV,"Episcomitra Monterosato, 1917",genus
+gi-G-7NXTV,gi-G-7NJTJ,"Mitrinae Swainson, 1831",subfamily
+gi-G-7NJTJ,gi-G-7NGQY,"Mitridae Swainson, 1831",family
+gi-G-7NGQY,gi-G-BMGWL,"Mitroidea Swainson, 1831",superfamily
+gi-G-BMGWL,gi-G-9WLSP,"Neogastropoda Wenz, 1938",order
+gi-G-9WLSP,gi-G-BMGTT,"Caenogastropoda L. R. Cox, 1960",subclass
+gi-G-BMGTT,gi-G-M2L,"Gastropoda Cuvier, 1795",class
+gi-G-5TY4B,gi-G-SZT,"Alticus arnoldorum (Curtiss, 1938)",species
+gi-G-SZT,gi-G-78Y,Alticus,genus
+gi-G-78Y,gi-G-PC,Blenniidae,family
+gi-G-J6MH,gi-G-34R8,"Asymbolus pallidus Last, Gomon & Gledhill, 1999",species
+gi-G-34R8,gi-G-G6B,Asymbolus,genus
+gi-G-G6B,gi-G-VL,Scyliorhinidae,family
+gi-G-VL,gi-G-LB,Carcharhiniformes,order
+gi-G-LB,gi-G-8X6G5,Elasmobranchii,class
+gi-G-8X6G5,gi-G-8V4V5,Chondrichthyes,parvphylum
+gi-G-349CM,gi-G-423K,"Dasyornis brachypterus (Latham, 1802)",species
+gi-G-423K,gi-G-8ZP,"Dasyornis Vigors & Horsfield, 1827",genus
+gi-G-8ZP,gi-G-3RL,Dasyornithidae,family
+gi-G-44BBQ,gi-G-84QLG,"Montipora crassituberculata Bernard, 1897",species
+gi-G-84QLG,gi-G-84JTX,"Montipora Blainville, 1830",genus
+gi-G-84JTX,gi-G-BX37X,"Acroporidae Verrill, 1901",family
+gi-G-BX37X,gi-G-B8V7V,"Refertina Okubo, 2016",suborder
+gi-G-59THM,gi-G-843K,"Tylomys watsoni Thomas, 1899",species
+gi-G-843K,gi-G-KGN,"Tylomys Peters, 1866",genus
+gi-G-KGN,gi-G-8P5,"Tylomyinae Reig, 1984",subfamily
+gi-G-66Y4K,gi-G-X8J,"Antechinus swainsonii (Waterhouse, 1840)",species
+gi-G-X8J,gi-G-L4X,"Antechinus Macleay, 1841",genus
+gi-G-L4X,gi-G-628HY,"Phascogalini Gill, 1872",tribe
+gi-G-628HY,gi-G-8ZW,"Dasyurinae Goldfuss, 1820",subfamily
+gi-G-8ZW,gi-G-B6L7T,"Dasyuridae Goldfuss, 1820",family
+gi-G-B6L7T,gi-G-LJ,"Dasyuromorphia Gill, 1872",order
+gi-G-53Q7S,gi-G-7QW7,Symphyotrichum frondosum (Nutt.) G. L. Nesom,species
+gi-G-BNV7R,gi-G-9Y94W,Phoradendron leucarpum subsp. tomentosum (DC.) J. R. Abbott & R. L. Thomps.,subspecies
+gi-G-9Y94W,gi-G-6NZT,Phoradendron leucarpum (Raf.) Reveal & M. C. Johnst.,species
+gi-G-6NZT,gi-G-626RG,Phoradendron Nutt.,genus
+gi-G-626RG,gi-G-B7VXZ,Viscaceae Batsch,family
+gi-G-B7VXZ,gi-G-MG,Santalales R. Br. ex Bercht. & J. Presl,order
+gi-G-6Q665,gi-G-5DYL,"Leucosticte sillemi Roselaar, 1992",species
+gi-G-5DYL,gi-G-6244D,"Leucosticte Swainson, 1832",genus
+gi-G-3DY5Z,gi-G-62SNP,Fendlerella utahensis (S. Watson) A. Heller,species
+gi-G-62SNP,gi-G-JPZ,Fendlerella A. Heller,genus
+gi-G-JPZ,gi-G-B82,Hydrangeoideae Burnett,subfamily
+gi-G-B82,gi-G-ZT,Hydrangeaceae Dumort.,family
+gi-G-6TPNJ,gi-G-63K8W,"Paraliparis retrodorsalis Stein, Chernova & Andriashev, 2001",species
+gi-G-5Y92X,gi-G-3NFT,"Chlamydera cerviniventris Gould, 1850",species
+gi-G-3NFT,gi-G-6276X,"Chlamydera Gould, 1837",genus
+gi-G-6276X,gi-G-3RL,Ptilonorhynchidae,family
+gi-G-4V2ST,gi-G-7D6G,"Scardinius knezevici Bianco & Kottelat, 2005",species
+gi-G-7D6G,gi-G-6248Q,Scardinius,genus
+gi-G-9CND,gi-G-MZS,Acleisanthes crassifolia A. Gray,species
+gi-G-MZS,gi-G-DG4,Acleisanthes A. Gray,genus
+gi-G-DG4,gi-G-BMH4R,Nyctaginaceae Juss.,family
+gi-G-4Y669,gi-G-7JF9,"Solenodon arredondoi Morgan & Ottenwalder, 1993",species
+gi-G-7JF9,gi-G-GDQ,"Solenodon Brandt, 1833",genus
+gi-G-GDQ,gi-G-B6L7N,"Solenodontidae Gill, 1872",family
+gi-G-5FPX2,gi-G-FKXV,Aphyllon cooperi subsp. cooperi,subspecies
+gi-G-FKXV,gi-G-YJZ,Aphyllon cooperi A. Gray,species
+gi-G-YJZ,gi-G-DQG,Aphyllon Mitch.,genus
+gi-G-DQG,gi-G-BMGTX,Orobanchaceae Vent.,family
+gi-G-5L6TN,gi-G-4XCBV,Silene hookeri subsp. hookeri,subspecies
+gi-G-4XCBV,gi-G-644QW,Silene hookeri Nutt. ex Torr. & A. Gray,species
+gi-G-3H2G5,gi-G-4QBZ,Goodmania luteola (Parry) Reveal & Ertter,species
+gi-G-4QBZ,gi-G-93LT4,Goodmania Reveal & Ertter,genus
+gi-G-7BJYX,gi-G-7SG9,"Tantilla nigriceps Kennicott, 1860",species
+gi-G-7SG9,gi-G-87CG5,Tantilla,genus
+gi-G-87CG5,gi-G-8G9,Colubrinae,subfamily
+gi-G-7WP6R,gi-G-63QST,"Psilopogon viridis (Boddaert, 1783)",species
+gi-G-63QST,gi-G-7NJP4,"Psilopogon S. Müller, 1836",genus
+gi-G-7NJP4,gi-G-3TR,Megalaimidae,family
+gi-G-3W9KV,gi-G-5GYJ,"Loxodonta africana (Blumenbach, 1797)",species
+gi-G-5GYJ,gi-G-9M4,"Loxodonta Anonymous, 1827",genus
+gi-G-9M4,gi-G-3WB,"Elephantidae Gray, 1821",family
+gi-G-3WB,gi-G-LG,"Proboscidea Illiger, 1811",order
+gi-G-57KJB,gi-G-7Y24,"Toumeyella parvicornis (Cockerell, 1897)",species
+gi-G-7Y24,gi-G-8D9,Toumeyella,genus
+gi-G-8D9,gi-G-C2KG4,Coccidae,family
+gi-G-C2KG4,gi-G-BXWD4,"Coccidomorpha Heslop-Harrison, 1952",infraorder
+gi-G-BXWD4,gi-G-BXVWV,"Sternorrhyncha Amyot & Audinet-Serville, 1843",suborder
+gi-G-TMRP,gi-G-3M73,"Characidium tenue (Cope, 1894)",species
+gi-G-3M73,gi-G-8NM,Characidium,genus
+gi-G-8NM,gi-G-X2,Crenuchidae,family
+gi-G-X2,gi-G-BXVWY,Characiformes,order
+gi-G-3JK9Z,gi-G-6363J,"Hapalemur aureus Meier, Albignac, Peyriéras, Rumpler & Wright, 1987",species
+gi-G-6363J,gi-G-624XW,"Hapalemur I. Geoffroy Saint-Hilaire, 1851",genus
+gi-G-624XW,gi-G-622ZR,"Lemuridae Gray, 1821",family
+gi-G-622ZR,gi-G-93MP8,"Lemuroidea Gray, 1821",superfamily
+gi-G-93MP8,gi-G-4FM,"Lemuriformes Gray, 1821",infraorder
+gi-G-4FM,gi-G-BMGW3,"Strepsirrhini É. Geoffroy Saint-Hilaire, 1812",suborder
+gi-G-6GYDP,gi-G-4G38,"Eunectes notaeus Cope, 1862",species
+gi-G-4G38,gi-G-87CDR,Eunectes,genus
+gi-G-87CDR,gi-G-79Q,Boinae,subfamily
+gi-G-79Q,gi-G-8GK5S,Boidae,family
+gi-G-8GK5S,gi-G-BXVXG,Booidea,superfamily
+gi-G-BNBKN,gi-G-34JJ8,Delphinium parryi subsp. purpureum (Lewis & Epling) M. J. Warnock,subspecies
+gi-G-34JJ8,gi-G-42R2,Delphinium parryi A. Gray,species
+gi-G-6CC89,gi-G-3ZZF,"Dasycrotapha plateni (W. Blasius, 1890)",species
+gi-G-3ZZF,gi-G-J34,"Dasycrotapha Tweeddale, 1878",genus
+gi-G-5XWQ6,gi-G-62LWM,"Chloris chloris (Linnaeus, 1758)",species
+gi-G-62LWM,gi-G-6244D,"Chloris Cuvier, 1800",genus
+gi-G-8LVBQ,gi-G-8KVQL,"Dasypterus xanthinus Thomas, 1897",species
+gi-G-8KVQL,gi-G-KXM,"Dasypterus Peters, 1870",genus
+gi-G-KXM,gi-G-628BX,"Lasiurini Tate, 1942",tribe
+gi-G-628BX,gi-G-HTH,"Vespertilioninae Gray, 1821",subfamily
+gi-G-3YJ7Z,gi-G-62ZG3,"Mazama temama (Kerr, 1792)",species
+gi-G-62ZG3,gi-G-626SC,"Mazama Rafinesque, 1817",genus
+gi-G-626SC,gi-G-7XR,"Capreolinae Brookes, 1828",subfamily
+gi-G-7XR,gi-G-B6L7D,"Cervidae Goldfuss, 1820",family
+gi-G-B6L7D,gi-G-LG,"Artiodactyla Owen, 1848",order
+gi-G-8L3D2,gi-G-3HXZ,Carya illinoinensis (Wangenh.) K. Koch,species
+gi-G-3HXZ,gi-G-JRQ,Carya Nutt.,genus
+gi-G-JRQ,gi-G-BJB,Juglandoideae Eaton,subfamily
+gi-G-BJB,gi-G-384,Juglandaceae DC. ex Perleb,family
+gi-G-384,gi-G-MG,Fagales,order
+gi-G-5XKBR,gi-G-3L2F,"Cercopithecus cephus (Linnaeus, 1758)",species
+gi-G-3L2F,gi-G-KPP,"Cercopithecus Linnaeus, 1758",genus
+gi-G-KPP,gi-G-JB3,Cercopithecini,tribe
+gi-G-6BPNL,gi-G-62PXR,Cucumis sativus L.,species
+gi-G-62PXR,gi-G-8SC,Cucumis L.,genus
+gi-G-8SC,gi-G-BMGVP,Cucurbitaceae Juss.,family
+gi-G-BMGVP,gi-G-MG,Cucurbitales Juss. ex Bercht. & J. Presl,order
+gi-G-5VKTK,gi-G-62CWG,"Apalis melanocephala (Fischer & Reichenow, 1884)",species
+gi-G-62CWG,gi-G-89S,"Apalis Swainson, 1833",genus
+gi-G-3G2RN,gi-G-4NJB,Gilia nevinii A. Gray ex Lyon,species
+gi-G-4W9Y8,gi-G-7F44,Sedum smallii (Britton) Ahles,species
+gi-G-3W4H8,gi-G-5GPQ,"Lophostoma carrikeri (J. A. Allen, 1910)",species
+gi-G-5GPQ,gi-G-L5D,"Lophostoma d'Orbigny, 1836",genus
+gi-G-L5D,gi-G-K5K,"Phyllostomini Gray, 1825",tribe
+gi-G-K5K,gi-G-625JW,"Phyllostominae Gray, 1825",subfamily
+gi-G-625JW,gi-G-622NM,"Phyllostomidae Gray, 1825",family
+gi-G-622NM,gi-G-4FX,"Noctilionoidea Gray, 1821",superfamily
+gi-G-3VKZ5,gi-G-5FNB,Lithophragma glabrum Nutt. ex Torr. & A. Gray,species
+gi-G-5FNB,gi-G-6278B,Lithophragma (Nutt.) Torr. & A. Gray,genus
+gi-G-65CBJ,gi-G-629N9,"Aethopyga pulcherrima Sharpe, 1876",species
+gi-G-629N9,gi-G-D7B,"Aethopyga Cabanis, 1850",genus
+gi-G-D7B,gi-G-3RL,"Nectariniidae Vigors, 1825",family
+gi-G-7B9DX,gi-G-7R4P,"Synchiropus hawaiiensis Fricke, 2000",species
+gi-G-7R4P,gi-G-622JN,Synchiropus,genus
+gi-G-622JN,gi-G-PC,Callionymidae,family
+gi-G-5WVPN,gi-G-3FM7,Callitriche heterophylla Pursh,species
+gi-G-3FM7,gi-G-7NLNJ,Callitriche L.,genus
+gi-G-7NLNJ,gi-G-6262K,Callitrichoideae Arn.,subfamily
+gi-G-ZHL,gi-G-5W6,"Aquila Brisson, 1760",genus
+gi-G-4SB9R,gi-G-78VK,"Rhipidura atra Salvadori, 1876",species
+gi-G-78VK,gi-G-626VB,"Rhipidura Vigors & Horsfield, 1827",genus
+gi-G-626VB,gi-G-3RL,"Rhipiduridae Sundevall, 1872",family
+gi-G-4R434,gi-G-76H9,"Quemisia gravis Miller, 1929",species
+gi-G-76H9,gi-G-JNH,"Quemisia Miller, 1929",genus
+gi-G-JNH,gi-G-62554,"Heptaxodontinae Anthony, 1917",subfamily
+gi-G-62554,gi-G-4L7,"Heptaxodontidae Anthony, 1917",family
+gi-G-8LQR,gi-G-LQM,"Abrawayaomys ruschii Cunha & Cruz, 1979",species
+gi-G-LQM,gi-G-93N26,"Abrawayaomys Cunha & Cruz, 1979",genus
+gi-G-5D8NH,gi-G-8B88,"Zosterops natalis Lister, 1889",species
+gi-G-44QX8,gi-G-5VXQ,"Mustela itatsi Temminck, 1844",species
+gi-G-5VXQ,gi-G-JXN,"Mustela Linnaeus, 1758",genus
+gi-G-JXN,gi-G-CZT,"Mustelinae Fischer, 1817",subfamily
+gi-G-5D387,gi-G-63WZK,"Zerynthia rumina (Linnaeus, 1758)",species
+gi-G-63WZK,gi-G-DX5,Zerynthia,genus
+gi-G-4977R,gi-G-67R7,"Oligosoma notosaurus (Patterson & Daugherty, 1990)",species
+gi-G-67R7,gi-G-8GNQS,Oligosoma,genus
+gi-G-8GNQS,gi-G-G43,Eugongylinae,subfamily
+gi-G-G43,gi-G-8GK5Q,Scincidae,family
+gi-G-53PNJ,gi-G-7QV6,Symphoricarpos palmeri G. N. Jones,species
+gi-G-7QV6,gi-G-BVBBT,Symphoricarpos Dill. ex Juss.,genus
+gi-G-BVBBT,gi-G-7PP,Caprifolioideae Eaton,subfamily
+gi-G-7PP,gi-G-BMH55,Caprifoliaceae Juss.,family
+gi-G-BMH55,gi-G-MG,Dipsacales Juss. ex Bercht. & J. Presl,order
+gi-G-7697J,gi-G-6JYZ,Pedicularis contorta Benth.,species
+gi-G-6JYZ,gi-G-DQG,Pedicularis L.,genus
+gi-G-675MV,gi-G-WQP,"Anolis cuvieri Merrem, 1820",species
+gi-G-WQP,gi-G-8Y8,Anolis,genus
+gi-G-8Y8,gi-G-87BW7,Dactyloidae,family
+gi-G-RYP6,gi-G-62KF2,Ceanothus arboreus Greene,species
+gi-G-4NMBX,gi-G-6YXS,"Pseudeos fuscata (Blyth, 1858)",species
+gi-G-6YXS,gi-G-628JZ,"Pseudeos J. L. Peters, 1935",genus
+gi-G-628JZ,gi-G-FBD,Loriinae,subfamily
+gi-G-5DSKQ,gi-G-RJB8,"Caryophyllia (Caryophyllia) ambrosia caribbeana Cairns, 1979",subspecies
+gi-G-RJB8,gi-G-85K63,"Caryophyllia (Caryophyllia) ambrosia Alcock, 1898",species
+gi-G-85K63,gi-G-84M5P,"Caryophyllia (Caryophyllia) Lamarck, 1801",subgenus
+gi-G-84M5P,gi-G-84JYS,"Caryophyllia Lamarck, 1801",genus
+gi-G-84JYS,gi-G-BX37Y,"Caryophylliidae Dana, 1846",family
+gi-G-6YQMY,gi-G-7GWF,Silphium albiflorum A. Gray,species
+gi-G-7GWF,gi-G-J6T,Silphium L.,genus
+gi-G-53844,gi-G-7PLW,"Sturnira nana Gardner & O'Neill, 1971",species
+gi-G-7PLW,gi-G-L96,"Sturnira Gray, 1842",genus
+gi-G-L96,gi-G-KD5,"Sturnirini Miller, 1907",tribe
+gi-G-KD5,gi-G-625JW,"Stenodermatinae Gervais, 1856",subfamily
+gi-G-5KK6V,gi-G-784MD,Polanisia erosa subsp. erosa,subspecies
+gi-G-784MD,gi-G-6TR4,Polanisia erosa (Nutt.) Iltis,species
+gi-G-6TR4,gi-G-8BN,Polanisia Raf.,genus
+gi-G-8BN,gi-G-6228L,Cleomaceae Bercht. & J. Presl,family
+gi-G-6228L,gi-G-MG,Brassicales Bromhead,order
+gi-G-67QF5,gi-G-ZFN,"Apus unicolor (Jardine, 1830)",species
+gi-G-ZFN,gi-G-J5Z,"Apus Scopoli, 1777",genus
+gi-G-ZRKV,gi-G-3W8G,"Crotophaga ani Linnaeus, 1758",species
+gi-G-3W8G,gi-G-6275Y,"Crotophaga Linnaeus, 1758",genus
+gi-G-6275Y,gi-G-8S7,Crotophaginae,subfamily
+gi-G-4CKH8,gi-G-6DFM,"Papilio machaon Linnaeus, 1758",species
+gi-G-RYR9,gi-G-62KF2,Ceanothus herbaceus Raf.,species
+gi-G-63CMY,gi-G-CYC,"Motacilla Linnaeus, 1758",genus
+gi-G-CYC,gi-G-3RL,"Motacillidae Horsfield, 1821",family
+gi-G-4M5HF,gi-G-6V7H,Potentilla jaegeri (Munz & I. M. Johnst.) Wheeler,species
+gi-G-6V7H,gi-G-628NC,Potentilla L.,genus
+gi-G-5ZT8Q,gi-G-3T9K,"Conirostrum leucogenys (Lafresnaye, 1852)",species
+gi-G-3T9K,gi-G-H87,"Conirostrum d'Orbigny & Lafresnaye, 1838",genus
+gi-G-H87,gi-G-3RL,Thraupidae,family
+gi-G-5GFR,gi-G-628LJ,"Lontra Gray, 1843",genus
+gi-G-628LJ,gi-G-CZT,"Lutrinae Bonaparte, 1838",subfamily
+gi-G-3PG9N,gi-G-62WKL,"Illadopsis albipectus (Reichenow, 1888)",species
+gi-G-62WKL,gi-G-6264V,"Illadopsis Heine, 1860",genus
+gi-G-C8R9,gi-G-SXX,"Alsophis sanctonum Barbour, 1915",species
+gi-G-SXX,gi-G-87CGR,Alsophis,genus
+gi-G-87CGR,gi-G-8G9,Dipsadinae,subfamily
+gi-G-NKLR,gi-G-62H57,"Bubalus mindorensis Heude, 1888",species
+gi-G-62H57,gi-G-J8K,"Bubalus C. H. Smith, 1827",genus
+gi-G-J8K,gi-G-622G9,"Bovinae Gray, 1821",subfamily
+gi-G-622G9,gi-G-B6L7D,"Bovidae Gray, 1821",family
+gi-G-ZK5P,gi-G-3W2V,"Crocidura ludia Hollister, 1916",species
+gi-G-FZDW,gi-G-ZFN,"Apus horus (Heuglin, 1869)",species
+gi-G-BP8BM,gi-G-CYJ6,Ampelopsis glandulosa var. heterophylla (Thunb.) Momiy.,variety
+gi-G-CYJ6,gi-G-629VT,Ampelopsis glandulosa (Wall.) Momiy.,species
+gi-G-629VT,gi-G-KHJ,Ampelopsis Michx.,genus
+gi-G-7855J,gi-G-6TGS,"Poecile rufescens (J. K. Townsend, 1837)",species
+gi-G-6TGS,gi-G-626B2,"Poecile Kaup, 1829",genus
+gi-G-626B2,gi-G-3RL,"Paridae Vigors, 1825",family
+gi-G-895M8,gi-G-7HVQ,"Sitana visiri Deepak, 2016",species
+gi-G-7HVQ,gi-G-87CGT,Sitana,genus
+gi-G-87CGT,gi-G-64B,Draconinae,subfamily
+gi-G-64B,gi-G-87BW7,Agamidae,family
+gi-G-48RLY,gi-G-5TDPH,Odontostephana baldwyniana (Sweet) Alexander,species
+gi-G-67T6Q,gi-G-336V,Arracacia xanthorrhiza Bancr.,species
+gi-G-336V,gi-G-J5W,Arracacia Bancr.,genus
+gi-G-CSS4,gi-G-628WG,"Amissidens hainesi (Kailola, 2000)",species
+gi-G-628WG,gi-G-6Q6,Amissidens,genus
+gi-G-6Q6,gi-G-6236K,Ariidae,family
+gi-G-XSH7,gi-G-62MWT,"Conopophila rufogularis (Gould, 1843)",species
+gi-G-62MWT,gi-G-CKJ,"Conopophila Reichenbach, 1852",genus
+gi-G-KHZQ,gi-G-37QG,Balsamorhiza careyana A. Gray,species
+gi-G-37QG,gi-G-J6T,Balsamorhiza Hook.,genus
+gi-G-373SH,gi-G-47CF,"Doellingeria elegans (Nutt.) Semple, Brouillet & G. A. Allen",species
+gi-G-47CF,gi-G-J6T,Doellingeria Nees,genus
+gi-G-59LYK,gi-G-83QX,"Tupaia minor Günther, 1876",species
+gi-G-83QX,gi-G-HLK,"Tupaia Raffles, 1821",genus
+gi-G-HLK,gi-G-426,"Tupaiidae Gray, 1825",family
+gi-G-426,gi-G-LG,"Scandentia Wagner, 1855",order
+gi-G-6DYPL,gi-G-62QNG,"Egretta dimorpha Hartert, 1914",species
+gi-G-62QNG,gi-G-J6C,"Egretta T. Forster, 1817",genus
+gi-G-PHRB,gi-G-3F4D,"Calcochloris tytonis (Simonetta, 1968)",species
+gi-G-3F4D,gi-G-J4W,"Calcochloris Mivart, 1867",genus
+gi-G-J4W,gi-G-87M,"Amblysominae Simonetta, 1957",subfamily
+gi-G-87M,gi-G-4CZ,"Chrysochloridae Gray, 1825",family
+gi-G-4CZ,gi-G-B6L6K,"Chrysochloridea Broom, 1915",suborder
+gi-G-B6L6K,gi-G-LG,"Afrosoricida Stanhope, 1998",order
+gi-G-4VWS3,gi-G-6457T,"Scorpaena jacksoniensis Steindachner, 1866",species
+gi-G-6457T,gi-G-G5F,Scorpaena,genus
+gi-G-G5F,gi-G-42M,Scorpaenidae,family
+gi-G-42S9D,gi-G-5RJY,"Microcarbo africanus (Gmelin, 1789)",species
+gi-G-5RJY,gi-G-62694,"Microcarbo Bonaparte, 1856",genus
+gi-G-62694,gi-G-46J,"Phalacrocoracidae Reichenbach, 1849",family
+gi-G-46J,gi-G-V2,Suliformes,order
+gi-G-5D8ND,gi-G-8B88,"Zosterops montanus Bonaparte, 1850",species
+gi-G-ZK5F,gi-G-3W2V,"Crocidura latona Hollister, 1916",species
+gi-G-76KYS,gi-G-6KPY,Penstemon humilis Nutt. ex A. Gray,species
+gi-G-6KPY,gi-G-7NLP6,Penstemon Schmidel,genus
+gi-G-372KH,gi-G-479S,"Dobsonia emersa Bergmans & Sarbini, 1985",species
+gi-G-479S,gi-G-7NM6S,"Dobsonia Palmer, 1898",genus
+gi-G-7NM6S,gi-G-7NLSG,"Dobsoniini Andersen, 1912",tribe
+gi-G-7NLSG,gi-G-FDD,"Harpyionyterinae Miller, 1907",subfamily
+gi-G-3LKLL,gi-G-4X5Q,"Hieraaetus ayresii (Gurney, 1862)",species
+gi-G-PT5C,gi-G-3FJP,Callirhoe involucrata (Nutt. ex Torr. & A. Gray) A. Gray,species
+gi-G-3FJP,gi-G-93LT9,Callirhoe Nutt.,genus
+gi-G-6XLB2,gi-G-7CB7,Sapindus saponaria L.,species
+gi-G-7CB7,gi-G-628N6,Sapindus L.,genus
+gi-G-38GSQ,gi-G-632YF,Echinocereus engelmannii (Parry ex Engelm.) Lem.,species
+gi-G-632YF,gi-G-93LST,Echinocereus Engelm.,genus
+gi-G-TZMP,gi-G-3MXW,"Chilasa clytia (Linnaeus, 1758)",species
+gi-G-3MXW,gi-G-DX5,Chilasa,genus
+gi-G-B9NTS,gi-G-B8Y77,Gymnocarpium disjunctum (Rupr.) Ching,species
+gi-G-B8Y77,gi-G-B8WSB,Gymnocarpium Newman,genus
+gi-G-B8WSB,gi-G-B8TXB,Cystopteridaceae (Payer) Shmakov,family
+gi-G-BQJ72,gi-G-TXCW,Chenopodium ficifolium subsp. ficifolium,subspecies
+gi-G-TXCW,gi-G-3MS5,Chenopodium ficifolium Sm.,species
+gi-G-3MS5,gi-G-93LSZ,Chenopodium L.,genus
+gi-G-93LSZ,gi-G-68Z,Chenopodioideae Burnett,subfamily
+gi-G-4XD87,gi-G-644QW,Silene spaldingii S. Watson,species
+gi-G-33SY5,gi-G-3Z8Q,"Dacnis hartlaubi P. L. Sclater, 1855",species
+gi-G-3Z8Q,gi-G-H87,"Dacnis Cuvier, 1816",genus
+gi-G-3VV9T,gi-G-5G6G,Loeseliastrum matthewsii (A. Gray) Timbrook,species
+gi-G-5G6G,gi-G-K6Q,Loeseliastrum (Brand) Timbrook,genus
+gi-G-4MDWB,gi-G-6VPV,"Prinia buchanani Blyth, 1844",species
+gi-G-6VPV,gi-G-89S,"Prinia Horsfield, 1821",genus
+gi-G-4NKKL,gi-G-63R96,"Pseudantechinus roryi Cooper, Aplin & Adams, 2000",species
+gi-G-63R96,gi-G-KRX,"Pseudantechinus Tate, 1947",genus
+gi-G-KRX,gi-G-628HY,"Dasyurini Goldfuss, 1820",tribe
+gi-G-46Q3X,gi-G-629V,"Neophema petrophila (Gould, 1841)",species
+gi-G-629V,gi-G-628M9,"Neophema Salvadori, 1891",genus
+gi-G-3XVQM,gi-G-5KXJ,Manoao colensoi (Hook.) Molloy,species
+gi-G-5KXJ,gi-G-627HD,Manoao,genus
+gi-G-627HD,gi-G-623FD,Podocarpaceae,family
+gi-G-3Y6ZH,gi-G-7P8GS,"Marisa cornuarietis (Linnaeus, 1758)",species
+gi-G-7P8GS,gi-G-7NY2K,"Marisa J. E. Gray, 1824",genus
+gi-G-7NY2K,gi-G-7NFWX,"Pomaceinae Starobogatov, 1983",subfamily
+gi-G-7NFWX,gi-G-7NGGD,"Ampullariidae J. E. Gray, 1824",family
+gi-G-7NGGD,gi-G-B6L69,"Ampullarioidea Gray, 1824",superfamily
+gi-G-B6L69,gi-G-9WLSP,"Architaenioglossa Haller, 1892",order
+gi-G-64ZY2,gi-G-PSB,"Aeronautes montivagus (d'Orbigny & Lafresnaye, 1837)",species
+gi-G-PSB,gi-G-J5Z,"Aeronautes Hartert, 1892",genus
+gi-G-3VM38,gi-G-5FQX,"Litocranius walleri (Brooke, 1879)",species
+gi-G-5FQX,gi-G-93MRN,"Litocranius Kohl, 1886",genus
+gi-G-93MRN,gi-G-622G9,"Antilopinae Gray, 1821",subfamily
+gi-G-6PBRY,gi-G-62X8H,"Lepilemur ruficaudatus Grandidier, 1867",species
+gi-G-62X8H,gi-G-BWW,"Lepilemur I. Geoffroy Saint-Hilaire, 1851",genus
+gi-G-BWW,gi-G-622ZR,"Lepilemuridae Gray, 1870",family
+gi-G-4NTL9,gi-G-6ZLM,"Pseudochromis flavopunctatus Gill & Randall, 1998",species
+gi-G-6ZLM,gi-G-F89,Pseudochromis,genus
+gi-G-F89,gi-G-PC,Pseudochromidae,family
+gi-G-F6MS,gi-G-62CWG,"Apalis karamojae (Someren, 1921)",species
+gi-G-7VD2L,gi-G-8NQ88,"Heteromys (Heteromys) australis Thomas, 1901",species
+gi-G-8NQ88,gi-G-4WKC,"Heteromys Desmarest, 1817",subgenus
+gi-G-4WKC,gi-G-JNX,"Heteromys Desmarest, 1817",genus
+gi-G-JNX,gi-G-6255W,"Heteromyinae Gray, 1868",subfamily
+gi-G-X2G8,gi-G-3S9M,"Colias phicomone (Esper, 1780)",species
+gi-G-3S9M,gi-G-625MK,Colias,genus
+gi-G-8PX2Q,gi-G-8PVLB,"Anurogryllus (Anurogryllus) celerinictus Walker, 1973",species
+gi-G-8PVLB,gi-G-8NLX7,"Anurogryllus (Anurogryllus) Saussure, 1877",subgenus
+gi-G-8NLX7,gi-G-8PTPH,"Anurogryllus Saussure, 1877",genus
+gi-G-8PTPH,gi-G-8PS3Y,"Anurogryllina Randell, 1964",subtribe
+gi-G-8PS3Y,gi-G-9GTSM,"Gryllini Laicharting, 1781",tribe
+gi-G-9GTSM,gi-G-8NKKY,"Gryllinae Laicharting, 1781",subfamily
+gi-G-8NKKY,gi-G-B7W4C,"Gryllidae Laicharting, 1781",family
+gi-G-B7W4C,gi-G-8NKFV,"Grylloidea Laicharting, 1781",superfamily
+gi-G-6234R,gi-G-PQ,Anhimidae,family
+gi-G-PQ,gi-G-V2,Anseriformes,order
+gi-G-6RFZQ,gi-G-5RJY,"Microcarbo coronatus (Wahlberg, 1855)",species
+gi-G-7KQYV,gi-G-6X4PR,Ranunculus bulbosus subsp. bulbosus,subspecies
+gi-G-6X4PR,gi-G-774N,Ranunculus bulbosus L.,species
+gi-G-3KRM4,gi-G-62VK6,"Hemiphaga chathamensis (Rothschild, 1891)",species
+gi-G-349W6,gi-G-62Q88,"Dasypus kappleri Krauss, 1862",species
+gi-G-62Q88,gi-G-628HW,"Dasypus Linnaeus, 1758",genus
+gi-G-628HW,gi-G-8ZQ,"Dasypodinae Gray, 1821",subfamily
+gi-G-8ZQ,gi-G-B6L7H,"Dasypodidae Gray, 1821",family
+gi-G-B6L7H,gi-G-LG,"Cingulata Illiger, 1811",order
+gi-G-3M35V,gi-G-4XGJ,"Hipposideros abae J. A. Allen, 1917",species
+gi-G-3ZSHX,gi-G-5P5Z,Mentzelia densa Greene,species
+gi-G-5P5Z,gi-G-628KX,Mentzelia L.,genus
+gi-G-628KX,gi-G-C5K,Mentzelioideae (Rchb.) Gilg,subfamily
+gi-G-3Y83R,gi-G-5LHH,"Marmosops fuscatus (Thomas, 1896)",species
+gi-G-5LHH,gi-G-JFQ,"Marmosops Matschie, 1916",genus
+gi-G-JFQ,gi-G-98X,"Didelphinae Gray, 1821",subfamily
+gi-G-98X,gi-G-BMGVZ,"Didelphidae Gray, 1821",family
+gi-G-BMGVZ,gi-G-LJ,"Didelphimorphia Gill, 1872",order
+gi-G-4DJG5,gi-G-63LH6,"Pardalotus striatus (Gmelin, 1789)",species
+gi-G-63LH6,gi-G-626KY,"Pardalotus Vieillot, 1816",genus
+gi-G-626KY,gi-G-3RL,"Pardalotidae Strickland, 1842",family
+gi-G-69WTL,gi-G-3NHX,"Chleuasicus atrosuperciliaris Godwin-Austen, 1877",species
+gi-G-3NHX,gi-G-626LT,"Chleuasicus Blyth, 1845",genus
+gi-G-39M4T,gi-G-9WKLV,"Enallagma basidens Calvert, 1902",species
+gi-G-9WKLV,gi-G-9WKK4,"Enallagma Charpentier, 1840",genus
+gi-G-9WKK4,gi-G-B6NHX,"Coenagrionidae Kirby, 1890",family
+gi-G-B6NHX,gi-G-B6LCL,"Zygoptera Selys, 1854",suborder
+gi-G-B6LCL,gi-G-H6,"Odonata Fabricius, 1793",order
+gi-G-6S29Q,gi-G-84QLG,"Montipora altasepta Nemenzo, 1967",species
+gi-G-4KWLT,gi-G-6TPZ,"Poiana leightoni Pocock, 1908",species
+gi-G-6TPZ,gi-G-KHL,"Poiana Gray, 1865",genus
+gi-G-R6J9,gi-G-62KHQ,"Carduelis citrinella (Pallas, 1764)",species
+gi-G-62KHQ,gi-G-6244D,"Carduelis Brisson, 1760",genus
+gi-G-6VWD5,gi-G-6VTP,"Prionops rufiventris (Bonaparte, 1853)",species
+gi-G-6VTP,gi-G-627BS,"Prionops Vieillot, 1816",genus
+gi-G-627BS,gi-G-3RL,"Prionopidae Swainson, 1824",family
+gi-G-3YNFT,gi-G-5MGQ,"Medialuna ancietae Chirichigno F., 1987",species
+gi-G-5MGQ,gi-G-BPD,Medialuna,genus
+gi-G-BPD,gi-G-PC,Kyphosidae,family
+gi-G-B96CN,gi-G-B8V4X,"Asplenium platyneuron (L.) Britton, Sterns & Poggenb.",species
+gi-G-B8V4X,gi-G-B8V4L,Asplenium L.,genus
+gi-G-B8V4L,gi-G-B8TXB,Aspleniaceae Newman,family
+gi-G-7L8F7,gi-G-5CWFK,Zanthoxylum flavum subsp. pistaciifolium (Griseb.) Reynel,subspecies
+gi-G-5CWFK,gi-G-6497N,Zanthoxylum flavum Vahl,species
+gi-G-6497N,gi-G-8TK2G,Zanthoxylum L.,genus
+gi-G-8TK2G,gi-G-626WT,Zanthoxyloideae A. Juss. ex Arn.,subfamily
+gi-G-626WT,gi-G-B7VXJ,Rutaceae Juss.,family
+gi-G-6K7T,gi-G-625T5,"Pelecanus Linnaeus, 1758",genus
+gi-G-625T5,gi-G-3RZ,"Pelecanidae Rafinesque, 1815",family
+gi-G-8TQTP,gi-G-8TXPH,"Gavicalis versicolor (Gould, 1843)",species
+gi-G-8TXPH,gi-G-CKJ,"Gavicalis Schodde & I. J. Mason, 1999",genus
+gi-G-3YPHK,gi-G-84Q37,"Mediomastus fragilis Rasmussen, 1973",species
+gi-G-84Q37,gi-G-84JYH,"Mediomastus Hartman, 1944",genus
+gi-G-84JYH,gi-G-84JPF,"Capitellidae Grube, 1862",family
+gi-G-4HR32,gi-G-63MCB,"Picus awokera Temminck, 1836",species
+gi-G-63MCB,gi-G-K5T,"Picus Linnaeus, 1758",genus
+gi-G-4MHK,gi-G-6247R,"Gavia J. R. Forster, 1788",genus
+gi-G-6247R,gi-G-396,"Gaviidae Allen, 1897",family
+gi-G-396,gi-G-V2,Gaviiformes,order
+gi-G-6RTBN,gi-G-5WLT,"Myrmecocichla formicivora (Wilkes, 1817)",species
+gi-G-5WLT,gi-G-CZN,"Myrmecocichla Cabanis, 1850",genus
+gi-G-6S7HH,gi-G-5Y7M,"Nectomys magdalenae Thomas, 1897",species
+gi-G-5Y7M,gi-G-93N26,"Nectomys Peters, 1861",genus
+gi-G-6NS44,gi-G-59ZG,"Laemanctus longipes Wiegmann, 1834",species
+gi-G-59ZG,gi-G-8LV,Laemanctus,genus
+gi-G-8LV,gi-G-87BW7,Corytophanidae,family
+gi-G-3SHXX,gi-G-639GD,"Laterallus exilis (Temminck, 1831)",species
+gi-G-639GD,gi-G-FJ9,"Laterallus G. R. Gray, 1855",genus
+gi-G-4SYHS,gi-G-79VF,Ribes punctatum Ruiz & Pav.,species
+gi-G-79VF,gi-G-625DC,Ribes L.,genus
+gi-G-625DC,gi-G-B7VS8,Grossulariaceae DC.,family
+gi-G-NYV4,gi-G-62HVC,"Buteo brachypterus Hartlaub, 1860",species
+gi-G-62HVC,gi-G-5W6,"Buteo Lacepede, 1799",genus
+gi-G-4MFF3,gi-G-6VRK,"Prioniturus discurus (Vieillot, 1822)",species
+gi-G-6VRK,gi-G-628M9,"Prioniturus Wagler, 1832",genus
+gi-G-624QV,gi-G-PW,"Heleophrynidae Noble, 1931",family
+gi-G-5WVJ5,gi-G-3FWF,Calophyllum brasiliense Cambess.,species
+gi-G-3FWF,gi-G-622JQ,Calophyllum L.,genus
+gi-G-622JQ,gi-G-MLP,Calophyllaceae J. Agardh,family
+gi-G-794GY,gi-G-7PFM9,"Reginaia rotulata (B. H. Wright, 1899)",species
+gi-G-7PFM9,gi-G-7NMBX,"Reginaia D. C. Campbell & Lydeard, 2012",genus
+gi-G-7NMBX,gi-G-7NLMC,"Amblemini Rafinesque, 1820",tribe
+gi-G-5ZZS2,gi-G-3TV9,"Coracina mindanensis (Tweeddale, 1879)",species
+gi-G-3TV9,gi-G-7MZ,"Coracina Vieillot, 1816",genus
+gi-G-7DXDP,gi-G-85B6,"Uropsila leucogastra (Gould, 1837)",species
+gi-G-85B6,gi-G-626S2,"Uropsila P. L. Sclater & Salvin, 1873",genus
+gi-G-626S2,gi-G-3RL,"Troglodytidae Swainson, 1832",family
+gi-G-48XQP,gi-G-63FVB,Oenothera biennis L.,species
+gi-G-63FVB,gi-G-K22,Oenothera L.,genus
+gi-G-K22,gi-G-DL8,Onagroideae Beilschm.,subfamily
+gi-G-DL8,gi-G-BMGVG,Onagraceae Juss.,family
+gi-G-3F6WY,gi-G-4LY7,"Gallirallus australis (Sparrman, 1786)",species
+gi-G-4LY7,gi-G-FJ9,"Gallirallus Lafresnaye, 1841",genus
+gi-G-4CKGJ,gi-G-6DFM,"Papilio liomedon Moore, 1874",species
+gi-G-73QPR,gi-G-5VVH,"Muscardinus avellanarius (Linnaeus, 1758)",species
+gi-G-5VVH,gi-G-JSX,"Muscardinus Kaup, 1829",genus
+gi-G-JSX,gi-G-623HW,"Leithiinae Lydekker, 1896",subfamily
+gi-G-623HW,gi-G-4FD,"Gliridae Muirhead, 1819",family
+gi-G-373JN,gi-G-47BQ,Dodecatheon frigidum Cham. & Schltdl.,species
+gi-G-47BQ,gi-G-BVBDB,Dodecatheon L.,genus
+gi-G-BVBDB,gi-G-627BN,Primuloideae Burnett,subfamily
+gi-G-627BN,gi-G-625QY,Primulaceae Batsch ex Borkh.,family
+gi-G-64YT2,gi-G-PS4,"Aerodramus elaphrus (Oberholser, 1906)",species
+gi-G-PS4,gi-G-J5Z,"Aerodramus Oberholser, 1906",genus
+gi-G-6R4HX,gi-G-5JHN,"Macronyx capensis (Linnaeus, 1766)",species
+gi-G-5JHN,gi-G-CYC,"Macronyx Swainson, 1827",genus
+gi-G-7RBX2,gi-G-62DL5,Aureolaria levigata (Raf.) Raf.,species
+gi-G-62DL5,gi-G-DQG,Aureolaria Raf.,genus
+gi-G-4KQ2K,gi-G-6TC9,Podocarpus drouynianus F. Muell.,species
+gi-G-6TC9,gi-G-627HD,Podocarpus,genus
+gi-G-33ND3,gi-G-3YZB,"Cyrtopodion rohtasfortai (Khan & Tasnim, 1990)",species
+gi-G-3YZB,gi-G-6247T,Cyrtopodion,genus
+gi-G-4ZRF7,gi-G-4PZ,Stellaria humifusa Rottb.,species
+gi-G-4PZ,gi-G-7RZ,Stellaria L.,genus
+gi-G-6RNRH,gi-G-63BQJ,"Monarcha richardsii (E. P. Ramsay, 1881)",species
+gi-G-63BQJ,gi-G-CVP,"Monarcha Vigors & Horsfield, 1827",genus
+gi-G-CVP,gi-G-3RL,"Monarchidae Bonaparte, 1854",family
+gi-G-4ZXVD,gi-G-7ML9,"Stenodactylus affinis (Murray, 1884)",species
+gi-G-7ML9,gi-G-6247T,Stenodactylus,genus
+gi-G-PR6L,gi-G-3FGL,"Callionymus erythraeus Ninni, 1934",species
+gi-G-3FGL,gi-G-622JN,Callionymus,genus
+gi-G-4F7HT,gi-G-6LPG,"Peromyscus attwateri J. A. Allen, 1895",species
+gi-G-6LPG,gi-G-JYR,"Peromyscus Gloger, 1841",genus
+gi-G-JYR,gi-G-8P5,"Neotominae Merriam, 1894",subfamily
+gi-G-X7MZ,gi-G-62MTP,"Colomys goslingi Thomas & Wroughton, 1907",species
+gi-G-62MTP,gi-G-JXJ,"Colomys Thomas & Wroughton, 1907",genus
+gi-G-3HJY7,gi-G-4RDW,Guatteria williamsii R. E. Fr.,species
+gi-G-4RDW,gi-G-6FB,Guatteria,genus
+gi-G-5VVKC,gi-G-34W6,"Atelopus zeteki Dunn, 1933",species
+gi-G-34W6,gi-G-7FY,"Atelopus Duméril & Bibron, 1841",genus
+gi-G-7FY,gi-G-PW,"Bufonidae Gray, 1825",family
+gi-G-QSPW,gi-G-3H66,"Caprimulgus prigoginei Louette, 1990",species
+gi-G-Z4ZS,gi-G-3V6D,"Cranioleuca hellmayri (Bangs, 1907)",species
+gi-G-4Y8SV,gi-G-9WKP2,"Somatochlora georgiana Walker, 1925",species
+gi-G-9WKP2,gi-G-9WKK6,"Somatochlora Selys, 1871",genus
+gi-G-9WKK6,gi-G-WFY,"Corduliidae Kirby, 1890",family
+gi-G-WFY,gi-G-B6LCL,"Anisoptera Selys, 1854",suborder
+gi-G-3RHBV,gi-G-59KJ,"Kyphosus hawaiiensis Sakai & Nakabo, 2004",species
+gi-G-59KJ,gi-G-BPD,Kyphosus,genus
+gi-G-72MNG,gi-G-5GBZ,"Lonchura forbesi (P. L. Sclater, 1879)",species
+gi-G-5WVPG,gi-G-3FMB,Callitris monticola J. Garden,species
+gi-G-3FMB,gi-G-8SY,Callitris,genus
+gi-G-8SY,gi-G-623FD,Cupressaceae,family
+gi-G-3P4S5,gi-G-5348,"Hypsugo savii (Bonaparte, 1837)",species
+gi-G-5348,gi-G-628H3,"Hypsugo Kolenati, 1856",genus
+gi-G-628H3,gi-G-628BX,"Vespertilionini Gray, 1821",tribe
+gi-G-6375G,gi-G-FKR,"Himantopus Brisson, 1760",genus
+gi-G-FKR,gi-G-X3,Recurvirostridae,family
+gi-G-3VV38,gi-G-5G5M,"Loddigesia mirabilis (Bourcier, 1847)",species
+gi-G-5G5M,gi-G-KGD,"Loddigesia Bonaparte, 1850",genus
+gi-G-74YZ3,gi-G-63GKJ,"Oryzomys rostratus Merriam, 1901",species
+gi-G-63GKJ,gi-G-93N26,"Oryzomys Baird, 1857",genus
+gi-G-3265H,gi-G-62PXK,"Ctenomys mendocinus Philippi, 1869",species
+gi-G-687BR,gi-G-34YQ,"Athene noctua (Scopoli, 1769)",species
+gi-G-34YQ,gi-G-KDW,"Athene F. Boie, 1822",genus
+gi-G-KDW,gi-G-GQX,Surniinae,subfamily
+gi-G-3F437,gi-G-62T4S,"Galeopterus variegatus (Audebert, 1799)",species
+gi-G-62T4S,gi-G-8VY,"Galeopterus Thomas, 1908",genus
+gi-G-8VY,gi-G-342,"Cynocephalidae Simpson, 1945",family
+gi-G-342,gi-G-LG,"Dermoptera Illiger, 1811",order
+gi-G-3SH65,gi-G-639GB,Lasthenia glaberrima DC.,species
+gi-G-639GB,gi-G-J6T,Lasthenia Cass.,genus
+gi-G-BPX49,gi-G-9S54,Actaea rubra subsp. arguta (Nutt.) Hultén,subspecies
+gi-G-9S54,gi-G-NLV,Actaea rubra (Aiton) Willd.,species
+gi-G-NLV,gi-G-K95,Actaea L.,genus
+gi-G-7CWP7,gi-G-6485C,"Tropidonophis multiscutellatus (Brongersma, 1948)",species
+gi-G-4M643,gi-G-6V7H,Potentilla sterilis (L.) Garcke,species
+gi-G-6SVGG,gi-G-63HGX,"Oriolus bouroensis (Quoy & Gaimard, 1830)",species
+gi-G-63HGX,gi-G-DQ9,"Oriolus Linnaeus, 1766",genus
+gi-G-DQ9,gi-G-3RL,"Oriolidae Vigors, 1825",family
+gi-G-7VD2W,gi-G-8P49P,"Heteromys (Xylomys) nelsoni Merriam, 1902",species
+gi-G-8P49P,gi-G-4WKC,"Xylomys Merriam, 1902",subgenus
+gi-G-ZJFC,gi-G-62P2P,"Crithagra xantholaema (Salvadori, 1896)",species
+gi-G-62P2P,gi-G-6244D,"Crithagra Swainson, 1827",genus
+gi-G-6D469,gi-G-44R6,Dicliptera sexangularis (L.) Juss.,species
+gi-G-44R6,gi-G-93LSN,Dicliptera Juss.,genus
+gi-G-59PMM,gi-G-647VS,"Turdus olivaceus Linnaeus, 1766",species
+gi-G-BBBZR,gi-G-B8VQ5,Equisetum praealtum Raf.,species
+gi-G-3KKN,gi-G-66H,"Cepphus Pallas, 1769",genus
+gi-G-66H,gi-G-X3,Alcidae,family
+gi-G-42MJ5,gi-G-63B9H,"Mico melanurus (É. Geoffroy Saint-Hilaire, 1812)",species
+gi-G-6D6ZM,gi-G-45YH,"Diopsittaca nobilis (Linnaeus, 1758)",species
+gi-G-45YH,gi-G-628M9,"Diopsittaca Ridgway, 1912",genus
+gi-G-3FKP6,gi-G-4MS8,"Genetta maculata (Gray, 1830)",species
+gi-G-6JB5T,gi-G-4KKD,Flourensia cernua DC.,species
+gi-G-4KKD,gi-G-J6T,Flourensia DC.,genus
+gi-G-6JMP6,gi-G-4L26,Frasera carolinensis Walter,species
+gi-G-4L26,gi-G-6247C,Frasera Walter,genus
+gi-G-7FDSS,gi-G-647KH,"Vampyrodes caraccioli (Thomas, 1889)",species
+gi-G-647KH,gi-G-LGB,"Vampyrodes Thomas, 1900",genus
+gi-G-LGB,gi-G-L8Z,"Vampyressina Baker, Solari, Cirranello & Simmons, 2016",subtribe
+gi-G-L8Z,gi-G-KD5,"Stenodermatini Gervais, 1856",tribe
+gi-G-47FK4,gi-G-6486,"Ninox japonica (Temminck & Schlegel, 1845)",species
+gi-G-6486,gi-G-KDW,"Ninox Hodgson, 1837",genus
+gi-G-7JBS4,gi-G-FKXQ,Aphyllon californicum subsp. californicum,subspecies
+gi-G-FKXQ,gi-G-YJZ,Aphyllon californicum (Cham. & Schltdl.) A. Gray,species
+gi-G-6XJVW,gi-G-63RP4,"Sapayoa aenigma Hartert, 1903",species
+gi-G-63RP4,gi-G-FY2,"Sapayoa Hartert, 1903",genus
+gi-G-FY2,gi-G-3RL,Sapayoaidae,family
+gi-G-3VHQX,gi-G-62XYT,"Lithobates sphenocephalus (Cope, 1886)",species
+gi-G-5YD2F,gi-G-3P65,Chorizanthe diffusa Benth.,species
+gi-G-3P65,gi-G-93LT4,Chorizanthe R. Br. ex Benth.,genus
+gi-G-9KP2M,gi-G-774N,Ranunculus digitatus Hook.,species
+gi-G-7CBJQ,gi-G-7WY5,"Timalia pileata Horsfield, 1821",species
+gi-G-7WY5,gi-G-H9M,"Timalia Horsfield, 1821",genus
+gi-G-H9M,gi-G-3RL,"Timaliidae Vigors & Horsfield, 1827",family
+gi-G-55LL3,gi-G-646QQ,"Tetracheilostoma breuili (Hedges, 2008)",species
+gi-G-646QQ,gi-G-87CH8,Tetracheilostoma,genus
+gi-G-87CH8,gi-G-BYK,Epictinae,subfamily
+gi-G-BYK,gi-G-8GNDB,Leptotyphlopidae,family
+gi-G-8GNDB,gi-G-BXVXG,Typhlopoidea,superfamily
+gi-G-4JBYJ,gi-G-63LW5,"Pitta nympha Temminck & Schlegel, 1850",species
+gi-G-63LW5,gi-G-625P2,"Pitta Vieillot, 1816",genus
+gi-G-625P2,gi-G-3RL,Pittidae,family
+gi-G-3NZ7X,gi-G-52WZ,"Hypostomus gymnorhynchus (Norman, 1926)",species
+gi-G-52WZ,gi-G-C7H,Hypostomus,genus
+gi-G-C7H,gi-G-6236K,Loricariidae,family
+gi-G-69NM3,gi-G-3LLS,"Chaetodipus artus (Osgood, 1900)",species
+gi-G-B75PD,gi-G-3DTGL,"Falco peregrinus anatum Bonaparte, 1838",subspecies
+gi-G-3DTGL,gi-G-62SZ6,"Falco peregrinus Tunstall, 1771",species
+gi-G-62SZ6,gi-G-JKH,"Falco Linnaeus, 1758",genus
+gi-G-JKH,gi-G-623R8,"Falconinae Leach, 1820",subfamily
+gi-G-623R8,gi-G-386,"Falconidae Leach, 1820",family
+gi-G-386,gi-G-V2,Falconiformes,order
+gi-G-5YD2B,gi-G-3P65,Chorizanthe fimbriata Nutt.,species
+gi-G-45CZH,gi-G-5WQ6,"Myrmotherula klagesi Todd, 1927",species
+gi-G-5WQ6,gi-G-H5C,"Myrmotherula P. L. Sclater, 1858",genus
+gi-G-H5C,gi-G-3RL,"Thamnophilidae Swainson, 1824",family
+gi-G-7F93M,gi-G-85LF,Vaccinium scoparium Leiberg,species
+gi-G-85LF,gi-G-93LTS,Vaccinium L.,genus
+gi-G-4F9T3,gi-G-6LSN,Persicaria hydropiperoides (Michx.) Small,species
+gi-G-6LSN,gi-G-93LTK,Persicaria (L.) Mill.,genus
+gi-G-7VV7N,gi-G-8NNZS,"Microtus (Microtus) anatolicus Krystufek & Kefelioglu, 2002",species
+gi-G-8NNZS,gi-G-5SL9,"Microtus Schrank, 1798",subgenus
+gi-G-4Y74R,gi-G-7JH2,Solidago albopilosa E. L. Braun,species
+gi-G-ZTVC,gi-G-62P4L,Cryptantha muricata (Hook. & Arn.) A. Nelson & J. F. Macbr.,species
+gi-G-62P4L,gi-G-7NDYV,Cryptantha Lehm. ex Fisch. & C. A. Mey.,genus
+gi-G-7NDYV,gi-G-622G7,Cynoglossoideae Weigend,subfamily
+gi-G-622G7,gi-G-BMH4M,Boraginaceae Juss.,family
+gi-G-4S97P,gi-G-78QQ,"Rhinolophus hildebrandtii Peters, 1878",species
+gi-G-78QQ,gi-G-FP2,"Rhinolophus Lacépède, 1799",genus
+gi-G-FP2,gi-G-5M3,"Rhinolophidae Gray, 1825",family
+gi-G-72GXZ,gi-G-5F99,"Lipaugus streptophorus (Salvin & Godman, 1884)",species
+gi-G-5F99,gi-G-JDQ,"Lipaugus Boie, 1828",genus
+gi-G-JDQ,gi-G-8MB,Cotinginae,subfamily
+gi-G-JLMK,gi-G-35CY,Atriplex polycarpa (Torr.) S. Watson,species
+gi-G-35CY,gi-G-93LSZ,Atriplex L.,genus
+gi-G-4DYHZ,gi-G-6JGB,Passiflora incarnata L.,species
+gi-G-6JGB,gi-G-626DD,Passiflora L.,genus
+gi-G-626DD,gi-G-MLP,Passifloraceae Juss. ex Roussel,family
+gi-G-6YM77,gi-G-7G5L,"Setonix brachyurus (Quoy & Gaimard, 1830)",species
+gi-G-7G5L,gi-G-628L6,"Setonix Lesson, 1842",genus
+gi-G-7S99,gi-G-624PQ,"Tamandua Gray, 1825",genus
+gi-G-624PQ,gi-G-4FV,"Myrmecophagidae Gray, 1825",family
+gi-G-4FV,gi-G-B6L7L,"Vermilingua Illiger, 1811",suborder
+gi-G-B6L7L,gi-G-LG,"Pilosa Flower, 1883",order
+gi-G-54CB9,gi-G-7RSR,"Tachycineta albilinea (Lawrence, 1863)",species
+gi-G-7RSR,gi-G-B3Y,"Tachycineta Cabanis, 1850",genus
+gi-G-5967V,gi-G-5THRT,Trixis inula Crantz,species
+gi-G-5THRT,gi-G-JXP,Trixis Sw.,genus
+gi-G-JXP,gi-G-622TP,Mutisioideae Lindl.,subfamily
+gi-G-8TTP,gi-G-M2J,"Acanthis flammea (Linnaeus, 1758)",species
+gi-G-M2J,gi-G-6244D,"Acanthis von Borkhausen, 1797",genus
+gi-G-4NYD4,gi-G-642ZH,"Pseudohydromys pumehanae Helgen & L. Helgen, 2009",species
+gi-G-642ZH,gi-G-JXJ,"Pseudohydromys Rümmler, 1934",genus
+gi-G-ZYN5,gi-G-3WQH,"Cryptophis boschmai (Brongersma & Knaap Van Meeuven, 1964)",species
+gi-G-3WQH,gi-G-87CJ2,Cryptophis,genus
+gi-G-87CJ2,gi-G-9LQ,Hydrophiinae,subfamily
+gi-G-9LQ,gi-G-8H73Q,Elapidae,family
+gi-G-8H73Q,gi-G-BXVXG,Elapoidea,superfamily
+gi-G-BHBY,gi-G-RKT,"Alcelaphus buselaphus (Pallas, 1766)",species
+gi-G-RKT,gi-G-J4D,"Alcelaphus Blainville, 1816",genus
+gi-G-J4D,gi-G-622G9,"Alcelaphinae Brooke, 1876",subfamily
+gi-G-7VQQK,gi-G-8NR45,"Lophuromys (Lophuromys) chrysopus Osgood, 1936",species
+gi-G-8NR45,gi-G-5GRC,"Lophuromys Peters, 1874",subgenus
+gi-G-5GRC,gi-G-JFD,"Lophuromys Peters, 1874",genus
+gi-G-JFD,gi-G-624PH,"Deomyinae Thomas, 1888",subfamily
+gi-G-6F6JF,gi-G-4B2T,"Elusor macrurus Cann & Legler, 1994",species
+gi-G-4B2T,gi-G-838,Elusor,genus
+gi-G-838,gi-G-87BW9,Chelidae,family
+gi-G-87BW9,gi-G-BXVZV,Pleurodira,suborder
+gi-G-BXVZV,gi-G-9CK8W,Testudines,order
+gi-G-G22K,gi-G-62CQQ,"Ara severus (Linnaeus, 1758)",species
+gi-G-62CQQ,gi-G-628M9,"Ara Lacepede, 1799",genus
+gi-G-6VQ83,gi-G-6SNZ,"Plethodon cheoah Highton & Peabody, 2000",species
+gi-G-6SNZ,gi-G-628M6,"Plethodon Tschudi, 1838",genus
+gi-G-628M6,gi-G-625RT,"Plethodontinae Gray, 1850",subfamily
+gi-G-3CMP8,gi-G-635G4,"Euphonia concinna P. L. Sclater, 1855",species
+gi-G-635G4,gi-G-6244D,"Euphonia Desmarest, 1806",genus
+gi-G-GCMN,gi-G-62D5S,"Ardeola speciosa (Horsfield, 1821)",species
+gi-G-MFFP,gi-G-62H8K,"Bombus caliginosus (Frison, 1927)",species
+gi-G-62H8K,gi-G-KN5,"Bombus Latreille, 1802",genus
+gi-G-KN5,gi-G-BMJDX,Bombini,tribe
+gi-G-BMJDX,gi-G-6KD,Apinae,subfamily
+gi-G-6KD,gi-G-625GP,Apidae,family
+gi-G-625GP,gi-G-HYM,Apoidea,superfamily
+gi-G-HYM,gi-G-H6,Hymenoptera,order
+gi-G-6GN7P,gi-G-4DYV,Ericameria gilmanii (S. F. Blake) G. L. Nesom,species
+gi-G-4DYV,gi-G-J6T,Ericameria Nutt.,genus
+gi-G-6HWH2,gi-G-4JY9,"Ficedula mugimaki (Temminck, 1836)",species
+gi-G-4JY9,gi-G-CZN,"Ficedula Brisson, 1760",genus
+gi-G-47J2T,gi-G-63F8B,"Nisaetus pinskeri (Preleuthner & Gamauf, 1998)",species
+gi-G-63F8B,gi-G-5W6,"Nisaetus Hodgson, 1836",genus
+gi-G-8GPW5,gi-G-8FYVB,"Heremites vittatus (Olivier, 1804)",species
+gi-G-8FYVB,gi-G-8GNQV,Heremites,genus
+gi-G-8GNQV,gi-G-G43,Mabuyinae,subfamily
+gi-G-5384B,gi-G-7PLW,"Sturnira tildae de la Torre, 1959",species
+gi-G-Z7Z5,gi-G-3VBV,Crataegus fluviatilis Sarg.,species
+gi-G-3VBV,gi-G-BVBB9,Crataegus L.,genus
+gi-G-4CZB7,gi-G-63K8W,"Paraliparis avellaneus Stein, Chernova & Andriashev, 2001",species
+gi-G-37YNC,gi-G-48KC,"Drysdalia mastersii (Krefft, 1866)",species
+gi-G-48KC,gi-G-87CJ2,Drysdalia,genus
+gi-G-5TXM8,gi-G-T6W,"Amalocichla sclateriana De Vis, 1892",species
+gi-G-T6W,gi-G-6267W,"Amalocichla De Vis, 1892",genus
+gi-G-6267W,gi-G-3RL,"Petroicidae Mathews, 1920",family
+gi-G-66K3Y,gi-G-62BPG,"Anairetes parulus (Kittlitz, 1830)",species
+gi-G-62BPG,gi-G-HMW,"Anairetes Reichenbach, 1850",genus
+gi-G-7T8Z5,gi-G-8P3WS,"Dipodillus (Petteromys) stigmonyx (Heuglin, 1877)",species
+gi-G-8P3WS,gi-G-46FY,"Petteromys Pavlinov, 1982",subgenus
+gi-G-46FY,gi-G-JLF,"Dipodillus Lataste, 1881",genus
+gi-G-4PWK7,gi-G-642TQ,"Pterodroma axillaris (Salvin, 1893)",species
+gi-G-642TQ,gi-G-627CQ,"Pterodroma Bonaparte, 1856",genus
+gi-G-627CQ,gi-G-622V8,"Procellariidae Leach, 1820",family
+gi-G-622V8,gi-G-V2,Procellariiformes,order
+gi-G-4HR2X,gi-G-63MC9,"Picumnus subtilis Stager, 1968",species
+gi-G-63MC9,gi-G-K5V,"Picumnus Temminck, 1825",genus
+gi-G-K5V,gi-G-625L8,Picumninae,subfamily
+gi-G-3B4SS,gi-G-62RM7,Eriogonum nervulosum (S. Stokes) Reveal,species
+gi-G-5TRXM,gi-G-QPD,Ageratina wrightii (A. Gray) R. M. King & H. Rob.,species
+gi-G-QPD,gi-G-J6T,Ageratina O. Hoffm.,genus
+gi-G-3VX2P,gi-G-5G9V,Lomatium howellii (S. Watson) Jeps.,species
+gi-G-3FBRJ,gi-G-4M9V,"Garrulax monileger (Hodgson, 1836)",species
+gi-G-4M9V,gi-G-624XT,"Garrulax Lesson, 1831",genus
+gi-G-624XT,gi-G-3RL,"Leiothrichidae Swainson, 1832",family
+gi-G-846G,gi-G-625WG,"Tympanuchus Gloger, 1841",genus
+gi-G-625WG,gi-G-38Z,Phasianidae,family
+gi-G-38Z,gi-G-V2,Galliformes,order
+gi-G-75DL7,gi-G-63HZZ,"Otospermophilus atricapillus (Bryant, 1889)",species
+gi-G-63HZZ,gi-G-93N4J,"Otospermophilus Brandt, 1844",genus
+gi-G-F5Z7,gi-G-XYG,"Aonidiella citrina (Coquillett, 1891)",species
+gi-G-XYG,gi-G-96X,Aonidiella,genus
+gi-G-96X,gi-G-C2KG4,Diaspididae,family
+gi-G-ZK4F,gi-G-3W2V,"Crocidura foxi Dollman, 1915",species
+gi-G-72MNH,gi-G-5GBZ,"Lonchura castaneothorax (Gould, 1837)",species
+gi-G-4NQBV,gi-G-6ZDM,"Pseudobulweria rostrata (Peale, 1848)",species
+gi-G-6ZDM,gi-G-627CQ,"Pseudobulweria Mathews, 1936",genus
+gi-G-3SM7D,gi-G-5BFF,"Laudakia agrorensis (Stoliczka, 1872)",species
+gi-G-5BFF,gi-G-87CD2,Laudakia,genus
+gi-G-87CD2,gi-G-64B,Agaminae,subfamily
+gi-G-6KB4B,gi-G-62STG,Gentiana andrewsii Griseb.,species
+gi-G-62STG,gi-G-6247C,Gentiana Tourn. ex L.,genus
+gi-G-XQMX,gi-G-3TBX,Conoclinium betonicifolium (Mill.) R. M. King & H. Rob.,species
+gi-G-3TBX,gi-G-J6T,Conoclinium DC.,genus
+gi-G-45HVN,gi-G-5WXY,"Myzomela cruentata A. B. Meyer, 1874",species
+gi-G-5WXY,gi-G-CKJ,"Myzomela Vigors & Horsfield, 1827",genus
+gi-G-5D8MT,gi-G-8B88,"Zosterops kirki Shelley, 1880",species
+gi-G-6PHZ6,gi-G-5DD9,Leptosiphon oblanceolatus (Brand) J. M. Porter & L. A. Johnson,species
+gi-G-5K5M5,gi-G-4CGXS,"Panthera tigris corbetti Mazak, 1968",subspecies
+gi-G-4CGXS,gi-G-6DBT,"Panthera tigris (Linnaeus, 1758)",species
+gi-G-6DBT,gi-G-628LP,"Panthera Oken, 1816",genus
+gi-G-628LP,gi-G-623RM,"Pantherinae Pocock, 1917",subfamily
+gi-G-623RM,gi-G-4DL,"Felidae Fischer de Waldheim, 1817",family
+gi-G-6VJ6G,gi-G-63MCB,"Picus puniceus Horsfield, 1821",species
+gi-G-62TH6,gi-G-HQQ,"Helarctos Horsfield, 1825",genus
+gi-G-HQQ,gi-G-4CT,"Ursidae Fischer de Waldheim, 1817",family
+gi-G-69Q54,gi-G-3LYS,"Chamaea fasciata (Gambel, 1845)",species
+gi-G-3LYS,gi-G-626LT,"Chamaea Gambel, 1847",genus
+gi-G-436CV,gi-G-63B88,Microseris troximoides A. Gray,species
+gi-G-68W29,gi-G-3FMB,Callitris columellaris F. Muell.,species
+gi-G-6RN3C,gi-G-63BX9,"Moho nobilis (Merrem, 1786)",species
+gi-G-63BX9,gi-G-CV5,"Moho Lesson, 1830",genus
+gi-G-CV5,gi-G-3RL,"Mohoidae R. C. Fleischer H. F. James & S. L. Olson, 2008",family
+gi-G-CXX4,gi-G-629TY,"Ampelioides tschudii (G. R. Gray, 1846)",species
+gi-G-629TY,gi-G-K9W,"Ampelioides J. Verreaux, 1867",genus
+gi-G-K9W,gi-G-8MB,Rupicolinae,subfamily
+gi-G-3S8WL,gi-G-5TBQV,Laphamia lindheimeri A. Gray,species
+gi-G-5TBQV,gi-G-J6T,Laphamia A. Gray,genus
+gi-G-6Z5YF,gi-G-7JR7,Sorbus californica Greene,species
+gi-G-7JR7,gi-G-BVBB9,Sorbus L.,genus
+gi-G-54CYF,gi-G-7Q3MP,"Tachypodoiulus niger (Leach, 1816)",species
+gi-G-7Q3MP,gi-G-BDZHB,"Tachypodoiulus Verhoeff, 1893",genus
+gi-G-BDZHB,gi-G-844TV,"Ommatoiulini Hoffman, 1980",tribe
+gi-G-844TV,gi-G-7NJ2L,"Julinae Leach, 1814",subfamily
+gi-G-7NJ2L,gi-G-B6LQW,"Julidae Leach, 1814",family
+gi-G-B6LQW,gi-G-B6LMS,"Juloidea Leach, 1814",superfamily
+gi-G-B6LMS,gi-G-7ZFKJ,"Julida Brandt, 1833",order
+gi-G-7ZFKJ,gi-G-7ZFKH,"Juliformia Attems, 1926",superorder
+gi-G-7ZFKH,gi-G-7NF5B,"Eugnatha Attems, 1898",subterclass
+gi-G-7NF5B,gi-G-7NF53,"Helminthomorpha Pocock, 1887",infraclass
+gi-G-7NF53,gi-G-B6L8V,"Chilognatha Latreille, 1802/1803",subclass
+gi-G-B6L8V,gi-G-RT,"Diplopoda de Blainville in Gervais, 1844",class
+gi-G-5GF4G,gi-G-69XJ7,Chloropyron maritimum subsp. maritimum,subspecies
+gi-G-69XJ7,gi-G-62M8S,Chloropyron maritimum (Nutt. ex Benth.) A. Heller,species
+gi-G-62M8S,gi-G-DQG,Chloropyron Behr,genus
+gi-G-4NDMV,gi-G-6YDP,"Psarocolius decumanus (Pallas, 1769)",species
+gi-G-BP5QC,gi-G-57SDL,"Trachypithecus obscurus obscurus (Reid, 1837)",subspecies
+gi-G-57SDL,gi-G-7YDX,"Trachypithecus obscurus (Reid, 1837)",species
+gi-G-VYCV,gi-G-3QTB,Clematis reticulata Walter,species
+gi-G-3QTB,gi-G-K95,Clematis L.,genus
+gi-G-77FNC,gi-G-6PRN,"Phylloscopus trochilus (Linnaeus, 1758)",species
+gi-G-PYXK,gi-G-3FVG,"Calonectris leucomelas (Temminck, 1836)",species
+gi-G-3FVG,gi-G-627CQ,"Calonectris Mathews & Iredale, 1915",genus
+gi-G-5X6P5,gi-G-62J7B,"Calandrella athensis (Sharpe, 1900)",species
+gi-G-7DLTR,gi-G-84ZF,"Upeneus doriae (Günther, 1869)",species
+gi-G-84ZF,gi-G-CYT,Upeneus,genus
+gi-G-CYT,gi-G-PC,Mullidae,family
+gi-G-6WQMV,gi-G-75Q7,"Pycnonotus erythropthalmos (Hume, 1878)",species
+gi-G-75Q7,gi-G-FFJ,"Pycnonotus F. Boie, 1826",genus
+gi-G-7FVDF,gi-G-9WN8L,"Williamsonia lintneri (Hagen in Selys, 1878)",species
+gi-G-9WN8L,gi-G-9WKK6,"Williamsonia Davis, 1913",genus
+gi-G-8KQGW,gi-G-3YJF,"Cynanthus forficatus (Ridgway, 1885)",species
+gi-G-3YJF,gi-G-KGD,"Cynanthus Swainson, 1827",genus
+gi-G-3MS7P,gi-G-4Z2Z,"Hsunycteris thomasi (J. A. Allen, 1904)",species
+gi-G-4Z2Z,gi-G-KVY,"Hsunycteris Parlos, Timm, Swier, Zeballos & Baker, 2014",genus
+gi-G-KVY,gi-G-628K6,"Hsunycterini Parlos, Timm, Swier, Zeballos & Baker, 2014",tribe
+gi-G-628K6,gi-G-625JW,"Lonchophyllinae Griffiths, 1982",subfamily
+gi-G-5YCRD,gi-G-3P65,Chorizanthe stellulata Benth.,species
+gi-G-P5WN,gi-G-62JRM,"Cacomantis castaneiventris (Gould, 1867)",species
+gi-G-62JRM,gi-G-626TC,"Cacomantis S. Muller, 1843",genus
+gi-G-T4VB,gi-G-3L92,"Certhilauda curvirostris (Hermann, 1783)",species
+gi-G-3L92,gi-G-667,"Certhilauda Swainson, 1827",genus
+gi-G-5VHYT,gi-G-XHG,"Anthreptes reichenowi Gunning, 1909",species
+gi-G-XHG,gi-G-D7B,"Anthreptes Swainson, 1832",genus
+gi-G-3KRTB,gi-G-636ZT,"Hemiphyllodactylus margarethae Brongersma, 1931",species
+gi-G-636ZT,gi-G-6247T,Hemiphyllodactylus,genus
+gi-G-3B4KH,gi-G-62RM7,Eriogonum breedlovei (J. T. Howell) Reveal,species
+gi-G-FKY3,gi-G-YJZ,Aphyllon ludovicianum (Nutt.) A. Gray,species
+gi-G-3R5LT,gi-G-57XR,"Kentropyx calcarata Spix, 1825",species
+gi-G-57XR,gi-G-GYH,Kentropyx,genus
+gi-G-GYH,gi-G-8SF9P,Teiidae,family
+gi-G-47BYH,gi-G-63F3L,"Newtonia amphichroa Reichenow, 1891",species
+gi-G-63F3L,gi-G-HS5,"Newtonia Schlegel, 1867",genus
+gi-G-HS5,gi-G-3RL,Vangidae,family
+gi-G-FZD9,gi-G-ZFN,"Apus apus (Linnaeus, 1758)",species
+gi-G-32NXH,gi-G-3XQ4,"Cyanoramphus saisseti J. Verreaux & Des Murs, 1860",species
+gi-G-3XQ4,gi-G-628M9,"Cyanoramphus Bonaparte, 1854",genus
+gi-G-4W5CT,gi-G-644Z4,"Scymnodalatias garricki Kukuev & Konovalenko, 1988",species
+gi-G-644Z4,gi-G-626YV,Scymnodalatias,genus
+gi-G-626YV,gi-G-45B,Somniosidae,family
+gi-G-45B,gi-G-LB,Squaliformes,order
+gi-G-67274,gi-G-62BDB,"Anilios nigrescens Gray, 1845",species
+gi-G-62BDB,gi-G-HMR,Anilios,genus
+gi-G-HMR,gi-G-8GNDB,Typhlopidae,family
+gi-G-3PGM9,gi-G-53VJ,Illicium floridanum J. Ellis,species
+gi-G-53VJ,gi-G-G2G,Illicium L.,genus
+gi-G-G2G,gi-G-BMH4J,Schisandraceae Blume,family
+gi-G-BMH4J,gi-G-MG,Austrobaileyales Takht. ex Reveal,order
+gi-G-3MLBB,gi-G-4YLL,"Hoplocephalus bungaroides Schlegel, 1837",species
+gi-G-4YLL,gi-G-87CJ2,Hoplocephalus,genus
+gi-G-3W7DQ,gi-G-5GTV,"Loriculus galgulus (Linnaeus, 1758)",species
+gi-G-5GTV,gi-G-628JY,"Loriculus Blyth, 1850",genus
+gi-G-628JY,gi-G-FBD,Loriculinae,subfamily
+gi-G-4F45X,gi-G-6LFC,"Perisoreus internigrans (Thayer & Bangs, 1912)",species
+gi-G-6LFC,gi-G-8L6,"Perisoreus Bonaparte, 1831",genus
+gi-G-99NVQ,gi-G-99F7Q,Handroanthus lapacho (K. Schum.) S. O. Grose,species
+gi-G-99F7Q,gi-G-99CSX,Handroanthus Mattos,genus
+gi-G-5BSFM,gi-G-87C5,"Vulpes bengalensis (Shaw, 1800)",species
+gi-G-87C5,gi-G-622J6,"Vulpes Frisch, 1775",genus
+gi-G-622J6,gi-G-4CT,"Canidae Fischer, 1817",family
+gi-G-3ZSJC,gi-G-5P5Z,Mentzelia gracilenta (Nutt.) Torr. & A. Gray,species
+gi-G-4PKD9,gi-G-74CG,"Psittiparus ruficeps (Blyth, 1842)",species
+gi-G-74CG,gi-G-626LT,"Psittiparus Hellmayr, 1903",genus
+gi-G-7B7VS,gi-G-7QZ7,"Synallaxis spixi P. L. Sclater, 1856",species
+gi-G-7GCX7,gi-G-63WW7,"Zaratornis stresemanni Koepcke, 1954",species
+gi-G-63WW7,gi-G-K5Q,"Zaratornis Koepcke, 1954",genus
+gi-G-K5Q,gi-G-8MB,Phytotominae,subfamily
+gi-G-3RXP7,gi-G-637QT,"Lagonosticta rara (Antinori, 1864)",species
+gi-G-637QT,gi-G-623Q5,"Lagonosticta Cabanis, 1851",genus
+gi-G-8LZC9,gi-G-8PNX9,"Eptesicus (Cnephaeus) platyops (Thomas, 1901)",species
+gi-G-8PNX9,gi-G-4DKW,"Cnephaeus Kaup, 1829",subgenus
+gi-G-4DKW,gi-G-KTJ,"Eptesicus Rafinesque, 1820",genus
+gi-G-KTJ,gi-G-628BX,"Eptesicini Volleth & Heller, 1994",tribe
+gi-G-44QVV,gi-G-5VXQ,"Mustela africana Desmarest, 1818",species
+gi-G-895PX,gi-G-7JNW,"Sonora palarostris (Klauber, 1937)",species
+gi-G-7JNW,gi-G-87CG5,Sonora,genus
+gi-G-452MY,gi-G-5W9D,"Myiagra ferrocyanea E. P. Ramsay, 1879",species
+gi-G-5W9D,gi-G-CVP,"Myiagra Vigors & Horsfield, 1827",genus
+gi-G-B93M2,gi-G-B8X9Q,Amauropelta noveboracensis (L.) S. E. Fawc. & A. R. Sm.,species
+gi-G-B8X9Q,gi-G-B8X4T,Amauropelta Kunze,genus
+gi-G-B8X4T,gi-G-B8VHB,Thelypteroideae C. F. Reed,subfamily
+gi-G-B8VHB,gi-G-B8TXB,Thelypteridaceae Ching ex Pic. Serm.,family
+gi-G-7VR5G,gi-G-8P3SY,"Macropus (Notamacropus) irma (Jourdan, 1837)",species
+gi-G-8P3SY,gi-G-639VN,"Notamacropus Dawson & Flannery, 1985",subgenus
+gi-G-639VN,gi-G-628L6,"Macropus Shaw, 1790",genus
+gi-G-QT4R,gi-G-3H75,Capsicum annuum L.,species
+gi-G-3H75,gi-G-628NX,Capsicum L.,genus
+gi-G-RFQ,gi-G-667,"Alauda Linnaeus, 1758",genus
+gi-G-75GNG,gi-G-6BQ6,"Pachycephala lanioides Gould, 1840",species
+gi-G-6BQ6,gi-G-DTK,"Pachycephala Vigors, 1825",genus
+gi-G-DTK,gi-G-3RL,"Pachycephalidae Swainson, 1831",family
+gi-G-7QHTY,gi-G-8NLP5,"Akodon (Akodon) fumeus Thomas, 1902",species
+gi-G-8NLP5,gi-G-RB6,"Akodon Meyen, 1833",subgenus
+gi-G-RB6,gi-G-93N26,"Akodon Meyen, 1833",genus
+gi-G-ZK7V,gi-G-3W2V,"Crocidura tarella Dollman, 1915",species
+gi-G-3K5VX,gi-G-62TKF,Helianthus eggertii Small,species
+gi-G-3N8M5,gi-G-636MZ,Hydrophyllum canadense L.,species
+gi-G-636MZ,gi-G-B8V,Hydrophyllum L.,genus
+gi-G-Z5CF,gi-G-3V77,"Crapatalus novaezelandiae Günther, 1861",species
+gi-G-3V77,gi-G-BY8,Crapatalus,genus
+gi-G-BY8,gi-G-PC,Leptoscopidae,family
+gi-G-5BGBM,gi-G-86VM,Viola affinis Leconte,species
+gi-G-VY67,gi-G-3QTB,Clematis lasiantha Nutt. ex Torr. & A. Gray,species
+gi-G-4WR6N,gi-G-7FNF,"Sepsophis punctatus Beddome, 1870",species
+gi-G-7FNF,gi-G-8GLZD,Sepsophis,genus
+gi-G-8GLZD,gi-G-G43,Scincinae,subfamily
+gi-G-6GRZ4,gi-G-63447,Erythranthe suksdorfii (A. Gray) N. S. Fraga,species
+gi-G-8GQ3R,gi-G-6795,"Oedura bella Oliver & Doughty, 2016",species
+gi-G-6795,gi-G-9BN,Oedura,genus
+gi-G-9BN,gi-G-87BW6,Diplodactylidae,family
+gi-G-53Q6K,gi-G-7QW7,Symphyotrichum anomalum (Engelm.) G. L. Nesom,species
+gi-G-7W258,gi-G-8NT8Y,"Neotoma (Neotoma) leucodon Merriam, 1894",species
+gi-G-8NT8Y,gi-G-62WM,"Neotoma Say & Ord, 1825",subgenus
+gi-G-62WM,gi-G-JYR,"Neotoma Say & Ord, 1825",genus
+gi-G-7KKNT,gi-G-6V4B7,Perideridia parishii subsp. parishii,subspecies
+gi-G-6V4B7,gi-G-63KWQ,Perideridia parishii (J. M. Coult. & Rose) A. Nelson & J. F. Macbr.,species
+gi-G-63KWQ,gi-G-J5W,Perideridia Rchb.,genus
+gi-G-BN22M,gi-G-F6F4,"Aotus azarae infulatus (Kuhl, 1820)",subspecies
+gi-G-F6F4,gi-G-62D8D,"Aotus azarae (Humboldt, 1812)",species
+gi-G-62D8D,gi-G-6JD,"Aotus Illiger, 1811",genus
+gi-G-6JD,gi-G-4PM,"Aotidae Elliot, 1913",family
+gi-G-65ZS9,gi-G-TC4,"Amazona auropalliata (Lesson, 1842)",species
+gi-G-5XMQD,gi-G-3LCX,"Cetopsorhamdia iheringi Schubart & Gomes, 1959",species
+gi-G-3LCX,gi-G-6254S,Cetopsorhamdia,genus
+gi-G-6254S,gi-G-6236K,Heptapteridae,family
+gi-G-7K7PD,gi-G-6MTWY,"Icterus icterus croconotus (Wagler, 1829)",subspecies
+gi-G-6MTWY,gi-G-53FQ,"Icterus icterus (Linnaeus, 1766)",species
+gi-G-53FQ,gi-G-BCZ,"Icterus Brisson, 1760",genus
+gi-G-6HF6L,gi-G-4GPZ,"Eurycea multiplicata (Cope, 1869)",species
+gi-G-4GPZ,gi-G-JND,"Eurycea Rafinesque, 1822",genus
+gi-G-7C5GX,gi-G-646GQ,"Thalassarche chlororhynchos (Gmelin, 1789)",species
+gi-G-646GQ,gi-G-623Y3,"Thalassarche Reichenbach, 1853",genus
+gi-G-623Y3,gi-G-622V8,"Diomedeidae G. R. Gray, 1840",family
+gi-G-44FZ5,gi-G-5VDG,"Moschus chrysogaster (Hodgson, 1839)",species
+gi-G-5VDG,gi-G-CYB,"Moschus Linnaeus, 1758",genus
+gi-G-CYB,gi-G-B6L7D,"Moschidae Gray, 1821",family
+gi-G-MR2V,gi-G-3C29,Bougainvillea infesta Griseb.,species
+gi-G-3C29,gi-G-DG4,Bougainvillea Comm. ex Juss.,genus
+gi-G-7V4XD,gi-G-8P3K5,"Gerbillus (Hendecapleura) brockmani (Thomas, 1910)",species
+gi-G-8P3K5,gi-G-4N64,"Hendecapleura Lataste, 1884",subgenus
+gi-G-4N64,gi-G-JLF,"Gerbillus Desmarest, 1804",genus
+gi-G-4M5MR,gi-G-6V7H,Potentilla marinensis (Elmer) Howell,species
+gi-G-WX2Q,gi-G-62MT5,"Colaptes fernandinae Vigors, 1827",species
+gi-G-62MT5,gi-G-K5T,"Colaptes Vigors, 1825",genus
+gi-G-6GYM7,gi-G-62TGJ,"Eumops auripendulus (Shaw, 1800)",species
+gi-G-62TGJ,gi-G-JWZ,"Eumops Miller, 1906",genus
+gi-G-JWZ,gi-G-CVF,"Molossinae Gervais, 1856",subfamily
+gi-G-CVF,gi-G-5T9,"Molossidae Gervais, 1856",family
+gi-G-8TQV6,gi-G-8TXN9,"Nesoptilotis leucotis (Latham, 1801)",species
+gi-G-8TXN9,gi-G-CKJ,"Nesoptilotis Mathews, 1913",genus
+gi-G-4B7L6,gi-G-63HZL,"Otomys tropicalis Thomas, 1902",species
+gi-G-63HZL,gi-G-K2R,"Otomys F. Cuvier, 1824",genus
+gi-G-K2R,gi-G-624PH,"Otomyinae Thomas, 1897",subfamily
+gi-G-8MF6,gi-G-LS9,"Abrothrix longipilis (Waterhouse, 1837)",species
+gi-G-LS9,gi-G-93N26,"Abrothrix Waterhouse, 1837",genus
+gi-G-485H3,gi-G-65ZG,"Nyctibius aethereus (zu Wied-Neuwied, 1820)",species
+gi-G-65ZG,gi-G-DG7,"Nyctibius Vieillot, 1816",genus
+gi-G-DG7,gi-G-3P3,Nyctibiidae,family
+gi-G-3P3,gi-G-V2,Nyctibiiformes,order
+gi-G-3ZKN8,gi-G-5NS5,"Melithreptus albogularis Gould, 1848",species
+gi-G-5NS5,gi-G-CKJ,"Melithreptus Vieillot, 1816",genus
+gi-G-6STYD,gi-G-69NT,"Oreostruthus fuliginosus (De Vis, 1897)",species
+gi-G-69NT,gi-G-623Q5,"Oreostruthus De Vis, 1898",genus
+gi-G-F6N3,gi-G-62CWG,"Apalis rufogularis (Fraser, 1843)",species
+gi-G-4SYK3,gi-G-79VF,Ribes sericeum Eastw.,species
+gi-G-39V4X,gi-G-4BVC,"Enicurus ruficapillus Temminck, 1832",species
+gi-G-4BVC,gi-G-CZN,"Enicurus Temminck, 1822",genus
+gi-G-HR3H,gi-G-62DZL,Aster tataricus L. fil.,species
+gi-G-62DZL,gi-G-J6T,Aster L.,genus
+gi-G-3G63R,gi-G-4NTQ,"Glaucidium castanotum (Blyth, 1850)",species
+gi-G-4NTQ,gi-G-KDW,"Glaucidium F. Boie, 1826",genus
+gi-G-694FP,gi-G-3DQQ,"Bubo bengalensis (Franklin, 1831)",species
+gi-G-3DQQ,gi-G-KDK,"Bubo Duméril, 1805",genus
+gi-G-KDK,gi-G-GQX,Striginae,subfamily
+gi-G-78GYR,gi-G-733N,"Pseudophoxinus elizavetae Bogutskaya, Küçük & Atalay, 2006",species
+gi-G-733N,gi-G-6248Q,Pseudophoxinus,genus
+gi-G-4JF3K,gi-G-6R86,Plagiobothrys mollis (A. Gray) I. M. Johnst.,species
+gi-G-6R86,gi-G-7NDYV,Plagiobothrys Fisch. & C. A. Mey.,genus
+gi-G-39FGQ,gi-G-4B5X,"Emballonura semicaudata (Peale, 1848)",species
+gi-G-4B5X,gi-G-8H74Z,"Emballonura Temminck, 1838",genus
+gi-G-8H74Z,gi-G-JHV,"Emballonurini Gervais, 1855",tribe
+gi-G-JHV,gi-G-9N2,"Emballonurinae Gervais, 1855",subfamily
+gi-G-9N2,gi-G-87BWQ,"Emballonuridae Gervais, 1855",family
+gi-G-87BWQ,gi-G-4FX,"Emballonuroidea Gervais, 1855",superfamily
+gi-G-69PPY,gi-G-62LT4,"Charmosyna pulchella G. R. Gray, 1859",species
+gi-G-62LT4,gi-G-628JZ,"Charmosyna Wagler, 1832",genus
+gi-G-7KZF,gi-G-CLQ,"Spilogale Gray, 1865",genus
+gi-G-CLQ,gi-G-4CT,"Mephitidae Bonaparte, 1845",family
+gi-G-3CMDH,gi-G-4G9J,"Eupherusa eximia (Delattre, 1843)",species
+gi-G-4G9J,gi-G-KGD,"Eupherusa Gould, 1857",genus
+gi-G-3PKW5,gi-G-7P73P,"Inachus dorsettensis (Pennant, 1777)",species
+gi-G-7P73P,gi-G-847G8,"Inachus Weber, 1795",genus
+gi-G-847G8,gi-G-7NHYS,"Inachinae MacLeay, 1838",subfamily
+gi-G-7NHYS,gi-G-BRKMP,"Inachidae MacLeay, 1838",family
+gi-G-5GWH4,gi-G-36393,Digitalis lutea subsp. lutea,subspecies
+gi-G-36393,gi-G-45DF,Digitalis lutea L.,species
+gi-G-45DF,gi-G-7NLQD,Digitalis L.,genus
+gi-G-684JS,gi-G-339D,"Arses insularis (A. B. Meyer, 1874)",species
+gi-G-339D,gi-G-CVP,"Arses Lesson, 1831",genus
+gi-G-6PC47,gi-G-62X8H,"Lepilemur septentrionalis Rumpler & Albignac, 1975",species
+gi-G-7V4WK,gi-G-8NPV5,"Gerbillus (Gerbillus) hesperinus Cabrera, 1936",species
+gi-G-8NPV5,gi-G-4N64,"Gerbillus Desmarest, 1804",subgenus
+gi-G-33HKY,gi-G-3YT9,"Cyprinodon arcuatus Minckley & Miller, 2002",species
+gi-G-3YT9,gi-G-8WF,Cyprinodon,genus
+gi-G-8WF,gi-G-335,Cyprinodontidae,family
+gi-G-335,gi-G-BXVWY,Cyprinodontiformes,order
+gi-G-4SB9W,gi-G-78VK,"Rhipidura dahli Reichenow, 1897",species
+gi-G-878Z,gi-G-HV8,"Vombatus É. Geoffroy Saint-Hilaire, 1803",genus
+gi-G-HV8,gi-G-4FW,"Vombatidae Burnett, 1829",family
+gi-G-4FW,gi-G-35B,"Vombatiformes Burnett, 1830",suborder
+gi-G-4PZZS,gi-G-74SX,"Pteronura brasiliensis Zimmermann, 1780",species
+gi-G-74SX,gi-G-628LJ,"Pteronura Gray, 1837",genus
+gi-G-5X7PC,gi-G-3FMB,Callitris endlicheri (Parl.) F.M. Bailey,species
+gi-G-36Y2R,gi-G-472M,"Distoechurus pennatus Peters, 1874",species
+gi-G-472M,gi-G-5Y7,"Distoechurus Peters, 1874",genus
+gi-G-5Y7,gi-G-5H7,"Acrobatidae Aplin, 1987",family
+gi-G-7QBDD,gi-G-8NLF8,"Acomys (Acomys) mullah Thomas, 1904",species
+gi-G-8NLF8,gi-G-N5B,"Acomys I. Geoffroy, 1838",subgenus
+gi-G-N5B,gi-G-JFD,"Acomys I. Geoffroy, 1838",genus
+gi-G-6JHXP,gi-G-4KSF,"Formicivora grisea (Boddaert, 1783)",species
+gi-G-4KSF,gi-G-H5C,"Formicivora Swainson, 1824",genus
+gi-G-323B7,gi-G-62Q9W,"Cryptotis equatoris (Thomas, 1912)",species
+gi-G-62Q9W,gi-G-KMY,"Cryptotis Pomel, 1848",genus
+gi-G-KMY,gi-G-KCG,"Blarinini Kretzoi, 1965",tribe
+gi-G-KCG,gi-G-626YH,"Soricinae G. Fischer, 1814",subfamily
+gi-G-WF2K,gi-G-3RD2,"Clytoctantes alixii Elliot, 1870",species
+gi-G-3RD2,gi-G-H5C,"Clytoctantes Elliot, 1870",genus
+gi-G-532GR,gi-G-7PCR,"Strix chacoensis Cherrie & Reichenberger, 1921",species
+gi-G-7PCR,gi-G-KDK,"Strix Linnaeus, 1758",genus
+gi-G-KM7J,gi-G-37Z2,"Barbastella barbastellus (Schreber, 1774)",species
+gi-G-37Z2,gi-G-L5X,"Barbastella Gray, 1821",genus
+gi-G-L5X,gi-G-628BX,"Plecotini Gray, 1866",tribe
+gi-G-6PCTY,gi-G-5CPD,"Leporinus steindachneri Eigenmann, 1907",species
+gi-G-5CPD,gi-G-6G9,Leporinus,genus
+gi-G-6G9,gi-G-X2,Anostomidae,family
+gi-G-78QFH,gi-G-764C,"Pyrisitia dina (Poey, 1832)",species
+gi-G-764C,gi-G-625MK,Pyrisitia,genus
+gi-G-3K6WX,gi-G-635KQ,Helichrysum luteoalbum (L.) Rchb.,species
+gi-G-635KQ,gi-G-J6T,Helichrysum Mill.,genus
+gi-G-3FTLY,gi-G-4N3J,"Geotrygon chrysia Bonaparte, 1855",species
+gi-G-4N3J,gi-G-JCZ,"Geotrygon Gosse, 1847",genus
+gi-G-3B4LD,gi-G-62RM7,Eriogonum coloradense Small,species
+gi-G-BNLMV,gi-G-6QBZD,Limnanthes douglasii subsp. striata (Jeps.) Morin,subspecies
+gi-G-6QBZD,gi-G-6396C,Limnanthes douglasii R. Br.,species
+gi-G-6396C,gi-G-C2T,Limnanthes R. Br.,genus
+gi-G-C2T,gi-G-6228L,Limnanthaceae R. Br.,family
+gi-G-RZV6,gi-G-3JWD,"Cecropis semirufa (Sundevall, 1850)",species
+gi-G-3JWD,gi-G-B3Y,"Cecropis F. Boie, 1826",genus
+gi-G-5Y97Q,gi-G-3NJX,Chloracantha spinosa (Benth.) G. L. Nesom,species
+gi-G-3NJX,gi-G-J6T,"Chloracantha G. L. Nesom, Y. B. Suh, D. R. Morgan, S. D. Sundb. & B. B. Simpson",genus
+gi-G-45CYW,gi-G-5WQ5,"Myrmothera campanisona (Hermann, 1783)",species
+gi-G-5WQ5,gi-G-623N8,"Myrmothera Vieillot, 1816",genus
+gi-G-623N8,gi-G-3RL,"Grallariidae P. L. Sclater & O. Salvin, 1873",family
+gi-G-4F3GG,gi-G-63KXS,"Periporphyrus erythromelas (J. F. Gmelin, 1789)",species
+gi-G-63KXS,gi-G-7QR,"Periporphyrus Reichenbach, 1850",genus
+gi-G-4B7KJ,gi-G-63HZL,"Otomys dollmani Heller, 1912",species
+gi-G-5Z6TV,gi-G-62LBV,"Cinnyris bouvieri Shelley, 1877",species
+gi-G-62LBV,gi-G-D7B,"Cinnyris Cuvier, 1816",genus
+gi-G-6KXN4,gi-G-4SMM,"Halaelurus maculosus White, Last & Stevens, 2007",species
+gi-G-4SMM,gi-G-G6B,Halaelurus,genus
+gi-G-3KNCH,gi-G-4V44,"Hemidactylus maculatus Duméril & Bibron, 1836",species
+gi-G-4V44,gi-G-6247T,Hemidactylus,genus
+gi-G-B7559,gi-G-8VDSC,"Corythornis cristatus nais (Kaup, 1848)",subspecies
+gi-G-8VDSC,gi-G-8VJX4,"Corythornis cristatus (Pallas, 1764)",species
+gi-G-8VJX4,gi-G-J4C,"Corythornis Kaup, 1848",genus
+gi-G-J4C,gi-G-66F,Alcedininae,subfamily
+gi-G-66F,gi-G-ZL,Alcedinidae,family
+gi-G-ZL,gi-G-V2,Coraciiformes,order
+gi-G-6CSPN,gi-G-44GP,"Dicamptodon ensatus (Eschscholtz, 1833)",species
+gi-G-44GP,gi-G-69J,"Dicamptodon Strauch, 1870",genus
+gi-G-69J,gi-G-W3,"Ambystomatidae Gray, 1850",family
+gi-G-465R5,gi-G-5YDS,Nelumbo nucifera Gaertn.,species
+gi-G-5YDS,gi-G-D7Q,Nelumbo Adans.,genus
+gi-G-D7Q,gi-G-B7VXW,Nelumbonaceae A. Rich.,family
+gi-G-9WV4P,gi-G-9WY93,"Gomphurus septima (Westfall, 1956)",species
+gi-G-9WY93,gi-G-9WKK9,"Gomphurus Needham, 1901",genus
+gi-G-9WKK9,gi-G-WFY,"Gomphidae Rambur, 1842",family
+gi-G-4PWKF,gi-G-642TQ,"Pterodroma defilippiana (Giglioli & Salvadori, 1869)",species
+gi-G-78MK6,gi-G-74SF,"Pteromys volans (Linnaeus, 1758)",species
+gi-G-74SF,gi-G-L73,"Pteromys G. Cuvier, 1800",genus
+gi-G-5D8LN,gi-G-8B88,"Zosterops anomalus A. B. Meyer & Wiglesworth, 1896",species
+gi-G-SSV9,gi-G-3KZT,"Cercomacra cinerascens (P. L. Sclater, 1857)",species
+gi-G-3KZT,gi-G-H5C,"Cercomacra P. L. Sclater, 1858",genus
+gi-G-74JD6,gi-G-63FVB,"Oenothera wolfii (Munz) P. H. Raven, W. Dietr. & W. Stubbe",species
+gi-G-4F7M4,gi-G-6LPG,"Peromyscus winkelmanni Carleton, 1977",species
+gi-G-59PL5,gi-G-647VS,"Turdus boulboul (Latham, 1790)",species
+gi-G-6L5DK,gi-G-4RMM,Gutierrezia wrightii A. Gray,species
+gi-G-4RMM,gi-G-J6T,Gutierrezia Lag.,genus
+gi-G-3D3H3,gi-G-4GPZ,"Eurycea latitans Smith & Potter, 1946",species
+gi-G-4XLYT,gi-G-7HJ2,"Sinosuthora zappeyi (Thayer & Bangs, 1912)",species
+gi-G-7HJ2,gi-G-626LT,"Sinosuthora Penhallurick & C. R. Robson, 2009",genus
+gi-G-6HJ5S,gi-G-62SWM,"Eutoxeres condamini (Bourcier, 1851)",species
+gi-G-62SWM,gi-G-K4V,"Eutoxeres Reichenbach, 1849",genus
+gi-G-K4V,gi-G-HHZ,Phaethornithinae,subfamily
+gi-G-6DJFS,gi-G-8V3YQ,"Dracaena guianensis Daudin, 1801",species
+gi-G-8V3YQ,gi-G-GYH,Dracaena,genus
+gi-G-4RCFP,gi-G-76ZK,"Ramphotrigon ruficauda (Spix, 1825)",species
+gi-G-76ZK,gi-G-HMW,"Ramphotrigon G. R. Gray, 1855",genus
+gi-G-5D2BY,gi-G-648XM,"Zenaida graysoni (Lawrence, 1871)",species
+gi-G-648XM,gi-G-JCZ,"Zenaida Bonaparte, 1838",genus
+gi-G-PRCJ,gi-G-3FGN,"Calliophis nigrescens (Günther, 1862)",species
+gi-G-3FGN,gi-G-9LQ,Calliophis,genus
+gi-G-59PKY,gi-G-647VS,"Turdus amaurochalinus Cabanis, 1850",species
+gi-G-52YVV,gi-G-7P7S,"Streptoprocne biscutata (P. L. Sclater, 1866)",species
+gi-G-7P7S,gi-G-628HL,"Streptoprocne Oberholser, 1906",genus
+gi-G-628HL,gi-G-6L5,Cypseloidinae,subfamily
+gi-G-6HVST,gi-G-4JYX,Ficus altissima Blume,species
+gi-G-3QRSC,gi-G-56VV,Juglans californica S. Watson,species
+gi-G-56VV,gi-G-JRQ,Juglans L.,genus
+gi-G-Q833,gi-G-3G98,Calystegia stebbinsii Brummitt,species
+gi-G-3G98,gi-G-JD7,Calystegia R. Br.,genus
+gi-G-JD7,gi-G-8J9,Convolvuloideae Burnett,subfamily
+gi-G-8J9,gi-G-B7VXK,Convolvulaceae Juss.,family
+gi-G-3Z4JZ,gi-G-5NBN,Melampodium montanum Benth.,species
+gi-G-5NBN,gi-G-J6T,Melampodium L.,genus
+gi-G-GD2P,gi-G-32G5,Ardisia elliptica Thunb.,species
+gi-G-32G5,gi-G-JY3,Ardisia Sw.,genus
+gi-G-JY3,gi-G-627BN,Myrsinoideae Burnett,subfamily
+gi-G-BHC2,gi-G-RKT,"Alcelaphus lichtensteinii (Peters, 1849)",species
+gi-G-5ZHFB,gi-G-3RQ9,"Cochoa purpurea Hodgson, 1836",species
+gi-G-3RQ9,gi-G-HLW,"Cochoa Hodgson, 1836",genus
+gi-G-396WY,gi-G-7NYCV,"Eledone massyae G. L. Voss, 1964",species
+gi-G-7NYCV,gi-G-7NJBZ,"Eledone Leach, 1817",genus
+gi-G-7NJBZ,gi-G-7NGSH,"Eledonidae Rochebrune, 1884",family
+gi-G-7NGSH,gi-G-BMJCG,"Octopodoidea d'Orbigny, 1840",superfamily
+gi-G-BMJCG,gi-G-BMGV4,"Incirrata Grimpe, 1916",suborder
+gi-G-BMGV4,gi-G-7NVY5,"Octopoda Leach, 1818",order
+gi-G-7NVY5,gi-G-7NF54,"Octopodiformes Berthold & Engeser, 1987",superorder
+gi-G-7NF54,gi-G-BMGV3,"Coleoidea Bather, 1888",subclass
+gi-G-BMGV3,gi-G-M2L,"Cephalopoda Cuvier, 1795",class
+gi-G-7BFRS,gi-G-7RTL,"Tachyoryctes ibeanus Thomas, 1900",species
+gi-G-7RTL,gi-G-628PN,"Tachyoryctes Rüppell, 1835",genus
+gi-G-628PN,gi-G-GF5,"Tachyoryctinae Miller & Gidley, 1918",subfamily
+gi-G-7BRLN,gi-G-646X9,"Terpsiphone atrocaudata (Eyton, 1839)",species
+gi-G-646X9,gi-G-CVP,"Terpsiphone Gloger, 1827",genus
+gi-G-5LM6P,gi-G-58YH8,Tripleurospermum maritimum subsp. maritimum,subspecies
+gi-G-58YH8,gi-G-82CH,Tripleurospermum maritimum (L.) W. D. J. Koch,species
+gi-G-82CH,gi-G-J6T,Tripleurospermum Sch. Bip.,genus
+gi-G-6BGDG,gi-G-3W2V,"Crocidura greenwoodi Heim de Balsac, 1966",species
+gi-G-7WTFR,gi-G-8P3JL,"Sciurus (Guerlinguetus) sanborni Osgood, 1944",species
+gi-G-8P3JL,gi-G-63TBP,"Guerlinguetus Gray, 1821",subgenus
+gi-G-63TBP,gi-G-L87,"Sciurus Linnaeus, 1758",genus
+gi-G-L87,gi-G-KB9,"Sciurini Fischer de Waldheim, 1817",tribe
+gi-G-64YQ9,gi-G-PRQ,"Aeretes melanopterus (Milne-Edwards, 1867)",species
+gi-G-PRQ,gi-G-L73,"Aeretes G. M. Allen, 1940",genus
+gi-G-3CKC2,gi-G-4G7R,Eupatorium mikanioides Chapm.,species
+gi-G-799QQ,gi-G-63RK3,Rudbeckia graminifolia (Torr. & A. Gray) C. L. Boynton & Beadle,species
+gi-G-63RK3,gi-G-J6T,Rudbeckia L.,genus
+gi-G-6SZD5,gi-G-63GKX,"Oryx gazella (Linnaeus, 1758)",species
+gi-G-63GKX,gi-G-JPB,"Oryx Blainville, 1816",genus
+gi-G-JPB,gi-G-622G9,"Hippotraginae Sundevall, 1845",subfamily
+gi-G-4FJRX,gi-G-63N2W,Phacelia argillacea N. D. Atwood,species
+gi-G-4Q34D,gi-G-64365,"Pteropus vetula Jouan, 1863",species
+gi-G-6KRT7,gi-G-4QM8,"Grallaria blakei G. R. Graves, 1987",species
+gi-G-4QM8,gi-G-623N8,"Grallaria Vieillot, 1816",genus
+gi-G-4MQKX,gi-G-6WFQ,"Proechimys goeldii Thomas, 1905",species
+gi-G-6WFQ,gi-G-JK6,"Proechimys J. A. Allen, 1899",genus
+gi-G-JK6,gi-G-9JX,"Eumysopinae Rusconi, 1935",subfamily
+gi-G-9JX,gi-G-4L7,"Echimyidae Gray, 1825",family
+gi-G-4MBBP,gi-G-6VKV,"Presbytis thomasi (Collett, 1893)",species
+gi-G-6VKV,gi-G-L6B,"Presbytis Eschscholtz, 1821",genus
+gi-G-36GSQ,gi-G-4655,Diplacus rattanii (A. Gray) G. L. Nesom,species
+gi-G-4655,gi-G-625ZW,Diplacus Nutt.,genus
+gi-G-5XGRN,gi-G-62KF2,Ceanothus divergens Parry,species
+gi-G-B3R3W,gi-G-B3JB7,"Emerita portoricensis Schmitt, 1935",species
+gi-G-B3JB7,gi-G-B3HGN,"Emerita Scopoli, 1777",genus
+gi-G-B3HGN,gi-G-B6NJ8,"Hippidae Latreille, 1825",family
+gi-G-B6NJ8,gi-G-BMJWR,"Hippoidea Latreille, 1825",superfamily
+gi-G-6H3YV,gi-G-63447,Erythranthe verbenacea (Greene) G. L. Nesom & N. S. Fraga,species
+gi-G-QT7Z,gi-G-3H75,Capsicum pubescens Ruiz & Pav.,species
+gi-G-32NLG,gi-G-3XNP,"Cyanocorax chrysops (Vieillot, 1818)",species
+gi-G-3XNP,gi-G-8L6,"Cyanocorax F. Boie, 1826",genus
+gi-G-7T8YL,gi-G-8P3WS,"Dipodillus (Petteromys) dasyurus (Wagner, 1842)",species
+gi-G-VY9G,gi-G-3QTB,Clematis occidentalis (Hornem.) DC.,species
+gi-G-4532Y,gi-G-63D36,"Myiotheretes fuscorufus (P. L. Sclater & Salvin, 1876)",species
+gi-G-63D36,gi-G-HMW,"Myiotheretes Reichenbach, 1850",genus
+gi-G-3KNC5,gi-G-4V44,"Hemidactylus leschenaultii Duméril & Bibron, 1836",species
+gi-G-886FF,gi-G-8FW9Q,"Carinascincus pretiosus (O'Shaughnessy, 1874)",species
+gi-G-8FW9Q,gi-G-8GNQS,Carinascincus,genus
+gi-G-6592P,gi-G-PJV,"Aegithina viridissima (Bonaparte, 1850)",species
+gi-G-PJV,gi-G-622PZ,"Aegithina Vieillot, 1816",genus
+gi-G-622PZ,gi-G-3RL,"Aegithinidae G. R. Gray, 1869",family
+gi-G-YW58,gi-G-62NSD,"Cossypha caffra (Linnaeus, 1771)",species
+gi-G-62NSD,gi-G-CZN,"Cossypha Vigors, 1825",genus
+gi-G-6H4DW,gi-G-62RRS,Eryngium foetidum L.,species
+gi-G-62RRS,gi-G-7NDYX,Eryngium L.,genus
+gi-G-7NDYX,gi-G-6KC,Saniculoideae (Drude) Thorne ex Royen,subfamily
+gi-G-BN4S8,gi-G-Q824,Calystegia malacophylla subsp. pedicellata (Jeps.) Munz,subspecies
+gi-G-Q824,gi-G-3G98,Calystegia malacophylla (Greene) Munz,species
+gi-G-77MN3,gi-G-6QXZ,"Pitangus lictor (Lichtenstein, 1823)",species
+gi-G-6QXZ,gi-G-HMW,"Pitangus Swainson, 1827",genus
+gi-G-48NR,gi-G-JH3,"Dugong Lacépède, 1799",genus
+gi-G-JH3,gi-G-9HP,"Dugonginae Gray, 1821",subfamily
+gi-G-9HP,gi-G-B6L7M,"Dugongidae Gray, 1821",family
+gi-G-754K8,gi-G-69LB,Oreojuncus trifidus (L.) Záv. Drábk. & Kirschner,species
+gi-G-69LB,gi-G-BJG,Oreojuncus Záv. Drábk. & Kirschner,genus
+gi-G-BJG,gi-G-627VM,Juncaceae Juss.,family
+gi-G-627VM,gi-G-L2L,Poales,order
+gi-G-L2L,gi-G-TP,Liliopsida,class
+gi-G-39N7Z,gi-G-4BG8,Enceliopsis argophylla (D. C. Eaton) A. Nelson,species
+gi-G-4BG8,gi-G-J6T,Enceliopsis (A. Gray) A. Nelson,genus
+gi-G-46VB9,gi-G-63FF6,"Neotis denhami (Children & Vigors, 1826)",species
+gi-G-63FF6,gi-G-DRT,"Neotis Sharpe, 1893",genus
+gi-G-DRT,gi-G-3QM,Otididae,family
+gi-G-3QM,gi-G-V2,Otidiformes,order
+gi-G-6VZVH,gi-G-63PLB,"Psalidoprocne pristoptera (Rüppell, 1840)",species
+gi-G-6K3RZ,gi-G-4LDV,Funastrum hirtellum (A. Gray ex Brewer & S. Watson) Schltr.,species
+gi-G-4LDV,gi-G-93LSR,Funastrum E. Fourn.,genus
+gi-G-9D7XW,gi-G-9CLXW,"Rhynchocinetes durbanensis Gordon, 1936",species
+gi-G-9CLXW,gi-G-9CJDY,"Rhynchocinetes H. Milne-Edwards, 1837",genus
+gi-G-9CJDY,gi-G-BRKMM,"Rhynchocinetidae Ortmann, 1890",family
+gi-G-BRKMM,gi-G-BMJWT,"Nematocarcinoidea S. I. Smith, 1884",superfamily
+gi-G-7B7VX,gi-G-7QZ7,"Synallaxis propinqua Pelzeln, 1859",species
+gi-G-QHS6,gi-G-3GMY,"Campylorhynchus fasciatus (Swainson, 1838)",species
+gi-G-3GMY,gi-G-626S2,"Campylorhynchus Spix, 1824",genus
+gi-G-6BJRV,gi-G-62P4L,Cryptantha crinita Greene,species
+gi-G-4Y3W6,gi-G-63SD9,Solanum pumilum Dunal,species
+gi-G-7CFTK,gi-G-7XFY,Toiyabea peirsonii (D. D. Keck) G. L. Nesom,species
+gi-G-7XFY,gi-G-J6T,"Toiyabea R. P. Roberts, Urbatsch & Neubig",genus
+gi-G-36ZKR,gi-G-4769,"Diuca diuca (Molina, 1782)",species
+gi-G-4769,gi-G-H87,"Diuca Reichenbach, 1850",genus
+gi-G-6QQ3C,gi-G-5HH3,"Lybius bidentatus (Shaw, 1799)",species
+gi-G-5HH3,gi-G-7NJKP,"Lybius Hermann, 1783",genus
+gi-G-7NJKP,gi-G-3TR,Lybiidae,family
+gi-G-6YQLT,gi-G-7GWF,Silphium perfoliatum L.,species
+gi-G-5D8M8,gi-G-8B88,"Zosterops erythropleurus Swinhoe, 1863",species
+gi-G-SB84,gi-G-3KB3,"Centropus unirufus (Cabanis & Heine, 1863)",species
+gi-G-3KB3,gi-G-626TP,"Centropus Illiger, 1811",genus
+gi-G-626TP,gi-G-8S7,Centropodinae,subfamily
+gi-G-65KBF,gi-G-QGN,Agalinis skinneriana (Alph. Wood ex A. Gray) Britton,species
+gi-G-QGN,gi-G-DQG,Agalinis Raf.,genus
+gi-G-54XYS,gi-G-645KS,"Tarsiger cyanurus (Pallas, 1773)",species
+gi-G-645KS,gi-G-CZN,"Tarsiger Hodgson, 1845",genus
+gi-G-6277Y,gi-G-3Y9,Rheidae,family
+gi-G-3Y9,gi-G-V2,Rheiformes,order
+gi-G-3ZLBF,gi-G-62YTM,"Mellivora capensis (Schreber, 1776)",species
+gi-G-62YTM,gi-G-JW5,"Mellivora Storr, 1780",genus
+gi-G-JW5,gi-G-CZT,"Mellivorinae Gray, 1865",subfamily
+gi-G-3LZK6,gi-G-636V8,"Hippocampus alatus Kuiter, 2001",species
+gi-G-8GS5G,gi-G-67R7,"Oligosoma albornense Melzer, Hitchmough, Bell, Chapple & Patterson, 2019",species
+gi-G-VGNZ,gi-G-62LDH,"Cirrhigaleus australis White, Last & Stevens, 2007",species
+gi-G-62LDH,gi-G-GLC,Cirrhigaleus,genus
+gi-G-GLC,gi-G-45B,Squalidae,family
+gi-G-3PB9W,gi-G-53FQ,"Icterus auratus Bonaparte, 1850",species
+gi-G-6CSPV,gi-G-44GH,"Dicaeum anthonyi (McGregor, 1914)",species
+gi-G-44GH,gi-G-6248X,"Dicaeum Cuvier, 1816",genus
+gi-G-6248X,gi-G-3RL,"Dicaeidae Bonaparte, 1853",family
+gi-G-BPB8K,gi-G-6H4BY,Eryngium aristulatum subsp. aristulatum,subspecies
+gi-G-6H4BY,gi-G-62RRS,Eryngium aristulatum Jeps.,species
+gi-G-3YKLX,gi-G-5MD9,"Mecocerculus calopterus (P. L. Sclater, 1859)",species
+gi-G-5MD9,gi-G-HMW,"Mecocerculus P. L. Sclater, 1862",genus
+gi-G-3YZ4R,gi-G-62Z3F,"Megasorex gigas (Merriam, 1897)",species
+gi-G-62Z3F,gi-G-L2N,"Megasorex Hibbard, 1950",genus
+gi-G-L2N,gi-G-KCG,"Notiosoricini Reumer, 1984",tribe
+gi-G-8H5C3,gi-G-46GH,"Diporiphora carpentariensis Melville, Date, Horner & Doughty, 2019",species
+gi-G-46GH,gi-G-87CD5,Diporiphora,genus
+gi-G-87CD5,gi-G-64B,Amphibolurinae,subfamily
+gi-G-QCH4,gi-G-3GFD,"Campephaga flava Vieillot, 1817",species
+gi-G-3GFD,gi-G-7MZ,"Campephaga Vieillot, 1816",genus
+gi-G-3NP65,gi-G-63735,"Hypergerus atriceps (Lesson, 1831)",species
+gi-G-63735,gi-G-89S,"Hypergerus Reichenbach, 1850",genus
+gi-G-7VV8M,gi-G-8NKFR,"Microtus (Terricola) duodecimcostatus (Selys-Longchamps, 1839)",species
+gi-G-8NKFR,gi-G-5SL9,"Terricola Fatio, 1867",subgenus
+gi-G-5YFYN,gi-G-3PB2,"Chromis dispilus Griffin, 1923",species
+gi-G-3PB2,gi-G-627L3,Chromis,genus
+gi-G-627L3,gi-G-PC,Pomacentridae,family
+gi-G-8KQM8,gi-G-8K36P,"Chionomesa fimbriata (J. F. Gmelin, 1788)",species
+gi-G-8K36P,gi-G-KGD,"Chionomesa Simon, 1921",genus
+gi-G-36GRX,gi-G-4655,Diplacus fremontii (Benth.) G. L. Nesom,species
+gi-G-3Y9VV,gi-G-5LMD,"Martes flavigula (Boddaert, 1785)",species
+gi-G-5LMD,gi-G-JMN,"Martes Pinel, 1792",genus
+gi-G-3C73Z,gi-G-4FM3,"Eugerygone rubra (Sharpe, 1879)",species
+gi-G-4FM3,gi-G-6267W,"Eugerygone Finsch, 1901",genus
+gi-G-6C8H4,gi-G-3YTR,"Cypseloides rothschildi J. T. Zimmer, 1945",species
+gi-G-3YTR,gi-G-628HL,"Cypseloides Streubel, 1848",genus
+gi-G-VQNY,gi-G-3QFW,"Clamator jacobinus (Boddaert, 1783)",species
+gi-G-3QFW,gi-G-626TC,"Clamator Kaup, 1829",genus
+gi-G-3GPCJ,gi-G-4PQ8,"Gobiodon brochus Harold & Winterbottom, 1999",species
+gi-G-4PQ8,gi-G-623LH,Gobiodon,genus
+gi-G-6G7JN,gi-G-7NYXD,"Epioblasma stewardsonii (I. Lea, 1852)",species
+gi-G-7NYXD,gi-G-7NMHQ,"Epioblasma Rafinesque, 1831",genus
+gi-G-K29R,gi-G-36NJ,"Avahi meridionalis Zaramody, Fausser, Roos, Zinner, Andriaholinirina, Rabarivola, Norscia, Tattersall & Rumpler, 2006",species
+gi-G-36NJ,gi-G-6257D,"Avahi Jourdan, 1834",genus
+gi-G-6257D,gi-G-622ZR,"Indriidae Burnett, 1828",family
+gi-G-3Y64V,gi-G-62ZQ7,Margyricarpus alatus Gillies ex Hook. & Arn.,species
+gi-G-62ZQ7,gi-G-628NC,Margyricarpus Ruiz & Pav.,genus
+gi-G-66JRY,gi-G-62BPG,"Anairetes nigrocristatus Taczanowski, 1884",species
+gi-G-3WHHN,gi-G-5HGS,Luzula nivalis (Laest.) Spreng.,species
+gi-G-5HGS,gi-G-BJG,Luzula DC.,genus
+gi-G-54CBJ,gi-G-7RSR,"Tachycineta thalassina (Swainson, 1827)",species
+gi-G-3M4QD,gi-G-4XKR,"Hirundapus cochinchinensis (Oustalet, 1878)",species
+gi-G-4XKR,gi-G-J5Z,"Hirundapus Hodgson, 1837",genus
+gi-G-8NKW6,gi-G-8NKKZ,"Gryllotalpinae Leach, 1815",subfamily
+gi-G-8NKKZ,gi-G-8NKGB,"Gryllotalpidae Leach, 1815",family
+gi-G-48XW5,gi-G-63FVB,Oenothera grandis (Britton) Rydb.,species
+gi-G-4X4FG,gi-G-7GD8,"Sheppardia bocagei (Finsch & Hartlaub, 1870)",species
+gi-G-7GD8,gi-G-CZN,"Sheppardia Haagner, 1909",genus
+gi-G-4GZC,gi-G-8JG,"Eurystomus Vieillot, 1816",genus
+gi-G-8JG,gi-G-ZL,Coraciidae,family
+gi-G-37VD3,gi-G-48HQ,"Dryocopus schulzii (Cabanis, 1882)",species
+gi-G-48HQ,gi-G-K5T,"Dryocopus F. Boie, 1826",genus
+gi-G-7FT26,gi-G-878Z,"Vombatus ursinus (Shaw, 1800)",species
+gi-G-3W7GF,gi-G-639PZ,"Lorius hypoinochrous G. R. Gray, 1859",species
+gi-G-639PZ,gi-G-628JZ,"Lorius Vigors, 1825",genus
+gi-G-6BW92,gi-G-3YL4,"Cynopotamus magdalenae (Steindachner, 1879)",species
+gi-G-3YL4,gi-G-7ZZ,Cynopotamus,genus
+gi-G-7ZZ,gi-G-X2,Characidae,family
+gi-G-4RQSS,gi-G-77LW,"Reinwardtoena browni (P. L. Sclater, 1877)",species
+gi-G-77LW,gi-G-JCZ,"Reinwardtoena Bonaparte, 1854",genus
+gi-G-5TZTJ,gi-G-TC4,"Amazona leucocephala (Linnaeus, 1758)",species
+gi-G-8VDTM,gi-G-648GS,"Todiramphus sacer (J. F. Gmelin, 1788)",species
+gi-G-648GS,gi-G-JMT,"Todiramphus R. Lesson, 1827",genus
+gi-G-JMT,gi-G-66F,Halcyoninae,subfamily
+gi-G-6VJMZ,gi-G-6QKH,"Pimelodella lateristriga (Lichtenstein, 1823)",species
+gi-G-6QKH,gi-G-6254S,Pimelodella,genus
+gi-G-59PJV,gi-G-83TS,"Turdoides hartlaubii (Bocage, 1868)",species
+gi-G-83TS,gi-G-624XT,"Turdoides Cretzschmar, 1826",genus
+gi-G-37SL,gi-G-625WG,"Bambusicola Gould, 1863",genus
+gi-G-RTT8,gi-G-3JFJ,Catharanthus roseus (L.) G. Don,species
+gi-G-3JFJ,gi-G-K97,Catharanthus G. Don,genus
+gi-G-K97,gi-G-6L2,Rauvolfioideae M. E. Endress & Bruyns,subfamily
+gi-G-3TYGC,gi-G-5DGB,"Leptotila battyi Rothschild, 1901",species
+gi-G-5DGB,gi-G-JCZ,"Leptotila Swainson, 1837",genus
+gi-G-4PJHJ,gi-G-642SS,"Psilorhamphus guttatus (Ménétriés, 1835)",species
+gi-G-642SS,gi-G-FNY,"Psilorhamphus P. L. Sclater, 1855",genus
+gi-G-FNY,gi-G-3RL,"Rhinocryptidae Wetmore, 1930",family
+gi-G-6Y6WW,gi-G-7D58,"Scapteromys aquaticus Thomas, 1920",species
+gi-G-7D58,gi-G-93N26,"Scapteromys Waterhouse, 1837",genus
+gi-G-76SB5,gi-G-63KWQ,Perideridia lemmonii (J. M. Coult. & Rose) T. I. Chuang & Constance,species
+gi-G-8M5V,gi-G-LRK,Abronia alpina Brandegee,species
+gi-G-LRK,gi-G-DG4,Abronia Juss.,genus
+gi-G-6CR69,gi-G-62PDT,"Diaspidiotus perniciosus (Comstock, 1881)",species
+gi-G-62PDT,gi-G-96X,Diaspidiotus,genus
+gi-G-6Z8X5,gi-G-7KBZ,"Spermophilus brevicauda Brandt, 1843",species
+gi-G-7KBZ,gi-G-93N4J,"Spermophilus F. Cuvier, 1825",genus
+gi-G-7QBF4,gi-G-8NLF8,"Acomys (Acomys) seurati Heim de Balsac, 1936",species
+gi-G-4YKBC,gi-G-7KBZ,"Spermophilus taurensis Gündüz, Jaarola, Tez, Yeniyurt, Polly, & Searle, 2007",species
+gi-G-4JF2Y,gi-G-6R86,Plagiobothrys hirtus (Greene) I. M. Johnst.,species
+gi-G-Q7MV,gi-G-3G8D,Calyptridium umbellatum (Torr.) Greene,species
+gi-G-3G8D,gi-G-CXG,Calyptridium Nutt. ex Torr. & A. Gray,genus
+gi-G-CXG,gi-G-BMH4R,Montiaceae Raf.,family
+gi-G-S4V9,gi-G-3K3G,Celtis tenuifolia Nutt.,species
+gi-G-3K3G,gi-G-7NV,Celtis L.,genus
+gi-G-3WQ5K,gi-G-5HP9,Lygodesmia aphylla (Nutt.) DC.,species
+gi-G-5HP9,gi-G-JCD,Lygodesmia D. Don,genus
+gi-G-YNHL,gi-G-62LZ4,"Corvus crassirostris Rüppell, 1836",species
+gi-G-ZK6H,gi-G-3W2V,"Crocidura nicobarica Miller, 1902",species
+gi-G-3KTRG,gi-G-4VGM,"Hemitrygon longicauda (Last & White, 2013)",species
+gi-G-4VGM,gi-G-8ZK,Hemitrygon,genus
+gi-G-8ZK,gi-G-3LQ,Dasyatidae,family
+gi-G-3LQ,gi-G-LB,Myliobatiformes,order
+gi-G-7VTBG,gi-G-8NRY8,"Meriones (Meriones) tamariscinus (Pallas, 1773)",species
+gi-G-8NRY8,gi-G-62YW3,"Meriones Illiger, 1811",subgenus
+gi-G-62YW3,gi-G-JLF,"Meriones Illiger, 1811",genus
+gi-G-3WWNF,gi-G-5HYC,"Macaca fuscata (Blyth, 1875)",species
+gi-G-5HYC,gi-G-L4C,"Macaca Lacépède, 1799",genus
+gi-G-48X9V,gi-G-679P,"Oenanthe picata (Blyth, 1847)",species
+gi-G-679P,gi-G-CZN,"Oenanthe Vieillot, 1816",genus
+gi-G-4QGWZ,gi-G-642V9,"Pulsatrix koeniswaldiana (M. Bertoni & W. Bertoni, 1901)",species
+gi-G-642V9,gi-G-KDK,"Pulsatrix Kaup, 1848",genus
+gi-G-3L3HH,gi-G-4VY3,"Herpsilochmus stictocephalus Todd, 1927",species
+gi-G-4VY3,gi-G-H5C,"Herpsilochmus Cabanis, 1847",genus
+gi-G-5VBY6,gi-G-XDF,"Anthocharis lanceolata Lucas, 1852",species
+gi-G-XDF,gi-G-625MK,Anthocharis,genus
+gi-G-4L8WJ,gi-G-63NF5,Polygonella ciliata Meisn.,species
+gi-G-4JF4G,gi-G-6R86,Plagiobothrys tenellus (Nutt. ex Hook.) A. Gray,species
+gi-G-ZK7C,gi-G-3W2V,"Crocidura religiosa (I. Geoffroy Saint-Hilaire, 1827)",species
+gi-G-DTS6,gi-G-62C3W,"Androdon aequatorialis Gould, 1863",species
+gi-G-62C3W,gi-G-KGD,"Androdon Gould, 1863",genus
+gi-G-4TVT8,gi-G-643M7,Sabulina nuttallii (Pax) Dillenb. & Kadereit,species
+gi-G-643M7,gi-G-7RZ,Sabulina Rchb.,genus
+gi-G-Y72Q,gi-G-3TS9,Coptis laciniata A. Gray,species
+gi-G-3TS9,gi-G-JDD,Coptis Salisb.,genus
+gi-G-JDD,gi-G-FJR,Coptidoideae M. Tamura,subfamily
+gi-G-3VZGT,gi-G-5GFJ,Lonicera subspicata Hook. & Arn.,species
+gi-G-5GFJ,gi-G-BVBBT,Lonicera L.,genus
+gi-G-7QHV6,gi-G-8NLP5,"Akodon (Akodon) lindberghi Hershkovitz, 1990",species
+gi-G-795R5,gi-G-78QQ,"Rhinolophus stheno K. Andersen, 1905",species
+gi-G-6L9F2,gi-G-4SQ7,"Halichoeres salmofasciatus Allen & Robertson, 2002",species
+gi-G-4SQ7,gi-G-BPN,Halichoeres,genus
+gi-G-BPN,gi-G-PC,Labridae,family
+gi-G-5ZH3C,gi-G-3RF5,"Cnemophilus macgregorii De Vis, 1890",species
+gi-G-3RF5,gi-G-8CW,"Cnemophilus De Vis, 1890",genus
+gi-G-8CW,gi-G-3RL,"Cnemophilidae Mayr, 1962",family
+gi-G-4Q7MY,gi-G-74ZB,"Ptilinopus coronulatus G. R. Gray, 1858",species
+gi-G-74ZB,gi-G-KFV,"Ptilinopus Swainson, 1825",genus
+gi-G-4MDWZ,gi-G-6VPV,"Prinia subflava (Gmelin, 1789)",species
+gi-G-3HTJV,gi-G-4RW6,"Gymnopithys salvini (Berlepsch, 1901)",species
+gi-G-4RW6,gi-G-H5C,"Gymnopithys Bonaparte, 1857",genus
+gi-G-YNJJ,gi-G-62LZ4,"Corvus splendens Vieillot, 1817",species
+gi-G-679SJ,gi-G-X93,"Antennablennius simonyi (Steindachner, 1902)",species
+gi-G-X93,gi-G-78Y,Antennablennius,genus
+gi-G-452WK,gi-G-63D2Q,"Myiopagis viridicata (Vieillot, 1817)",species
+gi-G-63D2Q,gi-G-HMW,"Myiopagis Salvin & Godman, 1888",genus
+gi-G-36LH6,gi-G-469C,"Diplogale hosei (Thomas, 1892)",species
+gi-G-469C,gi-G-628KF,"Diplogale Thomas, 1912",genus
+gi-G-628KF,gi-G-626SP,"Hemigalinae Gray, 1865",subfamily
+gi-G-6MZBK,gi-G-55HV,"Isolobodon montanus (Miller, 1922)",species
+gi-G-55HV,gi-G-628JP,"Isolobodon J. A. Allen, 1916",genus
+gi-G-628JP,gi-G-7PW,"Isolobodontinae Woods, 1989",subfamily
+gi-G-7PW,gi-G-4L7,"Capromyidae Smith, 1842",family
+gi-G-4DJ3Q,gi-G-6HGD,"Paraxerus palliatus (Peters, 1852)",species
+gi-G-6HGD,gi-G-L6T,"Paraxerus Forsyth Major, 1893",genus
+gi-G-L6T,gi-G-KHX,"Protoxerini Moore, 1959",tribe
+gi-G-B9NNJ,gi-G-BTNX6,Bryodesma densum (Rydb.) Soják,species
+gi-G-BTNX6,gi-G-BTWKQ,Bryodesma Soják,genus
+gi-G-BTWKQ,gi-G-B8VC6,Gymnogynoideae Li Bing Zhang & X. M. Zhou,subfamily
+gi-G-B8VC6,gi-G-B8V7W,Selaginellaceae Rchb.,family
+gi-G-B8V7W,gi-G-LYC,Selaginellales Prantl,order
+gi-G-LYC,gi-G-TP,Lycopodiopsida,class
+gi-G-YXPP,gi-G-62NHF,"Cotinga ridgwayi Ridgway, 1887",species
+gi-G-62NHF,gi-G-JDQ,"Cotinga Brisson, 1760",genus
+gi-G-8KQ6J,gi-G-4PTW,"Goldmania bella (Nelson, 1912)",species
+gi-G-4PTW,gi-G-KGD,"Goldmania Nelson, 1911",genus
+gi-G-FRJD,gi-G-YVR,"Apodemus ponticus (Sviridenko, 1936)",species
+gi-G-B8B7Z,gi-G-4YL72,Sphaeralcea ambigua var. rugosa (Kearney) Kearney,variety
+gi-G-4YL72,gi-G-7KDD,Sphaeralcea ambigua A. Gray,species
+gi-G-43Z6Q,gi-G-63BN2,"Momotus momota (Linnaeus, 1766)",species
+gi-G-63BN2,gi-G-CVK,"Momotus Brisson, 1760",genus
+gi-G-CVK,gi-G-ZL,Momotidae,family
+gi-G-4S96M,gi-G-78QQ,"Rhinolophus clivosus Cretzschmar, 1826",species
+gi-G-6JJVN,gi-G-4KWN,"Foudia madagascariensis (Linnaeus, 1766)",species
+gi-G-4KWN,gi-G-627GF,"Foudia Reichenbach, 1850",genus
+gi-G-627GF,gi-G-3RL,"Ploceidae Sundevall, 1836",family
+gi-G-GBNQ,gi-G-62CT9,Arctostaphylos nissenana Merriam,species
+gi-G-44Q5T,gi-G-5VVQ,"Muscicapa griseisticta (Swinhoe, 1861)",species
+gi-G-48G55,gi-G-66JQ,"Ochthoeca cinnamomeiventris (Lafresnaye, 1843)",species
+gi-G-66JQ,gi-G-HMW,"Ochthoeca Cabanis, 1847",genus
+gi-G-9MYF,gi-G-7NMSZ,"Acroloxus coloradensis (J. Henderson, 1930)",species
+gi-G-7NMSZ,gi-G-7NFT6,"Acroloxus H. Beck, 1838",genus
+gi-G-7NFT6,gi-G-7NGQG,"Acroloxidae Thiele, 1931",family
+gi-G-7NGQG,gi-G-7NVVQ,"Lymnaeoidea Rafinesque, 1815",superfamily
+gi-G-7NVVQ,gi-G-7VBDS,"Hygrophila Férussac, 1822",superorder
+gi-G-7VBDS,gi-G-7NF59,Tectipleura,subterclass
+gi-G-7NF59,gi-G-7NVXJ,Euthyneura,infraclass
+gi-G-7NVXJ,gi-G-BMGTT,"Heterobranchia Burmeister, 1837",subclass
+gi-G-H6FJ,gi-G-33PC,Asclepias humistrata Walter,species
+gi-G-5VKF3,gi-G-XJ7,"Anthus melindae Shelley, 1900",species
+gi-G-XJ7,gi-G-CYC,"Anthus Bechstein, 1805",genus
+gi-G-X4Y3,gi-G-62N5T,"Colluricincla harmonica (Latham, 1802)",species
+gi-G-62N5T,gi-G-DTK,"Colluricincla Vigors & Horsfield, 1827",genus
+gi-G-7QHTQ,gi-G-8NLP5,"Akodon (Akodon) azarae (Fischer, 1829)",species
+gi-G-54BZY,gi-G-7RSD,"Tachornis phoenicobia Gosse, 1847",species
+gi-G-7RSD,gi-G-J5Z,"Tachornis Gosse, 1847",genus
+gi-G-333VB,gi-G-3YBJ,Cylindropuntia kleiniae (DC.) F. M. Knuth,species
+gi-G-3YBJ,gi-G-93LTC,Cylindropuntia (Engelm.) F. M. Knuth,genus
+gi-G-93LTC,gi-G-7HS,Opuntioideae Burnett,subfamily
+gi-G-4BQDJ,gi-G-6BQ6,"Pachycephala sulfuriventer (Walden, 1872)",species
+gi-G-787MZ,gi-G-6V5S,"Potamochoerus porcus (Linnaeus, 1758)",species
+gi-G-6V5S,gi-G-628GG,"Potamochoerus Gray, 1854",genus
+gi-G-628GG,gi-G-KDV,"Potamochoerini Gray, 1873",tribe
+gi-G-KDV,gi-G-GT4,"Suinae Gray, 1821",subfamily
+gi-G-GT4,gi-G-B6L7D,"Suidae Gray, 1821",family
+gi-G-5VH73,gi-G-XH8,"Anthracothorax dominicus (Linnaeus, 1766)",species
+gi-G-XH8,gi-G-KGD,"Anthracothorax F. Boie, 1831",genus
+gi-G-45CNT,gi-G-5WP8,"Myrmia micrura (Gould, 1854)",species
+gi-G-5WP8,gi-G-KGD,"Myrmia Mulsant, 1876",genus
+gi-G-6RRM7,gi-G-5W9D,"Myiagra caledonica Bonaparte, 1857",species
+gi-G-65ZSD,gi-G-TC4,"Amazona guildingii (Vigors, 1837)",species
+gi-G-JGJB,gi-G-353L,"Atilax paludinosus (G. [Baron] Cuvier, 1829)",species
+gi-G-353L,gi-G-624SY,"Atilax F. G. Cuvier, 1826",genus
+gi-G-624SY,gi-G-4DL,"Herpestidae Bonaparte, 1845",family
+gi-G-6MRKR,gi-G-52NX,"Hypocnemoides maculicauda (Pelzeln, 1868)",species
+gi-G-52NX,gi-G-H5C,"Hypocnemoides Bangs & T. E. Penard, 1918",genus
+gi-G-3WWNG,gi-G-5HYC,"Macaca hecki (Matschie, 1901)",species
+gi-G-B9CTG,gi-G-B8XSB,Cystopteris tennesseensis Shaver,species
+gi-G-B8XSB,gi-G-B8WSB,Cystopteris Bernh.,genus
+gi-G-4JY2M,gi-G-6S3Q,"Platyrrhinus lineatus (E. Geoffroy, 1810)",species
+gi-G-6S3Q,gi-G-LGB,"Platyrrhinus Saussure, 1860",genus
+gi-G-B8WKY,gi-G-B8V4X,"Asplenium haughtonii (Hook.) Bir, Fraser-Jenk. & Lovis",species
+gi-G-5CZ8S,gi-G-63WXW,Zelkova serrata (Thunb.) Makino,species
+gi-G-63WXW,gi-G-HNB,Zelkova Spach,genus
+gi-G-HNB,gi-G-BMGVT,Ulmaceae Mirb.,family
+gi-G-4HQZR,gi-G-63MBY,"Piculus simplex (Salvin, 1870)",species
+gi-G-63MBY,gi-G-K5T,"Piculus von Spix, 1824",genus
+gi-G-79639,gi-G-78R9,"Rhinomyias colonus Hartert, 1898",species
+gi-G-78R9,gi-G-CZN,"Rhinomyias Sharpe, 1879",genus
+gi-G-3M36R,gi-G-4XGJ,"Hipposideros dinops K. Andersen, 1905",species
+gi-G-B3FST,gi-G-62R9Z,"Dysithamnus occidentalis (Chapman, 1923)",species
+gi-G-62R9Z,gi-G-H5C,"Dysithamnus Cabanis, 1847",genus
+gi-G-7V4VP,gi-G-8NPV4,"Gerbillurus (Gerbillurus) vallinus (Thomas, 1918)",species
+gi-G-8NPV4,gi-G-4N63,"Gerbillurus Shortridge, 1942",subgenus
+gi-G-4N63,gi-G-JLF,"Gerbillurus Shortridge, 1942",genus
+gi-G-76VKV,gi-G-63N2W,Phacelia racemosa (Kellogg) A. Heller,species
+gi-G-3SM7M,gi-G-5BFF,"Laudakia dayana (Stoliczka, 1871)",species
+gi-G-BTXD3,gi-G-BTWL6,Lepidoselaginella lepidophylla (Hook. & Grev.) Li Bing Zhang & X. M. Zhou,species
+gi-G-BTWL6,gi-G-BTWKQ,Lepidoselaginella Li Bing Zhang & X. M. Zhou,genus
+gi-G-54CBF,gi-G-7RSR,"Tachycineta leucorrhoa (Vieillot, 1817)",species
+gi-G-75P5H,gi-G-63KGY,"Paradoxurus hermaphroditus (Pallas, 1777)",species
+gi-G-63KGY,gi-G-K3P,"Paradoxurus F. Cuvier, 1821",genus
+gi-G-K3P,gi-G-626SP,"Paradoxurinae Gray, 1865",subfamily
+gi-G-349QZ,gi-G-4247,"Dasyprocta guamara Ojasti, 1972",species
+gi-G-4247,gi-G-623WT,"Dasyprocta Illiger, 1811",genus
+gi-G-623WT,gi-G-4L7,"Dasyproctidae Bonaparte, 1838",family
+gi-G-7VW9W,gi-G-8P3RC,"Mus (Nannomys) mahomet Rhoads, 1896",species
+gi-G-8P3RC,gi-G-5VV3,"Nannomys Peters, 1876",subgenus
+gi-G-5VV3,gi-G-JXJ,"Mus Linnaeus, 1758",genus
+gi-G-6TT78,gi-G-7PBZD,"Parvanachis obesa (C. B. Adams, 1845)",species
+gi-G-7PBZD,gi-G-7NGWV,"Parvanachis Radwin, 1968",genus
+gi-G-7NGWV,gi-G-B6LP5,"Columbellidae Swainson, 1840",family
+gi-G-B6LP5,gi-G-BMGWL,"Buccinoidea Rafinesque, 1815",superfamily
+gi-G-59PLJ,gi-G-647VS,"Turdus fumigatus Lichtenstein, 1823",species
+gi-G-5976F,gi-G-82QP,"Trochilus scitulus (Brewster & Bangs, 1901)",species
+gi-G-82QP,gi-G-KGD,"Trochilus Linnaeus, 1758",genus
+gi-G-6KD6B,gi-G-4N2J,"Geositta punensis Dabbene, 1917",species
+gi-G-4N2J,gi-G-6245S,"Geositta Swainson, 1837",genus
+gi-G-RQPW,gi-G-62KLV,"Castor fiber Linnaeus, 1758",species
+gi-G-62KLV,gi-G-7SK,"Castor Linnaeus, 1758",genus
+gi-G-7SK,gi-G-4CW,"Castoridae Hemprich, 1820",family
+gi-G-53N45,gi-G-7QQP,"Sylvia minula Hume, 1873",species
+gi-G-7QQP,gi-G-626LT,"Sylvia Scopoli, 1769",genus
+gi-G-69RQP,gi-G-3N6D,"Chimarrogale platycephalus (Temminck, 1842)",species
+gi-G-3N6D,gi-G-L27,"Chimarrogale Anderson, 1877",genus
+gi-G-L27,gi-G-KCG,"Nectogalini Anderson, 1879",tribe
+gi-G-FWJK,gi-G-Z8L,"Appias lyncida (Cramer, [1779] )",species
+gi-G-Z8L,gi-G-625MK,Appias,genus
+gi-G-47ZMK,gi-G-65MF,"Noturus fasciatus Burr, Eisenhour & Grady, 2005",species
+gi-G-65MF,gi-G-BCY,Noturus,genus
+gi-G-BCY,gi-G-6236K,Ictaluridae,family
+gi-G-7QHBL,gi-G-7NRCP,"Bursatella leachii Blainville, 1817",species
+gi-G-7NRCP,gi-G-7NFYL,"Bursatella Blainville, 1817",genus
+gi-G-7NFYL,gi-G-7NGGN,"Aplysiidae Lamarck, 1809",family
+gi-G-7NGGN,gi-G-Q5,"Aplysioidea Lamarck, 1809",superfamily
+gi-G-Q5,gi-G-7VBDS,Aplysiida,order
+gi-G-BNBFG,gi-G-342Y2,"Damaliscus pygargus pygargus (Pallas, 1767)",subspecies
+gi-G-342Y2,gi-G-3ZMY,"Damaliscus pygargus (Pallas, 1767)",species
+gi-G-3ZMY,gi-G-J4D,"Damaliscus P. L. Sclater & Thomas, 1894",genus
+gi-G-353M8,gi-G-43NW,"Desmognathus apalachicolae Means & Karlin, 1989",species
+gi-G-43NW,gi-G-628M6,"Desmognathus Baird, 1850",genus
+gi-G-4X7H6,gi-G-644R2,Sicyos angulatus L.,species
+gi-G-644R2,gi-G-8SC,Sicyos L.,genus
+gi-G-5D5TB,gi-G-63WP2,Zizia aurea (L.) W. D. J. Koch,species
+gi-G-63WP2,gi-G-J5W,Zizia W. D. J. Koch,genus
+gi-G-ZK7Z,gi-G-3W2V,"Crocidura thalia Dippenaar, 1980",species
+gi-G-787BH,gi-G-6V7H,Potentilla santolinoides (A. Gray) Greene,species
+gi-G-4GK8V,gi-G-63MH6,"Phodilus badius (Horsfield, 1821)",species
+gi-G-63MH6,gi-G-K5B,"Phodilus Geoffroy Saint-I. Hilaire, 1830",genus
+gi-G-K5B,gi-G-HMY,Phodilinae,subfamily
+gi-G-HMY,gi-G-466,Tytonidae,family
+gi-G-7N5S,gi-G-GNX,"Stercorarius Brisson, 1760",genus
+gi-G-GNX,gi-G-X3,Stercorariidae,family
+gi-G-4NKKG,gi-G-63R96,"Pseudantechinus bilarni (Johnson, 1954)",species
+gi-G-6XBTD,gi-G-7BWB,Salix fuscescens Andersson,species
+gi-G-7BWB,gi-G-FWG,Salix L.,genus
+gi-G-FWG,gi-G-MLP,Salicaceae Mirb.,family
+gi-G-4DRLY,gi-G-6J3Y,Paronychia fastigiata (Raf.) Fernald,species
+gi-G-6J3Y,gi-G-7RZ,Paronychia Mill.,genus
+gi-G-4SJV6,gi-G-799J,"Rhogeessa aenea Goodwin, 1958",species
+gi-G-799J,gi-G-8LZPX,"Rhogeessa H. Allen, 1866",genus
+gi-G-8LZPX,gi-G-628BX,"Antrozoini Miller, 1897",tribe
+gi-G-4FD4Z,gi-G-6LZ5,"Petaurillus emiliae Thomas, 1908",species
+gi-G-6LZ5,gi-G-L73,"Petaurillus Thomas, 1908",genus
+gi-G-36RCS,gi-G-46K8,Dirca decipiens Floden,species
+gi-G-46K8,gi-G-KFF,Dirca L.,genus
+gi-G-KFF,gi-G-H8Q,Thymelaeoideae Burnett,subfamily
+gi-G-H8Q,gi-G-B7VXR,Thymelaeaceae Juss.,family
+gi-G-BB5QD,gi-G-B8V9J,Polystichum scopulinum (D. C. Eaton) Maxon,species
+gi-G-B8V9J,gi-G-B8X3F,Polystichum Roth,genus
+gi-G-9XKYP,gi-G-3VBV,Crataegus gaylussacia A. Heller,species
+gi-G-4XRGQ,gi-G-7HTQ,"Sirystes sibilator (Vieillot, 1818)",species
+gi-G-7HTQ,gi-G-HMW,"Sirystes Cabanis & Heine, 1859",genus
+gi-G-GBM6,gi-G-62CT9,Arctostaphylos cruzensis Roof,species
+gi-G-4BW8H,gi-G-6C5T,Packera bolanderi (A. Gray) W. A. Weber & Á. Löve,species
+gi-G-6C5T,gi-G-J6T,Packera Á. Löve & D. Löve,genus
+gi-G-XFZY,gi-G-3SSM,Commidendrum robustum (Roxb.) DC.,species
+gi-G-3SSM,gi-G-J6T,Commidendrum Burch. ex DC.,genus
+gi-G-7VV8F,gi-G-8NX3D,"Microtus (Pitymys) pinetorum (Le Conte, 1830)",species
+gi-G-8NX3D,gi-G-5SL9,"Pitymys McMurtrie, 1831",subgenus
+gi-G-4CKQS,gi-G-6DFM,"Papilio thoas Linnaeus, 1771",species
+gi-G-BXVWW,gi-G-BXWDP,"Cicadellidae Latreille, 1825",family
+gi-G-BXWDP,gi-G-8HBP7,"Membracoidea Rafinesque, 1815",superfamily
+gi-G-8HBP7,gi-G-8JK56,"Cicadomorpha Martynov, 1927",genus
+gi-G-8JK56,gi-G-8HBR6,"Palaeontininae Handlirsch, 1906",subfamily
+gi-G-8HBR6,gi-G-8HBQ2,"Palaeontinidae Handlirsch, 1906",family
+gi-G-8HBQ2,gi-G-8HPY8,"Palaeontinoidea Handlirsch, 1906",superfamily
+gi-G-8HPY8,gi-G-BXWCS,"Prosbolomorpha Popov, 1980",infraorder
+gi-G-3L2WH,gi-G-4VWT,"Herpestes naso de Winton, 1901",species
+gi-G-4VWT,gi-G-624SY,"Herpestes Illiger, 1811",genus
+gi-G-4KH7V,gi-G-6T2Q,"Ploceus badius (Cassin, 1850)",species
+gi-G-6T2Q,gi-G-627GF,"Ploceus Cuvier, 1816",genus
+gi-G-6GP5S,gi-G-633LL,Erigeron geiseri Shinners,species
+gi-G-5YV6B,gi-G-62LBV,"Cinnyris chalybeus (Linnaeus, 1766)",species
+gi-G-7W26B,gi-G-8P46S,"Neotoma (Teanopus) phenax (Merriam, 1903)",species
+gi-G-8P46S,gi-G-62WM,"Teanopus Merriam, 1903",subgenus
+gi-G-3D27R,gi-G-4GLQ,"Eurocephalus ruppelli Bonaparte, 1853",species
+gi-G-4GLQ,gi-G-BS2,"Eurocephalus A. Smith, 1836",genus
+gi-G-BS2,gi-G-3RL,"Laniidae Rafinesque, 1815",family
+gi-G-X8L4,gi-G-3SK8,"Colotis halimede (Klug, 1829)",species
+gi-G-3SK8,gi-G-625MK,Colotis,genus
+gi-G-4SBB2,gi-G-78VK,"Rhipidura tenebrosa E. P. Ramsay, 1882",species
+gi-G-65CC8,gi-G-629N9,"Aethopyga gouldiae (Vigors, 1831)",species
+gi-G-48C3D,gi-G-66DK,"Oceanites gracilis (Elliot, 1859)",species
+gi-G-66DK,gi-G-JZH,"Oceanites Keyserling & J. H. Blasius, 1840",genus
+gi-G-JZH,gi-G-B87,"Oceanitinae Forbes, 1882",subfamily
+gi-G-B87,gi-G-622V8,"Hydrobatidae Mathews, 1912",family
+gi-G-4W5T7,gi-G-63SYR,"Scytalopus magellanicus (Gmelin, 1789)",species
+gi-G-63SYR,gi-G-FNY,"Scytalopus Gould, 1837",genus
+gi-G-4FQQJ,gi-G-6MN5,"Phalacrocorax fuscescens (Vieillot, 1817)",species
+gi-G-6MN5,gi-G-62694,"Phalacrocorax Brisson, 1760",genus
+gi-G-RQCQ,gi-G-3J6L,Castilleja hispida Benth.,species
+gi-G-3J6L,gi-G-DQG,Castilleja L.f.,genus
+gi-G-ZK5K,gi-G-3W2V,"Crocidura levicula Miller & Hollister, 1921",species
+gi-G-3PJSV,gi-G-542F,Impatiens glandulifera Royle,species
+gi-G-542F,gi-G-72Q,Impatiens L.,genus
+gi-G-72Q,gi-G-625QY,Balsaminaceae A. Rich.,family
+gi-G-7V4VC,gi-G-8P46P,"Gerbilliscus (Taterona) phillipsi (de Winton, 1898)",species
+gi-G-8P46P,gi-G-4N62,"Taterona Wroughton, 1917",subgenus
+gi-G-4N62,gi-G-JLF,"Gerbilliscus Thomas, 1897",genus
+gi-G-5DB6X,gi-G-8BCT,"Zygogeomys trichopus Merriam, 1895",species
+gi-G-8BCT,gi-G-6247K,"Zygogeomys Merriam, 1895",genus
+gi-G-6247K,gi-G-4CW,"Geomyidae Bonaparte, 1845",family
+gi-G-9KCC8,gi-G-6372V,Hypericum lloydii (Svenson) P. B. Adams,species
+gi-G-6372V,gi-G-6257N,Hypericum L.,genus
+gi-G-6257N,gi-G-MLP,Hypericaceae Juss.,family
+gi-G-6XCLZ,gi-G-7BWB,Salix barclayi Andersson,species
+gi-G-XDR2,gi-G-3SQP,Comarum palustre L.,species
+gi-G-3SQP,gi-G-628NC,Comarum L.,genus
+gi-G-43LMP,gi-G-5TKZ,"Mirafra pulpa Friedmann, 1930",species
+gi-G-5TKZ,gi-G-667,"Mirafra Horsfield, 1821",genus
+gi-G-4QMM8,gi-G-75Q7,"Pycnonotus cafer (Linnaeus, 1766)",species
+gi-G-75GNW,gi-G-63JJ9,Pachycereus hollianus (F. A. C. Weber) Buxb.,species
+gi-G-63JJ9,gi-G-93LST,Pachycereus (A. Berger) Britton & Rose,genus
+gi-G-F4N2,gi-G-XV3,"Antrostomus cubanensis Lawrence, 1861",species
+gi-G-XV3,gi-G-7PQ,"Antrostomus Bonaparte, 1838",genus
+gi-G-6G93V,gi-G-7NYYB,"Epitonium scalare (Linnaeus, 1758)",species
+gi-G-7NYYB,gi-G-7NHHT,"Epitonium Röding, 1798",genus
+gi-G-7NHHT,gi-G-B6LQ4,"Epitoniidae S. S. Berry, 1910 (1812)",family
+gi-G-B6LQ4,gi-G-9WLSP,"Epitonioidea S. S. Berry, 1910 (1812)",superfamily
+gi-G-7WY9F,gi-G-8P369,"Sundasciurus (Aletesciurus) davensis (Sanborn, 1952)",species
+gi-G-8P369,gi-G-7QCG,"Aletesciurus Moore, 1958",subgenus
+gi-G-7QCG,gi-G-J9G,"Sundasciurus Moore, 1958",genus
+gi-G-4S5QM,gi-G-78GW,"Rhegmatorhina hoffmannsi (Hellmayr, 1907)",species
+gi-G-78GW,gi-G-H5C,"Rhegmatorhina Ridgway, 1888",genus
+gi-G-6BDRG,gi-G-3VGM,"Creagrutus amoenus Fowler, 1943",species
+gi-G-3VGM,gi-G-7ZZ,Creagrutus,genus
+gi-G-4XTSH,gi-G-7HWK,"Sitta himalayensis Jardine & Selby, 1835",species
+gi-G-YNHR,gi-G-62LZ4,"Corvus enca (Horsfield, 1821)",species
+gi-G-4Y45Y,gi-G-63SD9,Solanum scabrum Mill.,species
+gi-G-42PTH,gi-G-5RB4,"Micoureus alstoni (J. A. Allen, 1900)",species
+gi-G-5RB4,gi-G-JFQ,"Micoureus Lesson, 1842",genus
+gi-G-78LTB,gi-G-64365,"Pteropus pilosus K. Andersen, 1908",species
+gi-G-4LYG,gi-G-625WG,"Galloperdix Blyth, 1845",genus
+gi-G-5CX7H,gi-G-64985,"Zapus princeps J. A. Allen, 1893",species
+gi-G-64985,gi-G-KJB,"Zapus Coues, 1875",genus
+gi-G-KJB,gi-G-9CB,"Zapodinae Coues, 1875",subfamily
+gi-G-VH38,gi-G-3Q6P,"Cirripectes springeri Williams, 1988",species
+gi-G-3Q6P,gi-G-78Y,Cirripectes,genus
+gi-G-78VDB,gi-G-79VF,Ribes rotundifolium Michx.,species
+gi-G-452MX,gi-G-5W9D,"Myiagra erythrops Hartlaub & Finsch, 1868",species
+gi-G-75T86,gi-G-6J9Z,"Parus guineensis Shelley, 1900",species
+gi-G-6J9Z,gi-G-626B2,"Parus Linnaeus, 1758",genus
+gi-G-3SY33,gi-G-5BVW,"Leiocephalus barahonensis Schmidt, 1921",species
+gi-G-5BVW,gi-G-6259P,Leiocephalus,genus
+gi-G-6259P,gi-G-87BW7,Leiocephalidae,family
+gi-G-5979N,gi-G-82R4,"Trochocercus cyanomelas (Vieillot, 1818)",species
+gi-G-82R4,gi-G-CVP,"Trochocercus Cabanis, 1850",genus
+gi-G-563HV,gi-G-7V99,"Thamnophilus murinus P. L. Sclater & Salvin, 1868",species
+gi-G-7V99,gi-G-H5C,"Thamnophilus Vieillot, 1816",genus
+gi-G-6JMPS,gi-G-4L26,Frasera tubulosa Coville,species
+gi-G-38XGF,gi-G-62QQC,"Elaenia cristata Pelzeln, 1868",species
+gi-G-62QQC,gi-G-HMW,"Elaenia Sundevall, 1836",genus
+gi-G-4J6JF,gi-G-6QRN,"Pipistrellus abramus (Temminck, 1838)",species
+gi-G-6QRN,gi-G-L5K,"Pipistrellus Kaup, 1829",genus
+gi-G-L5K,gi-G-628BX,"Pipistrellini Tate, 1942",tribe
+gi-G-695TX,gi-G-62HVC,"Buteo albonotatus Kaup, 1847",species
+gi-G-3BG5N,gi-G-633T6,"Erythrura coloria Ripley & Rabor, 1961",species
+gi-G-633T6,gi-G-623Q5,"Erythrura Swainson, 1837",genus
+gi-G-Q6YB,gi-G-3G7Q,"Calyptorhynchus banksii (Latham, 1790)",species
+gi-G-3G7Q,gi-G-J98,"Calyptorhynchus Desmarest, 1826",genus
+gi-G-J98,gi-G-FBD,Cacatuinae,subfamily
+gi-G-4TZBW,gi-G-7BP7,"Saguinus martinsi (Thomas, 1912)",species
+gi-G-7BP7,gi-G-7KR,"Saguinus Hoffmannsegg, 1807",genus
+gi-G-CYQD,gi-G-84LC4,"Ampharete falcata Eliason, 1955",species
+gi-G-84LC4,gi-G-85R7C,"Ampharete Malmgren, 1866",genus
+gi-G-85R7C,gi-G-85GGJ,"Ampharetini Holthe, 1986",tribe
+gi-G-85GGJ,gi-G-84JVH,"Ampharetinae Malmgren, 1866",subfamily
+gi-G-84JVH,gi-G-857XJ,"Ampharetidae Malmgren, 1866",family
+gi-G-857XJ,gi-G-475,"Terebelliformia Levinsen, 1882",suborder
+gi-G-475,gi-G-84JPH,"Terebellida sensu Rouse & Fauchald, 1997",order
+gi-G-84JPH,gi-G-84JPG,"Canalipalpata Rouse & Fauchald, 1997 non Linnaean",infraclass
+gi-G-3XS26,gi-G-5KRX,"Mammelomys rattoides (Thomas, 1922)",species
+gi-G-5KRX,gi-G-JXJ,"Mammelomys Menzies, 1996",genus
+gi-G-5GZQQ,gi-G-37ZCN,Dudleya cymosa subsp. cymosa,subspecies
+gi-G-37ZCN,gi-G-48MW,Dudleya cymosa (Lem.) Britton & Rose,species
+gi-G-48MW,gi-G-KBM,Dudleya Britton & Rose,genus
+gi-G-7V4VZ,gi-G-8NPV5,"Gerbillus (Gerbillus) andersoni de Winton, 1902",species
+gi-G-485JH,gi-G-65ZL,"Nycticebus bengalensis (Lacépède, 1800)",species
+gi-G-65ZL,gi-G-628LB,"Nycticebus É. Geoffroy Saint-Hilaire, 1812",genus
+gi-G-628LB,gi-G-C7M,"Lorisinae Gray, 1821",subfamily
+gi-G-C7M,gi-G-4LX,"Lorisidae Gray, 1821",family
+gi-G-4LX,gi-G-4FM,"Lorisiformes Gregory, 1915",infraorder
+gi-G-3GGY4,gi-G-634J4,"Glyphotes simus Thomas, 1898",species
+gi-G-634J4,gi-G-J9G,"Glyphotes Thomas, 1898",genus
+gi-G-42QF2,gi-G-5RD3,Micranthes micranthidifolia (Haw.) Small,species
+gi-G-69N9H,gi-G-3L8Y,"Certhiaxis cinnamomeus (Gmelin, 1788)",species
+gi-G-3L8Y,gi-G-6245S,"Certhiaxis Lesson, 1844",genus
+gi-G-3SGW2,gi-G-5B7R,"Lasiurus varius (Poeppig, 1835)",species
+gi-G-5B7R,gi-G-KXM,"Lasiurus Gray, 1831",genus
+gi-G-46CVB,gi-G-63DQW,"Neochmia ruficauda (Gould, 1837)",species
+gi-G-63DQW,gi-G-623Q5,"Neochmia G. R. Gray, 1849",genus
+gi-G-6YTD8,gi-G-63SD9,Solanum diphyllum L.,species
+gi-G-5TPT,gi-G-625XL,"Mirounga Gray, 1827",genus
+gi-G-625XL,gi-G-4CT,"Phocidae Gray, 1821",family
+gi-G-774WB,gi-G-63KWK,Pereskia diaz-romeroana Cárdenas,species
+gi-G-63KWK,gi-G-K4D,Pereskia Mill.,genus
+gi-G-K4D,gi-G-7HS,Pereskioideae Engelm.,subfamily
+gi-G-6HWH9,gi-G-4JY9,"Ficedula bonthaina (Hartert, 1896)",species
+gi-G-3B4TG,gi-G-62RM7,Eriogonum ovalifolium Nutt.,species
+gi-G-RYTN,gi-G-62KF2,Ceanothus sorediatus Hook. & Arn.,species
+gi-G-76FP2,gi-G-6KJB,"Pelusios rhodesianus Hewitt, 1927",species
+gi-G-6KJB,gi-G-62658,Pelusios,genus
+gi-G-62658,gi-G-8FZDK,Pelomedusidae,family
+gi-G-8FZDK,gi-G-87BW9,Pelomedusoidea,superfamily
+gi-G-6THKJ,gi-G-6BYK,Pachypodium lealii Welw.,species
+gi-G-6BYK,gi-G-93LSP,Pachypodium Lindl.,genus
+gi-G-93LSP,gi-G-6L2,Apocynoideae Burnett,subfamily
+gi-G-5DDTH,gi-G-8BG9,"Zyzomys woodwardi (Thomas, 1909)",species
+gi-G-8BG9,gi-G-JXJ,"Zyzomys Thomas, 1909",genus
+gi-G-6GQ93,gi-G-633LL,Erigeron trifidus Hook.,species
+gi-G-GB4G,gi-G-32CR,Arctomecon merriamii Coville,species
+gi-G-32CR,gi-G-93LTF,Arctomecon Torr. & Frém.,genus
+gi-G-93LTF,gi-G-DX3,Papaveroideae Eaton,subfamily
+gi-G-6JLWF,gi-G-4L3L,"Fregata minor (Gmelin, 1789)",species
+gi-G-4L3L,gi-G-6244Z,"Fregata Lacepede, 1799",genus
+gi-G-6244Z,gi-G-46J,"Fregatidae Degland & Gerbe, 1867",family
+gi-G-4FQQX,gi-G-6MN5,"Phalacrocorax pelagicus Pallas, 1811",species
+gi-G-JZGQ,gi-G-36M6,"Automolus ochrolaemus (Tschudi, 1844)",species
+gi-G-36M6,gi-G-6245S,"Automolus Reichenbach, 1853",genus
+gi-G-8LZZF,gi-G-8NP2N,"Myotis (Myotis) capaccinii (Bonaparte, 1837)",species
+gi-G-8NP2N,gi-G-5WGF,"Myotis Kaup, 1829",subgenus
+gi-G-42383,gi-G-5PQ9,"Mesocricetus newtoni (Nehring, 1898)",species
+gi-G-5PQ9,gi-G-JDY,"Mesocricetus Nehring, 1898",genus
+gi-G-JDY,gi-G-8P5,"Cricetinae Fischer, 1817",subfamily
+gi-G-3ZJC7,gi-G-5NRH,"Melipotes fumigatus A. B. Meyer, 1886",species
+gi-G-5NRH,gi-G-CKJ,"Melipotes P. L. Sclater, 1874",genus
+gi-G-4TQSH,gi-G-7B6V,"Rusa alfredi (Sclater, 1870)",species
+gi-G-7B6V,gi-G-JB6,"Rusa C. H. Smith, 1827",genus
+gi-G-JB6,gi-G-7XR,"Cervinae Goldfuss, 1820",subfamily
+gi-G-6F34S,gi-G-62QDL,Elatine triandra Schkuhr,species
+gi-G-62QDL,gi-G-9LT,Elatine L.,genus
+gi-G-9LT,gi-G-MLP,Elatinaceae Dumort.,family
+gi-G-4FQ2H,gi-G-6MLZ,"Phaethornis ruber (Linnaeus, 1758)",species
+gi-G-6MLZ,gi-G-K4V,"Phaethornis Swainson, 1827",genus
+gi-G-3823W,gi-G-48NT,Duguetia vallicola J. F. Macbr.,species
+gi-G-48NT,gi-G-6FB,Duguetia,genus
+gi-G-6GQV7,gi-G-62RP4,Eriosyce recondita (F. Ritter) Katt.,species
+gi-G-62RP4,gi-G-93LST,Eriosyce Phil.,genus
+gi-G-76KZK,gi-G-6KPY,Penstemon labrosus (A. Gray) Mast. ex Hook. fil.,species
+gi-G-853Y3,gi-G-84RJQ,"Panulirus pascuensis Reed, 1954",species
+gi-G-84RJQ,gi-G-84KLK,"Panulirus White, 1847",genus
+gi-G-84KLK,gi-G-857XK,"Palinuridae Latreille, 1802",family
+gi-G-857XK,gi-G-7NFJ8,"Achelata Scholtz & Richter, 1995",infraorder
+gi-G-8TTX,gi-G-M2M,"Acanthisitta chloris (Sparrman, 1787)",species
+gi-G-M2M,gi-G-622R4,"Acanthisitta Lafresnaye, 1842",genus
+gi-G-622R4,gi-G-3RL,Acanthisittidae,family
+gi-G-6DYTH,gi-G-62QNZ,Ehretia anacua (Terán & Berl.) I. M. Johnst.,species
+gi-G-62QNZ,gi-G-9L9,Ehretia P. Browne,genus
+gi-G-9L9,gi-G-BMH4M,Ehretiaceae Mart.,family
+gi-G-75WFQ,gi-G-84RVB,"Pavona gigantea (Verrill, 1869)",species
+gi-G-84RVB,gi-G-84JV4,"Pavona Lamarck, 1801",genus
+gi-G-84JV4,gi-G-BX37X,"Agariciidae Gray, 1847",family
+gi-G-4XCQG,gi-G-644QW,Silene noctiflora L.,species
+gi-G-6MK7J,gi-G-636N4,"Hydrochoerus hydrochaeris (Linnaeus, 1766)",species
+gi-G-636N4,gi-G-JQ6,"Hydrochoerus Brisson, 1762",genus
+gi-G-JQ6,gi-G-7TR,"Hydrochoerinae Gray, 1825",subfamily
+gi-G-6KZR9,gi-G-62TQR,"Halobaena caerulea (Gmelin, 1789)",species
+gi-G-62TQR,gi-G-627CQ,"Halobaena Bonaparte, 1856",genus
+gi-G-33BB4,gi-G-3YLS,"Cyornis rubeculoides (Vigors, 1831)",species
+gi-G-3YLS,gi-G-CZN,"Cyornis Blyth, 1843",genus
+gi-G-3X969,gi-G-5JMG,"Macropygia phasianella (Temminck, 1821)",species
+gi-G-5JMG,gi-G-JCZ,"Macropygia Swainson, 1837",genus
+gi-G-B95QQ,gi-G-B8XDV,Aspidotis carlotta-halliae (W. H. Wagner & E. F. Gilbert) Lellinger,species
+gi-G-B8XDV,gi-G-B8X36,Aspidotis (Nutt. ex Hook.) Copel.,genus
+gi-G-B8X36,gi-G-B8V4Q,Cheilanthoideae Horvath,subfamily
+gi-G-B8V4Q,gi-G-B8TXB,Pteridaceae E. D. M. Kirchn.,family
+gi-G-8KQK6,gi-G-8K3WH,"Phaeoptila sordida (Gould, 1859)",species
+gi-G-8K3WH,gi-G-KGD,"Phaeoptila Gould, 1861",genus
+gi-G-4NLSH,gi-G-6YVF,"Pseudaulacaspis simplex Takagi, 1961",species
+gi-G-6YVF,gi-G-96X,Pseudaulacaspis,genus
+gi-G-725KJ,gi-G-638ZH,"Leucocarbo atriceps (King, 1828)",species
+gi-G-638ZH,gi-G-62694,"Leucocarbo Bonaparte, 1856",genus
+gi-G-4MBBF,gi-G-6VKV,"Presbytis potenziani (Bonaparte, 1856)",species
+gi-G-627G9,gi-G-VJ,Podargidae,family
+gi-G-622GL,gi-G-3RL,"Bombycillidae Swainson, 1831",family
+gi-G-4TQSK,gi-G-7B6V,"Rusa timorensis (Blainville, 1822)",species
+gi-G-4KQ4F,gi-G-6TC9,Podocarpus ledermannii Pilg.,species
+gi-G-3KTLJ,gi-G-4VG4,"Hemitragus jemlahicus (C. H. Smith, 1826)",species
+gi-G-4VG4,gi-G-J9X,"Hemitragus Hodgson, 1841",genus
+gi-G-J9X,gi-G-622G9,"Caprinae Gray, 1821",subfamily
+gi-G-7B68,gi-G-J9X,"Rupicapra Blainville, 1816",genus
+gi-G-6YTSX,gi-G-7JD7,Solandra grandiflora Sw.,species
+gi-G-7JD7,gi-G-628NX,Solandra Sw.,genus
+gi-G-NH73,gi-G-3DKB,"Brycon coquenani Steindachner, 1915",species
+gi-G-3DKB,gi-G-622J3,Brycon,genus
+gi-G-622J3,gi-G-X2,Bryconidae,family
+gi-G-3BH79,gi-G-62RSK,Eschscholzia parishii Greene,species
+gi-G-62RSK,gi-G-93LTF,Eschscholzia Cham.,genus
+gi-G-4Z4FR,gi-G-646DB,"Spilornis klossi Richmond, 1902",species
+gi-G-646DB,gi-G-5W6,"Spilornis G. R. Gray, 1840",genus
+gi-G-6QR9T,gi-G-5HR8,"Lynx lynx (Linnaeus, 1758)",species
+gi-G-5HR8,gi-G-JKL,"Lynx Kerr, 1792",genus
+gi-G-JKL,gi-G-623RM,"Felinae Fischer de Waldheim, 1817",subfamily
+gi-G-4BQC9,gi-G-6BQ6,"Pachycephala albiventris (Ogilvie-Grant, 1894)",species

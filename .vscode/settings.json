@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "./.venv/bin/python3",
+    "pylint.ignorePatterns": ["**/tests/*.py"],
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.formatOnSave": true
+    },
+    "black-formatter.args": ["--line-length=80"],
+    "jira-plugin.workingProject": "",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "python.testing.pytestArgs": ["."],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+  }
+  

@@ -1,0 +1,6 @@
+fastapi[all]
+sqlalchemy
+psycopg2-binary
+langchain-openai
+openai
+pgvector

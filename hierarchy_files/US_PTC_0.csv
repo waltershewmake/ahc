@@ -1,0 +1,310 @@
+name,matrix_sku,taxable,description,isFood,parent_sku
+INDIANA,00000,0,Non-Taxable Goods,0,DEFAULT
+INDIANA,10010,1,Charges by the seller for any services necessary to complete the sale other than delivery and installation.,0,SP
+INDIANA,10040,0,Installation charges,0,SP
+INDIANA,10060,0,Value of trade-in,0,SP
+INDIANA,10070,0,Telecommunication nonrecurring charges,0,SP
+INDIANA,10080,1,Employee discounts that are reimbursed by a third party on sales of motor vehicles.,0,SP
+INDIANA,10085,1,Manufacturer rebates on motor vehicles.,0,SP
+INDIANA,10090,1,"All coupons issued by a manufacturer, supplier, or distributor of a product that entitle the purchaser to a reduction in sales price and allowed by the seller who is reimbursed by the manufacturer, supplier or distributor.",0,SP
+INDIANA,11000,1,"Handling, crating, packing, preparation for mailing or delivery, and similar charges",0,DC
+INDIANA,11010,1,"Transportation, shipping, postage, and similar charges",0,DC
+INDIANA,11015,1,"Delivery charges involving or related to the sale of electricity, natural gas, or artificial gas by a utility, as â€œutilityâ€ is defined by the state.",0,DCDD
+INDIANA,11020,1,"Handling, crating, packing, preparation for mailing or delivery, and similar charges for direct mail",0,DCDD
+INDIANA,11021,1,"Transportation, shipping, postage, and similar charges for direct mail",0,DCDD
+INDIANA,11022,0,Postage for direct mail,0,DCDD
+INDIANA,11110,1,Gross Receipts Liquor,0,SP
+INDIANA,11120,1,Tribal Taxes,0,SP
+INDIANA,11130,0,Diesel fuel and special fuels excise taxes,0,DCDD
+INDIANA,20010,1,Clothing,0,APP
+INDIANA,20011,0,Diapers - Childrens,0,APP
+INDIANA,20012,1,Diapers - Adults,0,APP
+INDIANA,20015,1,Essential clothing priced below a state specific threshold,0,APP
+INDIANA,20020,1,Clothing Accessories or Equipment,0,APP
+INDIANA,20030,1,Protective Equipment,0,APP
+INDIANA,20040,1,Sport or Recreational Equipment,0,APP
+INDIANA,20050,1,Fur clothing,0,APP
+INDIANA,20060,1,All Energy star qualified products,0,SP
+INDIANA,20070,1,School supply,0,SP
+INDIANA,20080,1,School art supply,0,SP
+INDIANA,20090,1,School instructional material,0,SP
+INDIANA,20100,1,School computer supply,0,SP
+INDIANA,20105,1,All WaterSense products.,0,SP
+INDIANA,20150,1,All Disaster Preparedness Supply,0,SP
+INDIANA,20160,1,Specific Disaster preparedness general supply,0,SP
+INDIANA,20170,1,Specific Disaster preparedness safety supply,0,SP
+INDIANA,20180,1,Specific Disaster preparedness food-related supply,0,SP
+INDIANA,20190,1,Specific Disaster preparedness fastening supply,0,SP
+INDIANA,30015,0,Non-Prewritten (custom) computer software,0,COMP
+INDIANA,30025,0,Non-Prewritten (custom) computer software delivered electronically,0,COMP
+INDIANA,30035,0,Non-Prewritten (custom) computer software delivered via load and leave,0,COMP
+INDIANA,30040,1,Prewritten computer software,0,COMP
+INDIANA,30050,1,Prewritten computer software delivered electronically,0,COMP
+INDIANA,30060,1,Prewritten computer software delivered via load and leave,0,COMP
+INDIANA,30100,1,Computer,0,COMP
+INDIANA,30200,1,Mandatory computer software maintenance contracts with respect to prewritten computer software,0,COMP
+INDIANA,30210,1,Mandatory computer software maintenance contracts with respect to prewritten computer software which is delivered electronically,0,COMP
+INDIANA,30220,1,Mandatory computer software maintenance contracts with respect to prewritten computer software which is delivered via load and leave,0,COMP
+INDIANA,30230,0,Mandatory computer software maintenance contracts with respect to non-prewritten (custom) computer software,0,COMP
+INDIANA,30240,0,Mandatory computer software maintenance contracts with respect to non-prewritten (custom) software which is delivered electronically,0,COMP
+INDIANA,30250,0,Mandatory computer software maintenance contracts with respect to non-prewritten (custom) software which is delivered via load and leave,0,COMP
+INDIANA,30300,1,Optional computer software maintenance contracts with respect to prewritten computer software that only provide updates or upgrades with respect to the software,0,COMP
+INDIANA,30310,1,Optional computer software maintenance contracts with respect to prewritten computer software that only provide updates or upgrades delivered electronically with respect to the software,0,COMP
+INDIANA,30320,1,Optional computer software maintenance contracts with respect to prewritten computer software that only provide updates or upgrades delivered via load and leave with respect to the software,0,COMP
+INDIANA,30330,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software that only provide updates or upgrades with respect to the software,0,COMP
+INDIANA,30340,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software that only provide updates or upgrades delivered electronically with respect to the software,0,COMP
+INDIANA,30350,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software that only provide updates or upgrades delivered via load and leave with respect to the software,0,COMP
+INDIANA,30360,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software that only provide support services to the software,0,COMP
+INDIANA,30370,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software that provide updates or upgrades and support services to the software,0,COMP
+INDIANA,30380,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software that provide updates or upgrades delivered electronically and support services to the software,0,COMP
+INDIANA,30390,0,Optional computer software maintenance contracts with respect to non-prewritten (custom) computer software provide updates or upgrades delivered via load and leave and support services to the software,0,COMP
+INDIANA,30400,1,Optional computer software maintenance contracts with respect to prewritten computer software that provide updates or upgrades and support services to the software,0,COMP
+INDIANA,30410,1,Optional computer software maintenance contracts with respect to prewritten computer software that provide updates and upgrades delivered electronically and support services to the software,0,COMP
+INDIANA,30420,1,Optional computer software maintenance contracts with respect to prewritten computer software that provide updates and upgrades delivered via load and leave and support services to the software,0,COMP
+INDIANA,30430,0,Optional computer software maintenance contracts with respect to prewritten computer software that only provide support services to the software,0,COMP
+INDIANA,31000,0,Products Transferred Electronically,0,DIG
+INDIANA,31040,1,Digital Audio Visual Works (with rights for permanent use),0,DIG
+INDIANA,31050,0,Digital Audio Visual Works (with rights of less than permanent use),0,DIG
+INDIANA,31060,0,Digital Audio Visual Works (with rights conditioned on continued payments),0,DIG
+INDIANA,31065,0,Digital Audio Visual Works sold to users other than the end user,0,DIG
+INDIANA,31070,1,Digital Audio Works (with rights for permanent use),0,DIG
+INDIANA,31080,0,Digital Audio Works (with rights of less than permanent use),0,DIG
+INDIANA,31090,0,Digital Audio Works (with rights conditioned on continued payments),0,DIG
+INDIANA,31095,0,Digital Audio Works sold to users other than the end user,0,DIG
+INDIANA,31100,1,Digital Books (with rights for permanent use),0,DIG
+INDIANA,31110,0,Digital Books (with rights of less than permanent use),0,DIG
+INDIANA,31120,0,Digital Books (with rights conditioned on continued payments),0,DIG
+INDIANA,31121,0,Does your state treat subscriptions to products transferred electronically differently than a non-subscription purchase of such product,0,DIG
+INDIANA,31125,0,Digital Books sold to users other than the end user,0,DIG
+INDIANA,32000,1,Digital Textbooks - used in a course of study,0,DIG
+INDIANA,40010,1,Candy,0,FOOD
+INDIANA,40015,1,Dried or partially dried fruit that contains one or more sweeteners and may also contain other additives,1,FOOD
+INDIANA,40020,1,Dietary Supplements,0,FOOD
+INDIANA,40030,0,Food and food ingredients excluding alcoholic beverages and tobacco,0,FOOD
+INDIANA,40040,0,Food sold through vending machines,0,FOOD
+INDIANA,40050,1,Soft Drinks,0,FOOD
+INDIANA,40060,0,Bottled Water,0,FOOD
+INDIANA,41000,1,Prepared food,0,FOOD
+INDIANA,410011,0,Bottled Water,0,FOOD
+INDIANA,41010,0,"Food sold without eating utensils provided by the seller whose primary NAICS classification is manufacturing in sector 311, except subsector 3118",0,PREPFOOD
+INDIANA,41020,0,Food sold without eating utensils provided by the seller in an unheated state by weight or volume as a single item,0,PREPFOOD
+INDIANA,41025,0,Meat or seafood products that meet the definition of prepared food sold without eating utensils provided by the seller in an unheated state by weight or volume as a single item,0,PREPFOOD
+INDIANA,41030,0,"Bakery items sold without eating utensils provided by the seller, including bread, rolls, buns, biscuits, bagels, croissants, pastries, donuts, Danish, cakes, tortes, pies, tarts, muffins, bars, cookies, tortillas",0,PREPFOOD
+INDIANA,41040,0,Prepared food sold without eating utensils provided by the seller that ordinarily requires cooking as opposed to just reheating by the consumer prior to consumption,0,PREPFOOD
+INDIANA,41045,1,"Bottled water, candy, dietary supplements, soft drinks and items under Reference numbers 41010 or 41020 or 41025 or 41030 and 41040 that would otherwise be exempt from tax but are considered prepared food if utensils are made available to the customer at the seller location",0,PREPFOOD
+INDIANA,51010,1,Drugs for human use without a prescription,0,HC-DH
+INDIANA,51020,0,Drugs for human use with a prescription,0,HC-DH
+INDIANA,51030,1,Drugs for animal use without a prescription,0,HC-DA
+INDIANA,51040,0,Drugs for animal use with a prescription,0,HC-DA
+INDIANA,51050,0,Insulin for human use without a prescription,0,HC-DH
+INDIANA,51060,0,Insulin for human use with a prescription,0,HC-DH
+INDIANA,51070,0,Insulin for animal use without a prescription,0,HC-DA
+INDIANA,51080,0,Insulin for animal use with a prescription,0,HC-DA
+INDIANA,51090,0,Medical oxygen for human use without a prescription,0,HC-DH
+INDIANA,51100,0,Medical oxygen for human use with a prescription,0,HC-DH
+INDIANA,51110,0,Medical oxygen for animal use without a prescription,0,HC-DA
+INDIANA,51120,0,Medical oxygen for animal use with a prescription,0,HC-DA
+INDIANA,51130,1,Over-the-counter drugs for human use without a prescription,0,HC-DH
+INDIANA,51140,0,Over-the-counter drugs for human use with a prescription,0,HC-DH
+INDIANA,51150,1,Over-the-counter drugs for animal use without a prescription,0,HC-DA
+INDIANA,51160,0,Over-the-counter drugs for animal use with a prescription,0,HC-DA
+INDIANA,51170,1,Grooming and hygiene products for human use,0,HC-DH
+INDIANA,51171,1,Grooming and hygiene products for human use that meet the definition of drug without a prescription,0,HC
+INDIANA,51172,0,Grooming and hygiene products for human use that meet the definition of drug with a prescription,0,HC-DA
+INDIANA,51175,1,Feminine hygiene products,0,HC-DA
+INDIANA,51180,1,Grooming and hygiene products for animal use,0,HC-DA
+INDIANA,51190,0,Drugs for human use to hospitals   ,0,HC-DH
+INDIANA,51195,0,Drugs for human use to other medical facilities,0,HC-DH
+INDIANA,51200,0,Prescription drugs for human use to hospitals ,0,HC-DH
+INDIANA,51205,0,Prescription drugs for human use to other medical facilities,0,HC-DH
+INDIANA,51210,0,Drugs for animal use to veterinary hospitals and other animal medical facilities,0,HC-DA
+INDIANA,51220,0,Prescription drugs for animal use to hospitals and other animal medical facilities,0,HC-DA
+INDIANA,51240,0,Free samples of drugs for human use,0,HC-DH
+INDIANA,51250,0,Free samples of prescription drugs for human use,0,HC-DH
+INDIANA,51260,0,Free samples of drugs for animal use,0,HC-DA
+INDIANA,51270,0,Free samples of prescription drugs for animal use,0,HC-DA
+INDIANA,52010,1,Durable medical equipment without a prescription,0,HC-DME
+INDIANA,52020,0,Durable medical equipment with a prescription,0,HC-DME
+INDIANA,52030,0,Durable medical equipment paid for by Medicare,0,HC-DME
+INDIANA,52040,0,Durable medical equipment reimbursed by Medicare,0,HC-DME
+INDIANA,52050,0,Durable medical equipment paid for by Medicaid,0,HC-DME
+INDIANA,52060,0,Durable medical equipment reimbursed by Medicaid,0,HC-DME
+INDIANA,52070,1,Durable medical equipment for home use without a prescription,0,HC-DME
+INDIANA,52080,0,Durable medical equipment for home use with a prescription,0,HC-DME
+INDIANA,52090,0,Durable medical equipment for home use paid for by Medicare,0,HC-DME
+INDIANA,52100,0,Durable medical equipment for home use reimbursed by Medicare,0,HC-DME
+INDIANA,52110,0,Durable medical equipment for home use paid for by Medicaid,0,HC-DME
+INDIANA,52120,0,Durable medical equipment for home use reimbursed by Medicaid,0,HC-DME
+INDIANA,52130,1,Oxygen delivery equipment without a prescription,0,HC-DME
+INDIANA,52140,0,Oxygen delivery equipment with a prescription,0,HC-DME
+INDIANA,52150,0,Oxygen delivery equipment paid for by Medicare,0,HC-DME
+INDIANA,52160,0,Oxygen delivery equipment reimbursed by Medicare,0,HC-DME
+INDIANA,52170,0,Oxygen delivery equipment paid for by Medicaid,0,HC-DME
+INDIANA,52180,0,Oxygen delivery equipment reimbursed by Medicaid,0,HC-DME
+INDIANA,52190,1,Oxygen delivery equipment for home use without a prescription,0,HC-DME
+INDIANA,52200,0,Oxygen delivery equipment for home use with a prescription,0,HC-DME
+INDIANA,52210,0,Oxygen delivery equipment for home use paid for by Medicare,0,HC-DME
+INDIANA,52220,0,Oxygen delivery equipment for home use reimbursed by Medicare,0,HC-DME
+INDIANA,52230,0,Oxygen delivery equipment for home use paid for by Medicaid,0,HC-DME
+INDIANA,52240,0,Oxygen delivery equipment for home use reimbursed by Medicaid,0,HC-DME
+INDIANA,52250,1,Kidney dialysis equipment without a prescription,0,HC-DME
+INDIANA,52260,0,Kidney dialysis equipment with a prescription,0,HC-DME
+INDIANA,52270,0,Kidney dialysis equipment paid for by Medicare,0,HC-DME
+INDIANA,52280,0,Kidney dialysis equipment reimbursed by Medicare,0,HC-DME
+INDIANA,52290,0,Kidney dialysis equipment paid for by Medicaid,0,HC-DME
+INDIANA,52300,0,Kidney dialysis equipment reimbursed by Medicaid,0,HC-DME
+INDIANA,52310,1,Kidney dialysis equipment for home use without a prescription,0,HC-DME
+INDIANA,52320,0,Kidney dialysis equipment for home use with a prescription,0,HC-DME
+INDIANA,52330,0,Kidney dialysis equipment for home use paid for by Medicare,0,HC-DME
+INDIANA,52340,0,Kidney dialysis equipment for home use reimbursed by Medicare,0,HC-DME
+INDIANA,52350,0,Kidney dialysis equipment for home use paid for by Medicaid,0,HC-DME
+INDIANA,52360,0,Kidney dialysis equipment for home use reimbursed by Medicaid,0,HC-DME
+INDIANA,52370,1,Enteral feeding systems without a prescription,0,HC-DME
+INDIANA,52380,0,Enteral feeding systems with a prescription,0,HC-DME
+INDIANA,52390,0,Enteral feeding systems paid for by Medicare,0,HC-DME
+INDIANA,52400,0,Enteral feeding systems reimbursed by Medicare,0,HC-DME
+INDIANA,52410,0,Enteral feeding systems paid for by Medicaid,0,HC-DME
+INDIANA,52420,0,Enteral feeding systems reimbursed by Medicaid,0,HC-DME
+INDIANA,52430,1,Enteral feeding systems for home use without a prescription,0,HC-DME
+INDIANA,52440,0,Enteral feeding systems for home use with a prescription,0,HC-DME
+INDIANA,52450,0,Enteral feeding systems for home use paid for by Medicare,0,HC-DME
+INDIANA,52460,0,Enteral feeding systems for home use reimbursed by Medicare,0,HC-DME
+INDIANA,52470,0,Enteral feeding systems for home use paid for by Medicaid,0,HC-DME
+INDIANA,52480,0,Enteral feeding systems for home use reimbursed by Medicaid,0,HC-DME
+INDIANA,52490,0,Repair and replacement parts for durable medical equipment which are for single patient use,0,HC-DME
+INDIANA,52500,1,"Breast pump, not for home use, without a prescription",0,HC
+INDIANA,52501,1,"Breast pump, not for home use, with a prescription",0,HC
+INDIANA,52502,1,Breast pump not for home use with a prescription paid by Medicare,0,HC
+INDIANA,52503,1,Breast pump not for home use with a prescription reimbursed by Medicare,0,HC
+INDIANA,52504,1,"Breast pump, not for home use, with a prescription paid by Medicare",0,HC
+INDIANA,52505,1,"Breast pump, not for home use, with a prescription reimbursed by Medicare",0,HC
+INDIANA,52506,1,Breast pump for home use without a prescription,0,HC
+INDIANA,52507,1,Breast pump for home use with a prescription,0,HC
+INDIANA,52508,1,Breast pump for home use with a prescription paid for by Medicare,0,HC
+INDIANA,52509,1,Breast pump for home use with a prescription reimbursed by Medicare,0,HC
+INDIANA,52510,1,Breast pump for home use with a prescription paid for by Medicaid,0,HC
+INDIANA,52511,1,"Breast pump for home use, with a prescription reimbursed by Medicaid",0,HC
+INDIANA,52512,1,Repair and replacement parts for breast pump which are for single patient use,0,HC
+INDIANA,52515,1,"Breast pump collection and storage supplies, not for home use, without a prescription",0,HC
+INDIANA,52516,1,"	Breast pump collection and storage supplies, not for home use, with a prescription",0,HC
+INDIANA,52517,1,"Breast pump collection and storage supplies, not for home use, with a prescription paid for by Medicare",0,HC
+INDIANA,52518,1,"Breast pump collection and storage supplies, not for home use, with a prescription reimbursed by Medicare",0,HC
+INDIANA,52519,1,"Breast pump collection and storage supplies, not for home use, with a prescription paid for by Medicaid",0,HC
+INDIANA,52520,1,"Breast pump collection and storage supplies, not for home use, with a prescription reimbursed by Medicaid",0,HC
+INDIANA,52521,1,Breast pump collection and storage supplies for home use without a prescription,0,HC
+INDIANA,52522,1,"	Breast pump collection and storage supplies for home use with a prescription",0,HC
+INDIANA,52523,1,Breast pump collection and storage supplies for home use with a prescription paid for by Medicare,0,HC
+INDIANA,52524,1,Breast pump collection and storage supplies for home use with a prescription reimbursed by Medicare,0,HC
+INDIANA,52525,1,Breast pump collection and storage supplies for home use with a prescription paid for by Medicaid,0,HC
+INDIANA,52526,1,Breast pump collection and storage supplies for home use with a prescription reimbursed by Medicaid,0,HC
+INDIANA,52530,1,"Breast pump kit, not for home use, without a prescription",0,HC
+INDIANA,52531,1,"Breast pump kit, not for home use, with a prescription",0,HC
+INDIANA,52532,1,"Breast pump kit, not for home use, with a prescription paid for by Medicare",0,HC
+INDIANA,52534,1,"Breast pump kit, not for home use, with a prescription reimbursed by Medicare",0,HC
+INDIANA,52535,1,"Breast pump kit, not for home use, with a prescription paid for by Medicaid",0,HC
+INDIANA,52536,1,"Breast pump kit, not for home use, with a prescription reimbursed by Medicaid",0,HC
+INDIANA,52537,1,Breast pump kit for home use without a prescription,0,HC
+INDIANA,52538,1,Breast pump kit for home use with a prescription,0,HC
+INDIANA,52539,1,Breast pump kit for home use with a prescription paid for by Medicare,0,HC
+INDIANA,52540,1,Breast pump kit for home use with a prescription reimbursed by Medicare,0,HC
+INDIANA,52541,1,Breast pump kit for home use with a prescription paid for by Medicaid,0,HC
+INDIANA,52542,1,Breast pump kit for home use with a prescription reimbursed by Medicaid,0,HC
+INDIANA,52543,1,Repair and replacement parts for breast pump kit which are for single patient use,0,HC
+INDIANA,53010,1,Mobility enhancing equipment without a prescription,0,HC-MOB
+INDIANA,53020,0,Mobility enhancing equipment with a prescription,0,HC-MOB
+INDIANA,53030,0,Mobility enhancing equipment paid for by Medicare,0,HC-MOB
+INDIANA,53040,0,Mobility enhancing equipment with a prescription reimbursed by Medicare,0,HC-MOB
+INDIANA,53050,0,Mobility enhancing equipment paid for by Medicaid,0,HC-MOB
+INDIANA,53060,0,Mobility enhancing equipment with a prescription reimbursed by Medicaid,0,HC-MOB
+INDIANA,54010,1,Prosthetic devices without a prescription,0,HC-PROS
+INDIANA,54020,0,Prosthetic devices with a prescription ,0,HC-PROS
+INDIANA,54030,0,Prosthetic devices paid for by Medicare,0,HC-PROS
+INDIANA,54040,0,Prosthetic devices reimbursed by Medicare,0,HC-PROS
+INDIANA,54050,0,Prosthetic devices paid for by Medicaid,0,HC-PROS
+INDIANA,54060,0,Prosthetic devices reimbursed by Medicaid,0,HC-PROS
+INDIANA,54070,1,Corrective eyeglasses without a prescription,0,HC-PROS
+INDIANA,54080,0,Corrective eyeglasses with a prescription,0,HC-PROS
+INDIANA,54090,0,Corrective eyeglasses paid for by Medicare,0,HC-PROS
+INDIANA,54100,0,Corrective eyeglasses reimbursed by Medicare,0,HC-PROS
+INDIANA,54110,0,Corrective eyeglasses paid for by Medicaid,0,HC-PROS
+INDIANA,54120,0,Corrective eyeglasses reimbursed by Medicaid,0,HC-PROS
+INDIANA,54130,1,Contact lenses without a prescription,0,HC-PROS
+INDIANA,54140,0,Contact lenses with a prescription,0,HC-PROS
+INDIANA,54150,0,Contact lenses paid for by Medicare,0,HC-PROS
+INDIANA,54160,0,Contact lenses reimbursed by Medicare,0,HC-PROS
+INDIANA,54170,0,Contact lenses paid for by Medicaid,0,HC-PROS
+INDIANA,54180,0,Contact lenses reimbursed by Medicaid,0,HC-PROS
+INDIANA,54190,1,Hearing aids without a prescription,0,HC-PROS
+INDIANA,54200,0,Hearing aids with a prescription,0,HC-PROS
+INDIANA,54210,0,Hearing aids paid for by Medicare,0,HC-PROS
+INDIANA,54220,0,Hearing aids reimbursed by Medicare,0,HC-PROS
+INDIANA,54230,0,Hearing aids paid for by Medicaid,0,HC-PROS
+INDIANA,54240,0,Hearing aids reimbursed by Medicaid,0,HC-PROS
+INDIANA,54250,1,Dental prosthesis without a prescription,0,HC-PROS
+INDIANA,54260,0,Dental prosthesis with a prescription,0,HC-PROS
+INDIANA,54270,0,Dental prosthesis paid for by Medicare,0,HC-PROS
+INDIANA,54280,0,Dental prosthesis reimbursed by Medicare,0,HC-PROS
+INDIANA,54290,0,Dental prosthesis paid for by Medicaid,0,HC-PROS
+INDIANA,54300,0,Dental prosthesis reimbursed by Medicaid,0,HC-PROS
+INDIANA,60010,0,Ancillary services,0,TELE-PROD
+INDIANA,60020,0,Conference bridging services,0,TELE-PROD
+INDIANA,60030,0,Detailed telecommunications billing service,0,TELE-PROD
+INDIANA,60040,0,Directory assistance,0,TELE-PROD
+INDIANA,60050,0,Vertical service,0,TELE-PROD
+INDIANA,60060,0,Voice mail service,0,TELE-PROD
+INDIANA,61000,1,Intrastate Telecommunications Service,0,TELECOMM
+INDIANA,61010,0,Interstate Telecommunications Service,0,TELECOMM
+INDIANA,61020,0,International Telecommunications Service,0,TELECOMM
+INDIANA,61030,0,International 800 service,0,TELECOMM
+INDIANA,61040,0,International 900 service,0,TELECOMM
+INDIANA,61050,0,International fixed wireless service,0,TELECOMM
+INDIANA,61060,0,International mobile wireless service,0,TELECOMM
+INDIANA,61070,1,International paging service,0,TELECOMM
+INDIANA,61080,1,International prepaid calling service,0,TELECOMM
+INDIANA,61090,1,International prepaid wireless calling service,0,TELECOMM
+INDIANA,61100,0,International private communications service,0,TELECOMM
+INDIANA,61110,0,International value-added non-voice data service,0,TELECOMM
+INDIANA,61120,0,International residential telecommunications service,0,TELECOMM
+INDIANA,61130,0,Interstate 800 service,0,TELECOMM
+INDIANA,61140,0,Interstate 900 service,0,TELECOMM
+INDIANA,61150,0,Interstate fixed wireless service,0,TELECOMM
+INDIANA,61160,0,Interstate mobile wireless service,0,TELECOMM
+INDIANA,61170,1,Interstate paging service,0,TELECOMM
+INDIANA,61180,1,Interstate prepaid calling service,0,TELECOMM
+INDIANA,61190,1,Interstate prepaid wireless calling service,0,TELECOMM
+INDIANA,61200,0,Interstate private communications service,0,TELECOMM
+INDIANA,61210,0,Interstate value-added non-voice data service,0,TELECOMM
+INDIANA,61220,0,Interstate residential telecommunications service,0,TELECOMM
+INDIANA,61230,1,Intrastate 800 service,0,TELECOMM
+INDIANA,61240,1,Intrastate 900 service,0,TELECOMM
+INDIANA,61250,1,Intrastate fixed wireless service,0,TELECOMM
+INDIANA,61260,1,Intrastate mobile wireless service,0,TELECOMM
+INDIANA,61270,1,Intrastate paging service,0,TELECOMM
+INDIANA,61280,1,Intrastate prepaid calling service,0,TELECOMM
+INDIANA,61290,1,Intrastate prepaid wireless calling service,0,TELECOMM
+INDIANA,61300,1,Intrastate private communications service,0,TELECOMM
+INDIANA,61310,0,Intrastate value-added non-voice data service,0,TELECOMM
+INDIANA,61320,1,Intrastate residential telecommunications service,0,TELECOMM
+INDIANA,61325,1,Paging service,0,TELECOMM
+INDIANA,61330,1,Coin-operated telephone service,0,TELECOMM
+INDIANA,61340,1,Pay telephone service,0,TELECOMM
+INDIANA,61350,1,Local service as defined by Indiana,0,TELECOMM
+INDIANA,99999,1,Taxable Goods,0,DEFAULT
+INDIANA,APP,NULL,Clothing and Related Products,,
+INDIANA,COMP,NULL,Computers and Related Products,,
+INDIANA,DC,NULL,Delivery/Postage Charges,,
+INDIANA,DCDD,NULL,Delivery charges for direct mail,,
+INDIANA,DEFAULT,NULL,Default,,
+INDIANA,DIG,NULL,"Digital Products (excludes telecommunications, ancillary services, and computer software)",,
+INDIANA,FOOD,NULL,Food and Food Products,, 
+INDIANA,HC,NULL,Health-Care Products,,
+INDIANA,HC-D,NULL,Drugs,,
+INDIANA,HC-DA,NULL,Drugs for Animal Use,,HC-D
+INDIANA,HC-DH,NULL,Drugs for Human Use,,HC-D
+INDIANA,HC-DME,NULL,Durable Medical Equipment (DME),,
+INDIANA,HC-MOB,NULL,Mobility Enhancing Equipment,,
+INDIANA,HC-PROS,NULL,Prosthetic Devices,,
+INDIANA,PREPFOOD,NULL,Prepared food options,,
+INDIANA,SP,NULL,Sales Price / Sales Tax Holiday,,
+INDIANA,TELE-PROD,NULL,Telecommunications and Related Products,,
+INDIANA,TELECOMM,NULL,Telecommunications,,
