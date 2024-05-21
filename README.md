@@ -134,7 +134,7 @@ Total cost: `1,514,397.7612872116` / `1,000,000` \* `0.13` = `$0.196871709` (abo
 
 ## AWS Costs
 
-The total AWS cost for the day was `$1.09`. The majority of the cost was due to the RDS instance, which cost `$0.94`.
+The total AWS cost for the day was `$1.09`. The majority of the cost was due to the RDS instance, which was `$0.94`.
 
 ![aws cost](aws_cost.png)
 
