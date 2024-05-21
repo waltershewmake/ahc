@@ -11,7 +11,7 @@ This file is part of the Arbitrary Hierarchical Classification Application devel
 
 # FastAPI Classifier on AWS with PostgreSQL
 
-[Setup](#setup) | [Prerequisites](#prerequisites) | [Steps](#steps) | [Parsing Hierarchical Data](#parsing-hierarchical-data) | [Profiling Results](#profiling-results) | [Accuracy](#accuracy)
+[Setup](#setup) | [Prerequisites](#prerequisites) | [Steps](#steps) | [Parsing Hierarchical Data](#parsing-hierarchical-data) | [Profiling Results](#profiling-results) | [Accuracy](#accuracy) | [Cost Analysis](#cost-analysis) | [Conclusion](#conclusion)
 
 # Setup
 
