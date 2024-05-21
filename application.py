@@ -32,3 +32,10 @@ def index() -> str:
     """Health check endpoint."""
 
     return "pong!"
+
+
+@app.get("/")
+def health_check() -> str:
+    """Health check endpoint."""
+
+    return "Healthy!"
