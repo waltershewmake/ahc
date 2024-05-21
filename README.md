@@ -87,6 +87,10 @@ The classifier expects a uniform data format in order to provide accurate predic
 ![request statistics 1](request_statistics_1.png)
 ![request statistics 2](request_statistics_2.png)
 
+### Proof of RPS > 10 per worker
+
+![peak rps per worker](peak_rps_per_worker.png)
+
 ### Observations
 
 After increasing the number of users from 20 to 21, the RPS began to drop off, likely due to the classifier reaching the OpenAI tier 1 limit. The CPU usage on the EB instances remained low, so the bottleneck is likely OpenAI. The RDS instance was able to handle the load without issue, so the next step would be to upgrade the OpenAI plan to increase the RPS limit, and then continue to increase the number of users until the CPU usage maxes out on the EB instances or the RDS instance.
@@ -115,3 +119,55 @@ A histogram that shows (in blue) the distribution of the cosine distances betwee
 
 ![chart 2 log scale](chart_2_log.png)
 ![chart 2 linear scale](chart_2_linear.png)
+
+# Cost Analysis
+
+## OpenAI Costs
+
+`10,778` requests were made, putting the total cost from openAI at about `$0.20`. This cannot be calculated exactly since we don't know the token amount, but I performed the following calculation to get a good estimate:
+
+`5,536,446` tokens used for the day / `39,403` requests made for the day \* `10,778` requests in the test = `1,514,397.7612872116` tokens used in the test
+
+`text-embedding-3-large` price: `$0.13/million tokens`
+
+Total cost: `1,514,397.7612872116` / `1,000,000` \* `0.13` = `$0.196871709` (about `$0.20`)
+
+## AWS Costs
+
+The total AWS cost for the day was `$1.09`. The majority of the cost was due to the RDS instance, which cost `$0.94`.
+
+![alt text](image.png)
+
+## Total Cost
+
+The total cost for the day was `$1.29`, putting the cost per request at about `$0.0001196883`, which is an overestimate since the classifier was only used for a fraction of the day, but we included the AWS costs for the entire day.
+
+# Conclusion
+
+Initial product requirements:
+
+## Database
+
+- [x] All hierarchies shall be stored identically in a Postgres database
+- [x] Relevant database hierarchies shall be retrieved from the database at the time of request, adhering to the principles of minimal retrieval
+
+## Application
+
+- [x] API shall be a FastAPI
+- [x] API shall be either REST or GraphQL
+- [x] Accepts item information similar to the `ClassificationCalculateInput` schema here, with an added field (enum) specifying the classification hierarchy (i.e. UNSPSC, US_ECCN, etc):
+      https://zonos.com/developer/types/ClassificationCalculateInput
+
+### Returns
+
+- [x] The top 5 most likely classifications and their corresponding probabilities
+- [x] P95 response times shall be < 1 sec
+- [x] Concurrency per worker shall be > 10 simultaneous requests
+- [x] Cost per request shall be < $0.01
+
+## Hierarchies
+
+- [x] US Product Tax Codes (US_PTC)
+- [x] US Export Control Classification Numbers (US_ECCN)
+- [x] UN Commodity Codes (UN_SPSC)
+- [x] EU DUal Use Codes (EU_ECCN)
