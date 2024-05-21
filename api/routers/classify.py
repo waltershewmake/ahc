@@ -47,7 +47,7 @@ async def classify(body: ClassifyInput, db: Session):
 
     start_time = time.time()
 
-    classifications = classify_fn(db, item, config)
+    classifications = await classify_fn(db, item, config)
 
     end_time = time.time()
 

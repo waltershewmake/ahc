@@ -23,6 +23,7 @@ embeddings = OpenAIEmbeddings(model=models[WHICH_MODEL])
 
 def vectorize(text: str) -> list[float]:
     """Vectorize a text string"""
+
     return embeddings.embed_query(text)
 
 
@@ -30,3 +31,9 @@ def bulk_vectorize(texts: list[str]) -> list[list[float]]:
     """Vectorize a list of text strings"""
 
     return embeddings.embed_documents(texts)
+
+
+async def vectorize_async(text: str) -> list[float]:
+    """Vectorize a text string"""
+
+    return await embeddings.aembed_query(text)

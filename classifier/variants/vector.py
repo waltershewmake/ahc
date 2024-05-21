@@ -11,7 +11,7 @@ This module is part of the Arbitrary Hierarchical Classification Application dev
 
 from api.dependencies import Session
 from api.schemas import Classification, Config, Item
-from classifier.pipelines.openai_embeddings import vectorize
+from classifier.pipelines.openai_embeddings import vectorize_async
 from db.services.hs_code_vector_service import get_nearest_neighbors
 
 
@@ -35,14 +35,14 @@ def item_to_text(item):
     return s
 
 
-def classify(
+async def classify(
     db: Session,
     item: Item,
     config: Config,
 ):
     """Vectorize an item and find the N most similar items"""
 
-    vector = vectorize(item_to_text(item))
+    vector = await vectorize_async(item_to_text(item))
 
     top_n = get_nearest_neighbors(
         db=db, hierarchy=config.hierarchy, vector=vector, n=5
