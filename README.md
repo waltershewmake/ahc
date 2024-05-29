@@ -43,6 +43,8 @@ This guide outlines the steps required to set up an AWS environment to run the F
 
 # Parsing Hierarchical Data
 
+## Setup environment
+
 The classifier expects a uniform data format in order to provide accurate predictions. There is no mechanism for automatically inserting files into the database on deployment, so you'll need to connect to the remote database from your local machine. The following steps outline how to parse hierarchical data into a format suitable for the classifier:
 
 1. Create a `.env` file in the root directory of the project and add the following environment variables:
@@ -60,11 +62,76 @@ The classifier expects a uniform data format in order to provide accurate predic
    source venv/bin/activate
    pip install -r requirements.txt
    ```
-3. Note the hierarchy type and file structure, and determine if one of the existing transformers can be used (see `file_parser/transformers`). If it can, prefix the file name with the hierarchy in all caps, for example, UN_SPSC_1.csv" If there is no existing transformer capable of parsing the file, create a new transformer class that inherits from `BaseTransformer` and implements the `parse` method. The BaseTransformer class was created with flexibility and future expansion in mind, so it should be easy to extend. The transformer should be placed in the `file_parser/transformers` directory.
-4. Run the file parser using the following command:
+
+## Parsing a file
+
+1. Note the hierarchy type and file structure, and determine if one of the existing transformers can be used (see `file_parser/transformers`).
+2. If it can, prefix the file name with the hierarchy in all caps, for example, "**UN_SPSC**\_1.csv" If there is no existing transformer capable of parsing the file, you'll need to [create a transformer](#create-a-transformer).
+3. Run the file parser using the following command:
    ```bash
    python -m file_parser <file_path>
    ```
+
+## Create a transformer
+
+The BaseTransformer class was created with flexibility and future expansion in mind, so it should be easy to extend. To create a new transformer, follow these steps:
+
+1. Create a new file in `file_parser/transformers` named after your hierarchy.
+2. Create a new transformer class that inherits from `BaseTransformer`.
+3. Add the hierarchy and transformer names to the class attributes `__hierarchy__` and `__transformer__`.
+   - The `__hierarchy__` attribute is used to associate the transformer with one of the hierarchies defined in the database.
+   - The `__transformer__` attribute is used to identify the transformer in the file parser.
+4. Implement the `parse` method to read the file and transform the data into a list of dictionaries. There are three required fields:
+   - `name`: The unique identifier for the hierarchy item.
+   - `parent_name`: The unique identifier for the parent item.
+   - `desc`: A description of the item used for classification.
+5. Call the `try_import` method with the list of dictionaries to import the data into the database.
+6. Add your hierarchy to the `HierarchyType` enum in `api/schemas.py`.
+
+### Example Transformer
+
+```python
+# file_parser/transformers/YOUR_TRANSFORMER.py
+
+import csv
+from file_parser.base import BaseTransformer
+
+
+class YOUR_TRANSFORMER(BaseTransformer):
+   """
+   YOUR_TRANSFORMER Transformer
+
+   part_id -> name
+   parent_id -> parent_name
+   eccn_desc -> desc
+   """
+
+   __hierarchy__ = "YOUR_HIERARCHY"
+   __transformer__ = "YOUR_TRANSFORMER"
+
+   def parse(self):
+      """Parse a file"""
+      if not super().parse():
+            return
+
+      rows = []
+      with open(self.file_path, "r", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            for row in reader:
+               parsed_row = {
+                  "name": row.get("part_id").strip(),
+                  "parent_name": row.get("parent_id").strip(),
+                  "desc": row.get("eccn_desc"),
+               }
+               rows.append(parsed_row)
+
+      if not rows:
+            print("No rows to import")
+            return
+
+      # Import the data
+      self.try_import(rows)
+```
 
 # Profiling Results
 
@@ -171,3 +238,7 @@ Initial product requirements:
 - [x] US Export Control Classification Numbers (US_ECCN)
 - [x] UN Commodity Codes (UN_SPSC)
 - [x] EU DUal Use Codes (EU_ECCN)
+
+```
+
+```
