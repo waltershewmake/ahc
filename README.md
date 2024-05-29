@@ -168,15 +168,14 @@ After increasing the number of users from 20 to 21, the RPS began to drop off, l
 
 ## Description
 
-A histogram representing 6000 demo items randomly sampled from a Taxonomy dataset that shows (in blue) the distribution of the cosine distances between the correct leaf node (`y`) in the hierarchy and the leaf node identified by the classifier (`y^`), and (in orange) the distribution of the cosine distances between the correct leaf node (`y`) and the randomly selected leaf node (`y_rand`). 6000 classifications were made in total, and 6000 random leaf nodes were selected.
+A histogram representing 6000 demo items randomly sampled from a Taxonomy dataset that shows (in blue) the distribution of the cosine distances between the correct leaf node (`y`) in the hierarchy and the leaf node identified by the classifier (`ŷ`), and (in orange) the distribution of the cosine distances between the correct leaf node (`y`) and the randomly selected leaf node (`ŷ_rand`). 6000 classifications were made in total, and 6000 random leaf nodes were selected.
 
 ![chart 1 log scale](chart_1_log.png)
-![chart 1 linear scale](chart_1_linear.png)
 
 ### Observations
 
-- The distribution of the cosine distances between `y` and `y^` is centered around `0`. This indicates that the classifier is able to identify the correct leaf node in the hierarchy with high accuracy.
-- The distribution of the cosine distances between `y` and `y_rand` is centered around `0.5`. This indicates that randomly selected leaf nodes are far from the correct leaf node in the hierarchy.
+- The median cosine distance between `y` and `ŷ` is ..., indicating that the classifier is able to identify the correct leaf node in the hierarchy with high accuracy.
+- The median cosine distance between `y` and `ŷ_rand` is ..., indicating that randomly selected leaf nodes are far from the correct leaf node in the hierarchy.
 
 ## Chart 2
 
@@ -185,7 +184,6 @@ A histogram representing 6000 demo items randomly sampled from a Taxonomy datase
 A histogram that shows (in blue) the distribution of the cosine distances between the correct leaf node (`y`) in the hierarchy and generated embedding of the input item (`v`).
 
 ![chart 2 log scale](chart_2_log.png)
-![chart 2 linear scale](chart_2_linear.png)
 
 # Cost Analysis
 
