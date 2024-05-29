@@ -236,7 +236,3 @@ Initial product requirements:
 - [x] US Export Control Classification Numbers (US_ECCN)
 - [x] UN Commodity Codes (UN_SPSC)
 - [x] EU DUal Use Codes (EU_ECCN)
-
-```
-
-```
