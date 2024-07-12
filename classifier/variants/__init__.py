@@ -10,5 +10,6 @@ This module is part of the Arbitrary Hierarchical Classification Application dev
 """
 
 from .vector import classify as vector
+from .combined import classify as combined
 
-__all__ = ["vector"]
+__all__ = ["vector", "combined"]
