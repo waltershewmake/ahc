@@ -6,3 +6,5 @@ openai
 pgvector
 transformers
 tensorflow
+tf-keras
+pydantic==2.7.4

@@ -37,7 +37,7 @@ def item_to_text(item):
     return s
 
 
-def classify(
+async def classify(
     db: Session,
     item: Item,
     config: Config,
