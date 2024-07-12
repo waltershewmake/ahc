@@ -5,3 +5,4 @@ langchain-openai
 openai
 pgvector
 transformers
+tensorflow
